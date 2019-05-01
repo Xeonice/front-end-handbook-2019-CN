@@ -3,13 +3,15 @@
 * 去年，React 发布了有一些值得注意的新特性，如 [lifecycle methods](https://reactjs.org/blog/2018/03/29/react-v-16-3.html#component-lifecycle-changes), [context API](https://reactjs.org/blog/2018/03/29/react-v-16-3.html#official-context-api), [suspense](https://reactjs.org/docs/react-api.html#reactsuspense), 与 [React hooks](https://reactjs.org/docs/hooks-intro.html).
 
 * [Microsoft 收购了 Github](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)，嗯，这确实是挺不可思议的。
+
 * 运用 CSS 设计字体[成为了现实](https://yusugomori.com/projects/css-sans/).
 * 我以前称之为前端驱动的应用程序被打上了 ["serverless"](https://thepowerofserverless.info/) 的标签. 不幸的是, 这个词被[滥用](https://www.jeremydaly.com/stop-calling-everything-serverless/)了。然而， [JAMstack](https://jamstack.org/) 这个词似乎引起了开发者们的[共鸣](https://jamstackconf.com/nyc/)。
 
-* Google offered some neat tools this year to help make webpages load faster, i.e.[squoosh](https://github.com/GoogleChromeLabs/squoosh/) and [quicklink](https://github.com/GoogleChromeLabs/quicklink).
-* [Vue gets](https://risingstars.js.org/2018/en/#section-framework) more [Github stars](https://hasvuepassedreactyet.surge.sh/) than React this year. But React remains dominant in [terms](https://2018.stateofjs.com/front-end-frameworks/overview/) of [use](https://www.npmjs.com/browse/depended).
-* A solution similar to React, without a virtual DOM or JSX, is introduced [RE:DOM](https://github.com/redom/redom).
-* Alternatives to NW.js and Electron show up, [DeskGap](https://deskgap.com/) and [Neutralino.js](https://neutralino.js.org/).
+* Google  提供了一些精巧的工具（[squoosh](https://github.com/GoogleChromeLabs/squoosh/) 和 [quicklink](https://github.com/GoogleChromeLabs/quicklink)），用以帮助优化页面加载速度，
+
+* [Vue 今年得到了](https://risingstars.js.org/2018/en/#section-framework)比 React 更多的 [Github stars](https://hasvuepassedreactyet.surge.sh/)，但是 React 在框架界的[统治地位](https://2018.stateofjs.com/front-end-frameworks/overview/)依旧[无人能敌](https://www.npmjs.com/browse/depended)。
+*  介绍一下 [RE:DOM](https://github.com/redom/redom)，一个类似于 React 的解决方案, 但是没有引入 virtual DOM 与 JSX。
+* NW.js 和 Electron 的替代品 -- [DeskGap](https://deskgap.com/) 和 [Neutralino.js](https://neutralino.js.org/) 出现了。
 * In 2017 the [great](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411) divide between a [front-end HTML & CSS developer](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06) v.s. [front-end application developer is realized/verbalized](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06). In 2018 that [divide has grown wider and deeper](https://css-tricks.com/the-great-divide/) and more [people](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/) start to [feel](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4) [the](http://bradfrost.com/blog/post/big-ol-ball-o-javascript/) [divide](https://justmarkup.com/log/2018/11/just-markup/).
 * This year, like most recent years, was stock full of app/framework solutions trying to contend with the mainstream JavaScript app tools \(i.e.[React, Angular, and Vue etc...](https://stateofjs.com/2017/front-end/results)\) Let me list them for you. [Radi.js](https://radi.js.org/), [DisplayJS](https://display.js.org/), [Stimulus](https://stimulusjs.org/), [Omi](https://github.com/Tencent/omi), [Quasar](https://quasar-framework.org/).
 * JavaScript frameworks start offering their own languages that compile to JavaScript \(e.g.[Mint](https://www.mint-lang.com/)\).
@@ -31,6 +33,8 @@
 * The [2018 Front-End Tooling survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) is worth reading if only to realize just how much jQuery is still used.
 * 不可否认，[TypeScript](https://www.typescriptlang.org/) 今年确实又增加了不少新用户.
 * [VScode](https://code.visualstudio.com/) 在代码编辑器中依然保有[统治地位](https://triplebyte.com/blog/editor-report-the-rise-of-visual-studio-code)。
+
+# 0.2 2019年，我们所期待的是……
 
 
 
