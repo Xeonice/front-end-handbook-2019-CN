@@ -1,32 +1,18 @@
-\#Front-End Developer Handbook 2019
+# 前端开发手册-2019
 
-\#\#\# Written by \[Cody Lindley\]\([http://codylindley.com/\](http://codylindley.com/\)\)
+作者：[Cody Lindley](http://codylindley.com)
 
-\_Sponsored by \[Frontend Masters\]\([https://frontendmasters.com/\](https://frontendmasters.com/\)\), advancing your skills with in-depth, modern front-end engineering courses\_
+[_Fronted Masters_](https://frontendmasters.com/)_ 为本文提供赞助，致力于通过有深度的现代前端开发工程课程提升你的个人能力_
 
-This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019.
+这是一篇任何人都能够用来了解前端开发实践的指导手册，它从广义层面上概括并论述了2019年前端工程实践中的以下几个问题：如何学习前端？学习过程中会用到哪些工具？
 
-It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and head hunters to gain insights into the practice of front-end development.
+书写本文的初衷在于，希望为目前即将/正在学习前端开发的开发者提供一份包含学习材料与开发工具的专业手册。其次是希望管理人员、CTO、讲师与猎头们可以通过这本手册来深入了解前端开发实践。
 
-The content of the handbook favors web technologies \(HTML, CSS, DOM, and JavaScript\) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem.
+The content of the handbook favors web technologies \(HTML, CSS, DOM, and JavaScript\) and those solutions that are directly built on top of these open technologies. The materials referenced and discussed in the book are either best in class or the current offering to a problem.（争议）
 
-The book should not be considered a comprehensive outline of all resources available to a front-end developer. The value of the book is tied up in a terse, focused, and timely curation of just enough categorical information so as not to overwhelm anyone on any one particular subject matter.
+手册的内容偏向web技术\(HTML、CSS、DOM和JavaScript\)与一部分构筑在这些开放技术之上的解决方案。书中所引用与讨论的材料要么是最优秀的课程（同类别中最好的？），要么是解决问题的最新材料。
 
-The intention is to release an update to the content yearly.
+该手册不应当被视为前端开发人员可用的所有资源的概述，它的核心价值在于将各类信息通过简明扼要，重点突出的方式进行梳理，以免大家被一些特定主题领域的海量信息所吞没。
 
----
-
-\*\*Read Online\*\*:
-
-* \[[https://frontendmasters.com/books/front-end-handbook/2019/\]\(https://frontendmasters.com/books/front-end-handbook/2019/\](https://frontendmasters.com/books/front-end-handbook/2019/]%28https://frontendmasters.com/books/front-end-handbook/2019/\)\)
-
-\*\*Download\*\*:
-
-* \[PDF\]\([https://github.com/FrontendMasters/front-end-handbook-2019/raw/master/exports/Front-end Developer Handbook 2019.pdf\](https://github.com/FrontendMasters/front-end-handbook-2019/raw/master/exports/Front-end Developer Handbook 2019.pdf\)\)
-
-* \[EPUB\]\([https://github.com/FrontendMasters/front-end-handbook-2019/raw/master/exports/Front-End Developer Handbook 2019.epub\](https://github.com/FrontendMasters/front-end-handbook-2019/raw/master/exports/Front-End Developer Handbook 2019.epub\)\)
-
----
-
-&lt;a rel="license" href="[http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;&lt;img](http://creativecommons.org/licenses/by-nc-nd/3.0/"><img) alt="Creative Commons License" style="border-width:0" src="[https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png](https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)" /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel="license" href="[http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;Creative](http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative) Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License&lt;/a&gt;.
+该手册每年都会对其内容进行定期更新。
 
