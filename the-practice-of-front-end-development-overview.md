@@ -97,9 +97,7 @@ The following core web technologies are employed by front-end developers \(consi
 6. JavaScript Object Notation \(aka JSON\)
 7. Document Object Model \(aka DOM\)
 8. Web APIs \(aka HTML5 and friends or Browser APIs\)
-9. Web Content Accessibility Guidelines \(aka WCAG\) 
-   &
-    Accessible Rich Internet Applications \(aka ARIA\)
+9. Web Content Accessibility Guidelines \(aka WCAG\) & Accessible Rich Internet Applications \(aka ARIA\)
 
 For a comprehensive list of all web related specifications have a look at[platform.html5.org](https://platform.html5.org/)or[MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API).
 
@@ -114,15 +112,13 @@ The nine technologies just mentioned are defined below along with a link to the 
 Most relevant specifications / documentation:
 
 * [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
-* [The elements of HTML](https://html.spec.whatwg.org/multipage)
-  from the Living Standard
+* [The elements of HTML](https://html.spec.whatwg.org/multipage) from the Living Standard
 * [Global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
 * [HTML 5.2 from W3C](https://www.w3.org/TR/2017/REC-html52-20171214/)
 * [HTML 5.3 from W3C](http://w3c.github.io/html/)
 * [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 * [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
-  from the Living Standard
+* [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
 
 #### Cascading Style Sheets \(aka CSS\) {#cascading-style-sheets-aka-css}
 
