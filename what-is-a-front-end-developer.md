@@ -12,9 +12,9 @@ description: 本章提供了前端开发和前端开发者规程的基本说明
 
 ![](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05110037/Front-end-dev1.png)
 
-> _图片来源：[_https://www.upwork.com/hiring/development/front-end-developer/_](https://www.upwork.com/hiring/development/front-end-developer/)_
+> _图片来源：_[https://www.upwork.com/hiring/development/front-end-developer/](https://www.upwork.com/hiring/development/front-end-developer/)
 
-## **前端开发者** <a id="html-css--javascript"></a>
+## **前端开发者**  <a id="html-css--javascript"></a>
 
 前端开发者使用Web技术（即 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)，[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 和 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)）来开发网站与 Web 应用，这些技术通常在[开放 Web 平台](https://en.wikipedia.org/wiki/Open_Web_Platform)上运行，或者充当非 Web 平台环境（即 [React Native](https://facebook.github.io/react-native/)）的编译输入端。
 
