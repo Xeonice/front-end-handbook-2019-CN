@@ -8,62 +8,52 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 时至今日，我们依旧不能通过大学课堂得到一份前端开发工程师的学位，而且我很少听说有前端开发者在拿到计算机科学学位/视觉设计学位后就能立刻编写出专业的 HTML、CSS、JavaScript 代码。据我所见，今天的大部分前端从业者似乎都是自学成才的，或者从计算机科学领域/视觉设计领域转入前端领域的。
 
-![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://github.com/kamranahmedse/developer-roadmap](.gitbook/assets/frontend.png)
+![图片来源：https://github.com/kamranahmedse/developer-roadmap](.gitbook/assets/frontend.png)
 
-If you were to set out today to become a front-end developer I would loosely strive to follow the process outlined below \(Chapter 3 and Chapter 4 will dive into more details on learning resources\).如果你希望从今天开始前端之旅，希望你能够大致遵循下面列出的具体流程（第 3 章和第 4 章将深入展开每项，并介绍更多相关学习资源）。
+如果你希望从今天开始前端之旅，希望你能够大致遵循下面列出的学习流程（第 3 章和第 4 章将深入展开每项，并介绍更多相关学习资源）。
 
-1. 大致了解 Web 平台的工作原理，确保你能理解[HTML, CSS, DOM, JavaScript, 域名, DNS, URLs, HTTP, 浏览器, and servers/hosting](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web). Don't dive deep on anything just yet, just aim to understand the parts at play and how they loosely fit together. Start by building simple web pages.
-2. [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-3. [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-4. [Learn JavaScript](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL)
-5. Learn DOM
-6. Learn the fundamentals of user interface design \(i.e. UI patterns, interaction design, user experience design, and usability\).
-7. Learn CLI/command line
-8. Learn the practice of software engineering \(i.e., Application design/architecture, templates, Git, testing, monitoring, automating, code quality, development methodologies\).
-9. Get opinionated and customize your tool box with whatever makes sense to your brain \(e.g. Webpack, React, and Mobx\).
-10. Learn Node.js
+1. 大致了解 Web 平台的工作原理，确保你能理解 [HTML, CSS, DOM, JavaScript, 域名, DNS, URLs, HTTP, 浏览器, 以及服务器/托管](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web)的基本概念，先不要对其进行深入研究，只需要了解每个部分如何运转，以及它们是如何被组合到一起的，从构建简单的 Web 页面开始。
+2. [学习 HTML](https://developer.mozilla.org/zh-CN/docs/learn/HTML)
+3. [学习 CSS](https://developer.mozilla.org/zh-CN/docs/Learn/CSS)
+4. [学习 JavaScript](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL)
+5. 学习 DOM
+6. 学习用户界面设计的基本原理（如 UI 元件、交互设计、用户体验设计与可用性）
+7. 学习 CLI/命令行工具
+8. 学习软件工程的相关实践（例如：应用程序设计/架构、模板、Git、测试、监控、自动化、代码质量、开发方法）
+9. 根据你的个人喜好自行定制你的工具箱（例如 Webpack，React 和 Mobx）
+10. 学习 Node.js
 
-A short word of advice on learning.[Learn the actual underlying technologies, before learning abstractions.](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL)Don't learn jQuery, learn the DOM. Don't learn SASS, learn CSS. Don't learn JSX, learn HTML. Don't learn TypeScript, learn JavaScript. Don't learn Handlebars, learn JavaScript ES6 templates. Don't just use Bootstrap, learn UI patterns.
+一个关于学习的小建议：[在学习抽象前，先学习底层技术](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL)。
 
-Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have emerged. These avenues of becoming a front-end developer are typically teacher directed courses, that follow a more traditional style of learning, from an official instructor \(i.e., syllabus, test, quizzes, projects, team projects, grades, etc.\).
+比如说：先学习 DOM，再学习 jQuery， 先学习 CSS，再学习 SASS，先学习 HTML，再学习 JSX，先学习 JavaScript，再学习 TypeScript，先学习 JavaScript ES6 模版，再学习 HandleBars，先学习 UI 元件，再学习 BootStrap。
 
-Keep in mind, if you are considering an expensive training program, this is the web! Everything you need to learn is on the web for the taking, costing little to nothing. However, if you need someone to tell you how to take and learn what is low cost to free, and hold you accountable for learning it, you should consider a traditional instructor lead class room setting. Otherwise, I am not aware of any other profession that is practically free for the taking with an internet connection, a[couple of dollars a month for screencasting memberships](https://frontendmasters.com/join/), and a burning desire for knowledge.
+最近出现了许多未经认证的，学费高昂的前端代码训练营/培训机构，他们所提供的成为前端开发人员的途径通常是教师指导的课程，与正规讲师所提供的更传统的学习方式（即课程大纲，考试，测验，项目，团队项目，成绩等）。
 
-For example, if you want to get going today, consuming one or more of the following self-directed resources below can work:
+记住，如果你正在考虑昂贵的培训计划，那就通过网络的形式学习吧！所有需要学习的内容都可以从网络上获取，成本极低甚至为零。但是，如果你需要有人告诉你如何以低成本获取学习资源，并时刻督促你学习的话，你应该考虑传统的由讲师主导的课程。除此之外，我想不到有其他任何一种职业能通过互联网以近乎免费的方式进行学习的，只需[每月 20 美元的会员](https://frontendmasters.com/join/)，以及强烈的求知欲。
 
-* [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+举个例子，如果你想从今天开始学习之旅，下面这些课程都可以用于自学：
 
-  \[read\]
+* [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) \[文章\]
 
-* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI)
+* [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[视频\]
 
-  \[watch\]
+* [Frontend Masters Learning Path](https://frontendmasters.com/learn) \[视频\]\[$\]
 
-* [Frontend Masters Learning Paths](https://frontendmasters.com/learn)
+* [Introduction to Web Development](https://frontendmasters.com/courses/web-development-v2/) \[视频\]\[$\]
 
-  \[watch\]\[$\]
+* [Treehouse Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development-2) \[视频\]\[$\]
 
-* [Introduction to Web Development](https://frontendmasters.com/courses/web-development-v2/)
+* [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) \[视频\]\[$\]
 
-  \[watch\]\[$\]
+* [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) \[视频\]\[$\]
 
-* [Treehouse Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development-2)
+* [freeCodeCamp](https://learn.freecodecamp.org/) \[互动形式\]
 
-  \[watch\]\[$\]
+一开始，你应该恐惧大多数将复杂性隐藏起来的事物，抽象（如：jQuery）在低级开发者的手中依旧能展现出一些进阶技巧，同时一直隐藏着这样一个事实：开发人员对底层概念的理解不够深入。
 
-* [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+假设在这个过程中，您不仅要学习，还要进行相应的实践与工具调研，有些人建议仅通过实践的方式去学习，还有些人建议仅学习如何实践，而我建议你根据自身情况去寻找两者间的平衡点。但是，这两者间一定是相辅相成的，因此，不要只是学习纸面知识，实践是必要的。理论 - 实践 - 理论 - 实践，事物的快速更迭需要我们不断重复这个流程，这也就是为什么“学习底层知识，而非学习抽象知识”如此重要。
 
-  \[watch\]\[$\]
+# 2.2 前端开发相关职位
 
-* [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer)
 
-  \[watch\]\[$\]
-
-* [freeCodeCamp](https://learn.freecodecamp.org/)
-
-  \[interactive\]\[watch\]
-
-When getting your start, you should fear most things that conceal complexity. Abstractions \(e.g. jQuery\) in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
-
-It is assumed that on this journey you are not only learning, but also doing as you learn and investigate tools. Some suggest only doing to learn. While others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast. This is why learning the fundamentals, and not abstractions, are so important.
 
