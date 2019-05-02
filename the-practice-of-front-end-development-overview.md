@@ -6,7 +6,9 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 初学者如何成为前端开发工程师？嗯，这很复杂，先来看看这张线路图：
 
-![图片来源：https://github.com/kamranahmedse/developer-roadmap](.gitbook/assets/frontend.png)时至今日，我们依旧不能通过大学课堂得到一份前端开发工程师的学位，而且我很少听说有前端开发者在拿到计算机科学学位/视觉设计学位后就能立刻编写出专业的 HTML、CSS、JavaScript 代码。据我所见，今天的大部分前端从业者似乎都是自学成才的，或者从计算机科学领域/视觉设计领域转入前端领域的。
+时至今日，我们依旧不能通过大学课堂得到一份前端开发工程师的学位，而且我很少听说有前端开发者在拿到计算机科学学位/视觉设计学位后就能立刻编写出专业的 HTML、CSS、JavaScript 代码。据我所见，今天的大部分前端从业者似乎都是自学成才的，或者从计算机科学领域/视觉设计领域转入前端领域的。
+
+![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://github.com/kamranahmedse/developer-roadmap](.gitbook/assets/frontend.png)
 
 If you were to set out today to become a front-end developer I would loosely strive to follow the process outlined below \(Chapter 3 and Chapter 4 will dive into more details on learning resources\).如果你希望从今天开始前端之旅，希望你能够大致遵循下面列出的具体流程（第 3 章和第 4 章将深入展开每项，并介绍更多相关学习资源）。
 
@@ -30,26 +32,38 @@ Keep in mind, if you are considering an expensive training program, this is the 
 For example, if you want to get going today, consuming one or more of the following self-directed resources below can work:
 
 * [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+
   \[read\]
+
 * [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI)
+
   \[watch\]
+
 * [Frontend Masters Learning Paths](https://frontendmasters.com/learn)
+
   \[watch\]\[$\]
+
 * [Introduction to Web Development](https://frontendmasters.com/courses/web-development-v2/)
+
   \[watch\]\[$\]
+
 * [Treehouse Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development-2)
+
   \[watch\]\[$\]
+
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+
   \[watch\]\[$\]
+
 * [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer)
+
   \[watch\]\[$\]
+
 * [freeCodeCamp](https://learn.freecodecamp.org/)
+
   \[interactive\]\[watch\]
 
 When getting your start, you should fear most things that conceal complexity. Abstractions \(e.g. jQuery\) in the wrong hands can give the appearance of advanced skills, while all the time hiding the fact that a developer has an inferior understanding of the basics or underlying concepts.
 
 It is assumed that on this journey you are not only learning, but also doing as you learn and investigate tools. Some suggest only doing to learn. While others suggest only learning about doing. I suggest you find a mix of both that matches how your brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it. Learn, do. Learn, do. Repeat indefinitely because things change fast. This is why learning the fundamentals, and not abstractions, are so important.
-
-  
-
 
