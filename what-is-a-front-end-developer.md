@@ -9,10 +9,12 @@ description: 本章提供了前端开发和前端开发者规程的基本说明
 > 设计网站的目的是确保当用户打开网站时，网站会以易于用户阅读且恰当的格式呈现相关信息，用户现在使用具有不同屏幕尺寸/分辨率的各种设备，这使得设计者在设计网页时必须考虑这些方面，这使得开发变的更加复杂，他们需要确保网站在不同的浏览器（跨浏览器），不同的操作系统（跨平台）和不同的设备（跨设备）中都能正确显示，这需要在开发者在开发时进行细致的规划。
 >
 > [_https://en.wikipedia.org/wiki/Front-end\_web\_development_](https://en.wikipedia.org/wiki/Front-end_web_development)
->
-> ![](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05110037/Front-end-dev1.png)图片来源: [https://www.upwork.com/hiring/development/front-end-developer/](https://www.upwork.com/hiring/development/front-end-developer/)
 
-#### **前端开发者** {#html-css--javascript}
+![](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05110037/Front-end-dev1.png)
+
+> _图片来源:_ [_https://www.upwork.com/hiring/development/front-end-developer/_](https://www.upwork.com/hiring/development/front-end-developer/)\_\_
+
+## **前端开发者** <a id="html-css--javascript"></a>
 
 前端开发者使用Web技术（即 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)，[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 和 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)）来开发网站与 Web 应用，这些技术通常在[开放 Web 平台](https://en.wikipedia.org/wiki/Open_Web_Platform)上运行，或者充当非 Web 平台环境（即 [React Native](https://facebook.github.io/react-native/)）的编译输入端。
 
@@ -64,6 +66,4 @@ Web 浏览器是用于检索，呈现和遍历位于 [WWW](https://en.wikipedia.
 > 注**:**
 >
 > 1. 为确保您能准确理解“Web 平台“的含义，请阅读 ["Open Web Platform"](https://en.wikipedia.org/wiki/Open_Web_Platform)，探索构成 Web 平台的[相关技术](https://platform.html5.org/)。
-
-
 
