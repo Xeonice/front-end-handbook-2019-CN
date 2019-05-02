@@ -99,7 +99,7 @@ The following core web technologies are employed by front-end developers \(consi
 8. Web APIs \(aka HTML5 and friends or Browser APIs\)
 9. Web Content Accessibility Guidelines \(aka WCAG\) & Accessible Rich Internet Applications \(aka ARIA\)
 
-For a comprehensive list of all web related specifications have a look at[platform.html5.org](https://platform.html5.org/)or[MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API).
+For a comprehensive list of all web related specifications have a look at [platform.html5.org](https://platform.html5.org/) or [MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API).
 
 The nine technologies just mentioned are defined below along with a link to the relevant documentation and specification for each technology.
 
