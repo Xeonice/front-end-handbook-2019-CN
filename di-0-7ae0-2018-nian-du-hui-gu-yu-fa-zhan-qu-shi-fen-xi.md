@@ -5,32 +5,34 @@
 * [Microsoft 收购了 Github](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)，嗯，这确实是挺不可思议的。
 
 * 运用 CSS 设计字体[成为了现实](https://yusugomori.com/projects/css-sans/).
-* 我以前称之为前端驱动的应用程序被打上了 ["serverless"](https://thepowerofserverless.info/) 的标签. 不幸的是, 这个词被[滥用](https://www.jeremydaly.com/stop-calling-everything-serverless/)了。然而， [JAMstack](https://jamstack.org/) 这个词似乎引起了开发者们的[共鸣](https://jamstackconf.com/nyc/)。
+
+* 我以前称之为前端驱动的应用程序被打上了 [serverless](https://thepowerofserverless.info/) 的标签. 不幸的是, 这个词被[滥用](https://www.jeremydaly.com/stop-calling-everything-serverless/)了。然而， [JAMstack](https://jamstack.org/) 这个词似乎引起了开发者们的[共鸣](https://jamstackconf.com/nyc/)。
 
 * Google  提供了一些精巧的工具（[squoosh](https://github.com/GoogleChromeLabs/squoosh/) 和 [quicklink](https://github.com/GoogleChromeLabs/quicklink)），用以帮助优化页面加载速度，
 
 * [Vue 今年得到了](https://risingstars.js.org/2018/en/#section-framework)比 React 更多的 [Github stars](https://hasvuepassedreactyet.surge.sh/)，但是 React 在框架界的[统治地位](https://2018.stateofjs.com/front-end-frameworks/overview/)依旧[无人能敌](https://www.npmjs.com/browse/depended)。
-*  介绍一下 [RE:DOM](https://github.com/redom/redom)，一个类似于 React 的解决方案, 但是没有引入 virtual DOM 与 JSX。
+
+* 介绍一下 [RE:DOM](https://github.com/redom/redom)，一个类似于 React 的解决方案, 但是没有引入 virtual DOM 与 JSX。
 * NW.js 和 Electron 的替代品 -- [DeskGap](https://deskgap.com/) 和 [Neutralino.js](https://neutralino.js.org/) 出现了。
-* In 2017 the [great](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411) divide between a [front-end HTML & CSS developer](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06) v.s. [front-end application developer is realized/verbalized](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06). In 2018 that [divide has grown wider and deeper](https://css-tricks.com/the-great-divide/) and more [people](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/) start to [feel](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4) [the](http://bradfrost.com/blog/post/big-ol-ball-o-javascript/) [divide](https://justmarkup.com/log/2018/11/just-markup/).
-* This year, like most recent years, was stock full of app/framework solutions trying to contend with the mainstream JavaScript app tools \(i.e.[React, Angular, and Vue etc...](https://stateofjs.com/2017/front-end/results)\) Let me list them for you. [Radi.js](https://radi.js.org/), [DisplayJS](https://display.js.org/), [Stimulus](https://stimulusjs.org/), [Omi](https://github.com/Tencent/omi), [Quasar](https://quasar-framework.org/).
-* JavaScript frameworks start offering their own languages that compile to JavaScript \(e.g.[Mint](https://www.mint-lang.com/)\).
-* [CodeSandbox](https://codesandbox.io/) evolves to become the dominant solution for online code sharing.
-* [CSS Grid](https://cssgridgarden.com/) and [CSS Flexbox](https://flexboxfroggy.com/) are fully supported in modern browsers and get taken for some serious rides. But many are left
-  [wondering](https://www.youtube.com/watch?v=hs3piaN4b5I) when to [use which one and how](https://css-irl.info/to-grid-or-to-flex/).
+* 2017 年起，人们开始意识到[前端 HTML & CSS 工程师](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)与[前端应用开发工程师间存在着](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)巨大的[分歧](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)，2018 年时，[分歧开始变得越来越明显](https://css-tricks.com/the-great-divide/)，越来越多的[人](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/)开始[感受](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4)到[这种](http://bradfrost.com/blog/post/big-ol-ball-o-javascript/)[分歧](https://justmarkup.com/log/2018/11/just-markup/)。
+* 与最近几年一样，今年依旧充斥着各种应用/框架解决方案，试图与JavaScript主流应用工具抗衡（如.[React, Angular, 和 Vue 等等...](https://stateofjs.com/2017/front-end/results)），比如说 [Radi.js](https://radi.js.org/)、[DisplayJS](https://display.js.org/)、[Stimulus](https://stimulusjs.org/)、[Omi](https://github.com/Tencent/omi) 与 [Quasar](https://quasar-framework.org/)。
+* JavaScript 框架开始提供它们自己的语言，并编译成 JavaScript（例如：[Mint](https://www.mint-lang.com/)）。
+* [CodeSandbox](https://codesandbox.io/) 逐步成为在线代码共享的主流解决方案。
+* [CSS Grid](https://cssgridgarden.com/) 和 [CSS Flexbox](https://flexboxfroggy.com/) 已得到了现代浏览器的完全支持，而且可以用在一些重要场合（存疑），但是大多数人都[不清楚](https://www.youtube.com/watch?v=hs3piaN4b5I)应当使用[使用哪一种方案](https://css-irl.info/to-grid-or-to-flex/)？以及如何使用 。
 * Many realize the long terms costs of bolted on type systems \(e.g. TypeScript and Flow\). Some concluded bolted on systems are not unlike bolted on module systems \(i.e. AMD/Require.js\) and come with [more issues than solutions](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b). Minimally, many developers realize that if types are needed in large code bases, that bolted on systems are not ideal in comparison to languages that have them baked in \(e.g. [Reason](https://reasonml.github.io/), [Purescript](http://www.purescript.org/), [Elm](https://elm-lang.org/)\).
-* [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables) gain [browser support](https://caniuse.com/#feat=css-variables) among modern web browsers
-* The flavors of [CSS in JS](http://michelebertoli.github.io/css-in-js/) exploded and [some](http://bradfrost.com/blog/link/whats-wrong-with-css-in-js/) question the practice.
-* [ES modules](https://caniuse.com/#search=modules) are now usable in modern browsers and [dynamic imports](https://developers.google.com/web/updates/2017/11/dynamic-import#dynamic) are close behind. We are even seeing a shift in [tooling](https://www.pikapkg.com/blog/introducing-pika-pack/) around this fact.
+* [CSS 变量](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)已经在现代浏览器中获得了[相应支持](https://caniuse.com/#feat=css-variables)。
+
+* [CSS in JS](http://michelebertoli.github.io/css-in-js/) 越发流行，一些人[质疑](http://bradfrost.com/blog/link/whats-wrong-with-css-in-js/)这种做法的必要性。
+* [ES modules](https://caniuse.com/#search=modules) 现可用于现代浏览器，[dynamic imports](https://developers.google.com/web/updates/2017/11/dynamic-import#dynamic) 会紧随其后，我们甚至可以看到围绕这一事实而发生的[工具转变](https://www.pikapkg.com/blog/introducing-pika-pack/)。
 * Many realize that end to end testing is the starting point of doing tests correctly in large part due to [Cypress](https://www.cypress.io/how-it-works/) \(i.e. Cypres first,  then [Jest](https://jestjs.io/)\).
 * While [Webpack](https://webpack.js.org/) was heavily used again this year, many developers found [Parcel](https://github.com/parcel-bundler/parcel) to be easier to get up and running.
 * One of the most important questions asked this year was, what is the [cost of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4).
 * [Babel 7 was released this year](https://babeljs.io/blog/2018/08/27/7.0.0). That's a big deal because the last major release was almost three years ago.
 * The reality of too much JavaScript change too fast is realized and people start [talking](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) about what you need to know before you can even learn something like React. The fight is real.
-* Most developers found GraphQL, via [Apollo](https://www.apollographql.com/), and [see it](https://blog.bitsrc.io/why-does-everyone-love-graphql-17de7f99f05a) as the next evolution for data API's.
-* Gulp and friends definitely took a back seat to [NPM/Yarn run](https://css-tricks.com/why-npm-scripts/). But this did not stop Microsoft from getting in the game with [Just](https://github.com/Microsoft/just).
-* This year, one can not only lint/hint HTML, CSS, and JavaScript they can [lint/hint the web](https://webhint.io/) itself.
-* The [2018 Front-End Tooling survey](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) is worth reading if only to realize just how much jQuery is still used.
+* 越来越多的开发者通过 [Apollo](https://www.apollographql.com/) 了解到 GraphQL，并将其[视为](https://blog.bitsrc.io/why-does-everyone-love-graphql-17de7f99f05a) data API 的下一个发展方向。
+* Gulp 和它的朋友们已被[NPM/Yarn](https://css-tricks.com/why-npm-scripts/)耀眼的光芒所掩盖，但这依旧不能阻止 Microsoft 通过 [Just](https://github.com/Microsoft/just)加入战局。
+* 今年，我们不仅能检查 HTML, CSS, 和 JavaScript 代码，还能[检查 web 本身](https://webhint.io/)。
+* 如果只是为了了解jQuery现目前的市场占有率的话，[2018前端工具调查](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results)依旧值得一读。
 * 不可否认，[TypeScript](https://www.typescriptlang.org/) 今年确实又增加了不少新用户.
 * [VScode](https://code.visualstudio.com/) 在代码编辑器中依然保有[统治地位](https://triplebyte.com/blog/editor-report-the-rise-of-visual-studio-code)。
 
