@@ -12,7 +12,7 @@ description: 本章提供了前端开发和前端开发者规程的基本说明
 
 ![](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05110037/Front-end-dev1.png)
 
-> _图片来源:_ [_https://www.upwork.com/hiring/development/front-end-developer/_](https://www.upwork.com/hiring/development/front-end-developer/)\_\_
+> _图片来源：[_https://www.upwork.com/hiring/development/front-end-developer/_](https://www.upwork.com/hiring/development/front-end-developer/)_
 
 ## **前端开发者** <a id="html-css--javascript"></a>
 
