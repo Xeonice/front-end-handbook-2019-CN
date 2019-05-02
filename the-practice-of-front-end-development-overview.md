@@ -4,13 +4,15 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 # 第2章-前端开发实践-概述
 
-# 2.1 如何成为前端开发工程师？
+## 第2章-前端开发实践-概述
+
+## 2.1 如何成为前端开发工程师？
 
 初学者如何成为前端开发工程师？嗯，这很复杂，先来看看这张线路图：
 
 时至今日，我们依旧不能通过大学课堂得到一份前端开发工程师的学位，而且我很少听说有前端开发者在拿到计算机科学学位/视觉设计学位后就能立刻编写出专业的 HTML、CSS、JavaScript 代码。据我所见，今天的大部分前端从业者似乎都是自学成才的，或者从计算机科学领域/视觉设计领域转入前端领域的。
 
-![图片来源：https://github.com/kamranahmedse/developer-roadmap](.gitbook/assets/frontend.png)
+![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://github.com/kamranahmedse/developer-roadmap](.gitbook/assets/frontend.png)
 
 如果你希望从今天开始前端之旅，希望你能够大致遵循下面列出的学习流程（第 3 章和第 4 章将深入展开每项，并介绍更多相关学习资源）。
 
@@ -36,26 +38,19 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 举个例子，如果你想从今天开始学习之旅，下面这些课程都可以用于自学：
 
 * [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) \[文章\]
-
 * [So, You Want to be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[视频\]
-
 * [Frontend Masters Learning Path](https://frontendmasters.com/learn) \[视频\]\[$\]
-
 * [Introduction to Web Development](https://frontendmasters.com/courses/web-development-v2/) \[视频\]\[$\]
-
 * [Treehouse Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development-2) \[视频\]\[$\]
-
 * [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) \[视频\]\[$\]
-
 * [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) \[视频\]\[$\]
-
 * [freeCodeCamp](https://learn.freecodecamp.org/) \[互动形式\]
 
 一开始，你应该恐惧大多数将复杂性隐藏起来的事物，抽象（如：jQuery）在低级开发者的手中依旧能展现出一些进阶技巧，同时一直隐藏着这样一个事实：开发人员对底层概念的理解不够深入。
 
 假设在这个过程中，您不仅要学习，还要进行相应的实践与工具调研，有些人建议仅通过实践的方式去学习，还有些人建议仅学习如何实践，而我建议你根据自身情况去寻找两者间的平衡点。但是，这两者间一定是相辅相成的，因此，不要只是学习纸面知识，实践是必要的。理论 - 实践 - 理论 - 实践，事物的快速更迭需要我们不断重复这个流程，这也就是为什么“学习底层知识，而非学习抽象知识”如此重要。
 
-# 2.2 前端开发相关职位
+## 2.2 前端开发相关职位
 
 前端开发界中存在两种类型截然不同，但都被归为前端开发者的开发群体，[他们之间的分歧已经酝酿了好几年了](https://css-tricks.com/the-great-divide/)，其中一方是专注于 JavaScript 的程序员，为前端运行时编写 JavaScript。他们一般有计算机科学技能与软件开发经验，很可能将 HTML 和 CSS 视为一种抽象概念（即 [JSX](https://reactjs.org/docs/introducing-jsx.html) 与 [CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方很可能是非计算机科学出身的开发人员，他们专注于 HTML、CSS 与专属于 UI 的 JavaScript，2019 年，当你试图了解/踏入前端领域时，你一定会感受到这种分歧。不用额外词汇标明正在讨论的是哪种前端开发者的话，“前端开发者” 这个词汇就处于无意义的边缘。
 
@@ -85,7 +80,9 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 >
 > 1. 如果你在职位名称中见到“全栈”或“Web 开发者”这类通用术语，雇主可能在运用这些词来描述负责 Web /应用程序开发的所有方面的角色，即同时包括前端和后端（可能包括设计）。
 
-### 2.3 - 前端开发者所使用的基础 Web 技术![](/assets/web-tech-employed.jpg) {#3.3}
+### 2.3 - 前端开发者所使用的基础 Web 技术 <a id="3.3"></a>
+
+![](.gitbook/assets/web-tech-employed.jpg)
 
 The following core web technologies are employed by front-end developers \(consider learning them in this order\):
 
@@ -103,7 +100,7 @@ For a comprehensive list of all web related specifications have a look at [platf
 
 The nine technologies just mentioned are defined below along with a link to the relevant documentation and specification for each technology.
 
-#### Hyper Text Markup Language \(aka HTML\) {#hyper-text-markup-language-aka-html}
+#### Hyper Text Markup Language \(aka HTML\) <a id="hyper-text-markup-language-aka-html"></a>
 
 > HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language.
 >
@@ -120,7 +117,7 @@ Most relevant specifications / documentation:
 * [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
 
-#### Cascading Style Sheets \(aka CSS\) {#cascading-style-sheets-aka-css}
+#### Cascading Style Sheets \(aka CSS\) <a id="cascading-style-sheets-aka-css"></a>
 
 > Cascading Style Sheets \(CSS\) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.
 >
@@ -133,7 +130,7 @@ Most relevant specifications / documentation:
 * [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
 
-#### Hypertext Transfer Protocol \(aka HTTP\) {#hypertext-transfer-protocol-aka-http}
+#### Hypertext Transfer Protocol \(aka HTTP\) <a id="hypertext-transfer-protocol-aka-http"></a>
 
 > The Hypertext Transfer Protocol \(HTTP\) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
 >
@@ -144,7 +141,7 @@ Most relevant specifications:
 * [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 * [HTTP/2](http://httpwg.org/specs/rfc7540.html)
 
-#### Uniform Resource Locators \(aka URL\) {#uniform-resource-locators-aka-url}
+#### Uniform Resource Locators \(aka URL\) <a id="uniform-resource-locators-aka-url"></a>
 
 > A uniform resource locator \(URL\) \(also called a web address\) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier \(URI\), although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI. URLs occur most commonly to reference web pages \(http\), but are also used for file transfer \(ftp\), email \(mailto\), database access \(JDBC\), and many other applications.
 >
@@ -155,7 +152,7 @@ Most relevant specifications:
 * [Uniform Resource Locators \(URL\)](http://www.w3.org/Addressing/URL/url-spec.txt)
 * [URL Living Standard](https://url.spec.whatwg.org/)
 
-#### Document Object Model \(aka DOM\) {#document-object-model-aka-dom}
+#### Document Object Model \(aka DOM\) <a id="document-object-model-aka-dom"></a>
 
 > The Document Object Model \(DOM\) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents. The nodes of every document are organized in a tree structure, called the DOM tree. Objects in the DOM tree may be addressed and manipulated by using methods on the objects. The public interface of a DOM is specified in its application programming interface \(API\).
 >
@@ -167,7 +164,7 @@ Most relevant specifications / documentation:
 * [W3C DOM4](https://www.w3.org/TR/domcore/)
 * [UI Events](https://www.w3.org/TR/uievents/)
 
-#### JavaScript Programming Language \(aka ECMAScript 262\) {#javascript-programming-language-aka-ecmascript-262}
+#### JavaScript Programming Language \(aka ECMAScript 262\) <a id="javascript-programming-language-aka-ecmascript-262"></a>
 
 > JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
 >
@@ -178,7 +175,7 @@ Most relevant specifications / documentation:
 * [ECMAScript® 2018 Language Specification](http://ecma-international.org/ecma-262/9.0/index.html#Title)
 * [All ECMAScript Language Specifications](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
 
-#### Web APIs \(aka HTML5 and friends\) {#web-apis-aka-html5-and-friends}
+#### Web APIs \(aka HTML5 and friends\) <a id="web-apis-aka-html5-and-friends"></a>
 
 > When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces \(that is, types of objects\) that you may be able to use while developing your Web app or site.
 >
@@ -188,7 +185,7 @@ Most relevant documentation:
 
 * [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
 
-#### JavaScript Object Notation \(aka JSON\) {#javascript-object-notation-aka-json}
+#### JavaScript Object Notation \(aka JSON\) <a id="javascript-object-notation-aka-json"></a>
 
 > It is the primary data format used for asynchronous browser/server communication \(AJAJ\), largely replacing XML \(used by AJAX\). Although originally derived from the JavaScript scripting language, JSON is a language-independent data format. Code for parsing and generating JSON data is readily available in many programming languages. The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json.
 >
@@ -200,7 +197,7 @@ Most relevant specifications:
 * [JSON API](http://jsonapi.org/)
 * [The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
-#### Web Content Accessibility Guidelines \(aka WCAG\) & Accessible Rich Internet Applications \(aka ARIA\) {#web-content-accessibility-guidelines-aka-wcag--accessible-rich-internet-applications-aka-aria}
+#### Web Content Accessibility Guidelines \(aka WCAG\) & Accessible Rich Internet Applications \(aka ARIA\) <a id="web-content-accessibility-guidelines-aka-wcag--accessible-rich-internet-applications-aka-aria"></a>
 
 > Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” \(i.e., unassisted\) and "indirect access" meaning compatibility with a person's assistive technology \(for example, computer screen readers\).
 >
@@ -208,6 +205,4 @@ Most relevant specifications:
 
 * [Web Accessibility Initiative \(WAI\)](https://www.w3.org/WAI/standards-guidelines/)
 * [Web Content Accessibility Guidelines \(WCAG\) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all) 
-
-
 
