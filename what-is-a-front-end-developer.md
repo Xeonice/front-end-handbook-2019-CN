@@ -43,7 +43,7 @@ Web 浏览器是用于检索，呈现和遍历位于 [WWW](https://en.wikipedia.
 
 **Webviews**
 
-[Webviews](http://developer.telerik.com/featured/what-is-a-webview/) 被原生系统在原生 App 中调用以运行一个 Web 页面，可以把 [Webview](http://developer.telerik.com/featured/what-is-a-webview/) 想象成一个 iframe，或者一个运行在浏览器上的单 Tab 页被嵌入在likeare used by a native OS, in a native application, to run web pages. Think of a[webview](http://developer.telerik.com/featured/what-is-a-webview/)like an iframe or a single tab from a web browser that is embedded in a native application running on a device \(e.g.,[iOS](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/),[android](http://developer.android.com/reference/android/webkit/WebView.html),[windows](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.controls.webview.aspx)\).
+[Webviews](http://developer.telerik.com/featured/what-is-a-webview/) 被原生系统在原生 App 中调用以运行一个 Web 页面，可以把 [Webview](http://developer.telerik.com/featured/what-is-a-webview/) 想象成一个 iframe，或者一个运行在浏览器上的单 Tab 页被嵌入到设备上运行的原生应用程序中（如 [iOS](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/)、[android](http://developer.android.com/reference/android/webkit/WebView.html)、[windows](https://msdn.microsoft.com/library/windows/apps/windows.ui.xaml.controls.webview.aspx)）。
 
 最流行的 [Webview](http://developer.telerik.com/featured/what-is-a-webview/) 开发解决方案有以下几种：
 
@@ -53,9 +53,9 @@ Web 浏览器是用于检索，呈现和遍历位于 [WWW](https://en.wikipedia.
 
 **基于 Web 技术的原生开发**
 
-Eventually, what is learned from web browser development can be used by front-end developers to craft code for environments that are not fueled by a browser engine \(i.e. web platform\). As of late, development environments are being dreamed up that use web technologies \(e.g., CSS and JavaScript\), without web engines, to create native applications.
+最后，前端开发人员可以运用从 Web 浏览器开发中学到的知识来为非浏览器引擎（即Web平台）驱动的环境编写代码。最近，开发环境正在被设想为使用 Web 技术（例如，CSS 和 JavaScript）开发原生应用，但不引入 Web 引擎。
 
-Some examples of these environments are:
+这类环境的部分示例有以下这些：
 
 * [Flutter](https://flutter.io/)
 * [React Native](https://facebook.github.io/react-native/)
@@ -63,10 +63,7 @@ Some examples of these environments are:
 
 > 注**:**
 >
-> 1. Make sure you are clear what exactly is meant by the "web platform". Read the, ["Open Web Platform"](https://en.wikipedia.org/wiki/Open_Web_Platform) Wikipedia page. Explore [the many technologies](https://platform.html5.org/) that make up the web platform.
-
-  
-
+> 1. 为确保您能准确理解“Web 平台“的含义，请阅读 ["Open Web Platform"](https://en.wikipedia.org/wiki/Open_Web_Platform)，探索构成 Web 平台的[相关技术](https://platform.html5.org/)。
 
 
 
