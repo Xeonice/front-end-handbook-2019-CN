@@ -82,8 +82,6 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 ### 2.3 - 前端开发者所使用的基础 Web 技术 <a id="3.3"></a>
 
-![](.gitbook/assets/web-tech-employed.jpg)
-
 The following core web technologies are employed by front-end developers \(consider learning them in this order\):
 
 1. Hyper Text Markup Language \(aka HTML\)
