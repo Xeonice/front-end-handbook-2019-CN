@@ -204,7 +204,62 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 * [网络可访问性倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
 * [ Web 内容无障碍指南 \(WCAG\) 当前状态 ](http://www.w3.org/standards/techs/wcag#w3c_all)
 
-## 前端开发者所需技能
+## 前端开发者所需额外技能
 
 ![&#x56FE;&#x7247;&#x6765;&#x6E90;: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html](.gitbook/assets/front-end-skills.png)
+
+深入了解 HTML、CSS、DOM、JavaScript、HTTP/URL 与浏览器对所有前端开发者都是必要的。
+
+除开我们刚刚提到过的技能，一名前端开发者可能还需要掌握以下一种/多种技能：
+
+* 内容管理系统（CMS）
+* Node.js
+* 跨浏览器测试
+* 跨平台测试
+* 单元测试
+* 跨设备测试
+* 可访问性 / WAI-ARIA
+* 搜索引擎优化（SEO）
+* 用户界面/交互设计
+* 用户体验设计
+* 可用性
+* 电子商务系统
+* 门户系统
+* 线框图
+* CSS 布局 / 网格
+* DOM 操作（如 jQuery）
+* 移动端网络性能
+* 负载测试
+* 性能测试
+* 渐进增强 / 优雅降级
+* \(e.g., GIT\)版本控制（如 GIT）
+* MVC / MVVM / MV\*
+* 函数式编程
+* 数据格式（如 JSON、XML）
+* 数据 API（如 Restful API）
+* Web 字体嵌入
+* 可缩放矢量图形（SVG）
+* 正则表达式
+* 微数据/微格式
+* 任务运行器，构建工具，自动化工具
+* 响应式网页设计
+* 面向对象编程
+* 应用程序架构
+* 模块
+* 依赖管理
+* 包管理
+* JavaScript 动画
+* CSS 动画
+* 图表 / 图形
+* UI 元件
+* 代码质量测试
+* 代码覆盖率测试
+* 代码复杂性分析
+* 集成测试
+* 命令行 / CLI
+* 模版策略
+* 模版引擎
+* 单页应用程序
+* 网络/浏览器安全
+* 浏览器开发工具
 
