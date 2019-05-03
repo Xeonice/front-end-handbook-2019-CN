@@ -80,6 +80,8 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 ## 2.3 - 前端开发者所使用的基础 Web 技术 
 
+![](.gitbook/assets/web-tech-employed.jpg)
+
 前端开发者使用以下核心Web技术（建议以此顺序进行学习）：
 
 1. 超文本标记语言（HTML）
@@ -201,4 +203,8 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 * [网络可访问性倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
 * [ Web 内容无障碍指南 \(WCAG\) 当前状态 ](http://www.w3.org/standards/techs/wcag#w3c_all)
+
+## 前端开发者所需技能
+
+![&#x56FE;&#x7247;&#x6765;&#x6E90;: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html](.gitbook/assets/front-end-skills.png)
 
