@@ -263,3 +263,132 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 * 网络/浏览器安全
 * 浏览器开发工具
 
+## 2.5 前端开发者面向什么平台开发？
+
+一个前端开发者所编写的 HTML、CSS 与 JS 通常会运行在由以下操作系统（OS）之一所搭载的 [Web 平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)（如：浏览器）上：
+
+* [Android](https://www.android.com/)
+* [Chromium](https://www.chromium.org/chromium-os)
+* [iOS](https://developer.apple.com/ios/)
+* [OS X \(即 MacOS\)](https://www.apple.com/macos)
+* [Ubuntu \(或其他 Linux 发行版\)](https://www.ubuntu.com/)
+* [Windows](https://www.microsoft.com/en-us/windows)
+
+这些系统通常运行在下列的一个/多个设备上：
+
+* 台式电脑
+* 笔记本电脑 / 上网本
+* 手机
+* 平板电脑
+* 电视
+* 手表
+* [其他设备](https://en.wikipedia.org/wiki/Internet_of_things)（任何你能想得到的东西，汽车，冰箱，灯泡，恒温器等等）
+
+![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/](.gitbook/assets/growth-iot.jpg)
+
+一般来说，前端技术可以用在前面提到的操作系统和设备的以下 Web 运行时平台上（存疑）：
+
+* Web 浏览器 \(例如: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)\).
+* [无头浏览器](https://en.wikipedia.org/wiki/Headless_browser) \(例如: [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)\).
+* 被嵌入在原生应用程序中作为运行时的 [WebView](http://developer.telerik.com/featured/what-is-a-webview/) /浏览器选项卡（就像 [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)），能够桥接到到原生 API，WebView 应用程序通常包含运用 Web 技术（即 HTML，CSS和JS）构建的 UI（例如: [Apache Cordova](https://cordova.apache.org/), [NW.js](http://nwjs.io/), [Electron](http://electron.atom.io/)）。
+* 运用 Web 技术构建的原生应用程序，在运行时通过与原生 API 之间的桥梁进行转译。UI 将使用原生 UI 部件（例如 iOS 原生控件\)，而不是 Web 技术（例如: [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/)）。
+
+## 2.6 团队中的前端
+
+前端开发人员通常只是设计和开发网站、Web 应用或基于 Web 技术的原生应用程序团队中的一员。
+
+为 Web 平台构建**专业**网站或软件的小型开发团队通常至少包含以下角色：
+
+* 视觉设计师（负责产品的字体、颜色、间距、情感、视觉概念或主题）
+* UI/交互设计师/信息架构师（负责线框图、细化所有用户交互和 UI 功能、组织信息）
+* 前端开发者（负责编写在客户端/设备上运行的代码）
+* 后端开发者（负责编写在服务器上运行的代码）
+
+角色排序是根据重叠技能来排列的，前端开发人员通常可以很好地处理 UI /交互设计以及后端开发。团队成员通过承担重叠角色的职责来填补角色的空缺情况并不少见。
+
+上述团队通常被假定为由项目负责人或某种产品所有者（即利益相关者，项目经理，项目负责人等）主导。
+
+更大规模的 Web 团队可能包括以下之前未列出的角色：
+
+* SEO 策略专家
+* DevOps 工程师
+* 性能工程师
+* API 开发者
+* 数据库管理员
+* QA 工程师 / 测试
+
+## 2.7 多面手/全栈神话
+
+![](.gitbook/assets/full-stack.jpg)
+
+The term "Full-Stack" developer has come to take on several meanings. So many, that not one meaning is clear when the term is used. Just consider the results from the two surveys shown below. These results might lead one to believe that being a full-stack developer is commonplace. But, in my almost 20 years of experience, this is anything but the case in a professional context.
+
+![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781\#.ngcpn8nlz](.gitbook/assets/fullstack1.png)
+
+![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://insights.stackoverflow.com/survey/2017\#developer-profile-specific-developer-types](.gitbook/assets/fullstack2.png)
+
+The roles to design and develop a website or web application require a deep set of skills and vast experience in the area of visual design, UI/interaction design, [front-end development](https://github.com/kamranahmedse/developer-roadmap#-front-end-roadmap), and [back-end development](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap). Any person who can fill one or more of these 4 roles at a professional level is an extremely rare commodity.
+
+Pragmatically, you should seek to be, or seek to hire, an expert in one of these roles \(i.e. Visual Design, Interaction Design/IA, Front-end Dev, Back-end Dev\). Those who claim to operate at an expert level at one or more of these roles are exceptionally rare.
+
+However, given that JavaScript has infiltrated all layers of a technology stack \(i.e. Node.js\) finding a full-stack JS developer who can code the front-end and back-end is becoming less mythical. Typically, these full-stack developers only deal with JavaScript. A developer who can code the front-end, back-end, API, and database isn't as absurd as it once was \(excluding visual design, interaction design, and CSS\). Still mythical in my opinion, but not as uncommon as it once was. Thus, I wouldn't recommend a developer set out to become a "full-stack" developer. In rare situations, it can work. But, as a general concept for building a career as a front-end developer, I'd focus on front-end technologies.
+
+## 2.8 前端面试
+
+
+
+**Preparing:**
+
+* [Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
+* [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
+* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Decoding the Front-end Interview Process](https://dev.to/emmawedekind/decoding-the-front-end-interview-process-14dl)
+
+**Quiz's:**
+
+* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
+* [JavaScript Web Quiz](http://davidshariff.com/js-quiz/)
+
+**Questions you may get asked:**
+
+* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Front-End Job Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
+* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
+* [Interview Questions for Front-End-Developer](http://thatjsdude.com/interview/index.html)
+* [The Best Frontend JavaScript Interview Questions \(written by a Frontend Engineer\)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28Written-by-a-Frontend-Engineer)\)
+
+**Questions you ask:**
+
+* [An open source list of developer questions to ask prospective employers](https://github.com/ChiperSoft/InterviewThis)
+
+## 2.9 前端招聘板
+
+
+
+A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant resources for finding a specific front-end position/career.
+
+* [authenticjobs.com](https://authenticjobs.com/#category=4)
+* [careers.stackoverflow.com](http://careers.stackoverflow.com/jobs?searchTerm=front-end)
+* [css-tricks.com/jobs](https://css-tricks.com/jobs/)
+* [frontenddeveloperjob.com](http://frontenddeveloperjob.com/)
+* [glassdoor.com](http://www.glassdoor.com/Job/front-end-developer-jobs-SRCH_KO0,19.htm?jobType=all)
+* [jobs.github.com](https://jobs.github.com/)
+* [linkedin.com](https://www.linkedin.com/jobs/search/?keywords=frontend%20developer)
+* [remote.co](https://remote.co/remote-jobs/developer/)
+* [weworkremotely.com](https://weworkremotely.com/)
+* [www.smashingmagazine.com/jobs/](https://www.smashingmagazine.com/jobs/)
+
+> **Notes:**
+>
+> 1. Want to work remotely as a front-end developer checkout these [remote-friendly companies](https://github.com/jessicard/remote-jobs).
+
+## 2.10 前端薪资待遇
+
+The national average in the U.S for a mid-level front-end developer is somewhere between [$65k](https://www.payscale.com/research/US/Job=Front_End_Developer_%2f_Engineer/Salary) and [100k](https://www.indeed.com/salaries/Front-End-Developer-Salaries).
+
+Of course when you first start expect to enter the field at around 40k depending upon location and experience.
+
+> **Notes:**
+>
+> 1. A lead/senior front-end developer/engineer can potentially live wherever they want \(i.e., work remotely\) and make over $150k a year \(visit [angel.co](https://angel.co/jobs), sign-up, review front-end jobs over $150k or examine the salary ranges on [Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y)\).
+
