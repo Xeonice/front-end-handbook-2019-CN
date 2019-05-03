@@ -115,7 +115,7 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 #### 层叠样式表（CSS） <a id="cascading-style-sheets-aka-css"></a>
 
-> 层叠样式表（CSS）是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。虽然它经常被用来更改用 HTML 和 XHTML 编写的网页和用户界面的样式，该语言还是能应用于任何类型的 XML 文档，包括纯 XML、SVG 和XUL。与 HTML 和 JavaScript 一样，CSS 也是大多数网站用来创建具有视觉吸引力的网页、web应用交互界面以及许多移动端用户界面的基础技术。
+> 层叠样式表（CSS）是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。虽然它经常被用来更改用 HTML 和 XHTML 编写的网页和用户界面的样式，该语言还是能应用于任何类型的 XML 文档，包括纯 XML、SVG 和 XUL。与 HTML 和 JavaScript 一样，CSS 也是大多数网站用来创建具有视觉吸引力的网页、web应用交互界面以及许多移动端用户界面的基础技术。
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
@@ -128,39 +128,39 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 #### 超文本传输协议（HTTP） <a id="hypertext-transfer-protocol-aka-http"></a>
 
-> The Hypertext Transfer Protocol \(HTTP\) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
+> **超文本传输协议**（英语：**H**yper**T**ext **T**ransfer **P**rotocol，缩写：**HTTP**）是一种用于分布式、协作式和[超媒体](https://zh.wikipedia.org/wiki/%E8%B6%85%E5%AA%92%E9%AB%94)信息系统的[应用层](https://zh.wikipedia.org/wiki/%E5%BA%94%E7%94%A8%E5%B1%82)[协议](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)[\[1\]](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE#cite_note-ietf2616-1)。HTTP是[万维网](https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E8%B3%87%E8%A8%8A%E7%B6%B2)的数据通信的基础。
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-Most relevant specifications:相关规范：
+相关规范：
 
-* [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
+* [超文本传输协议 -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 * [HTTP/2](http://httpwg.org/specs/rfc7540.html)
 
-#### Uniform Resource Locators \(aka URL\)  <a id="uniform-resource-locators-aka-url"></a>
+#### 统一资源定位符（URL） <a id="uniform-resource-locators-aka-url"></a>
 
-> A uniform resource locator \(URL\) \(also called a web address\) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier \(URI\), although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI. URLs occur most commonly to reference web pages \(http\), but are also used for file transfer \(ftp\), email \(mailto\), database access \(JDBC\), and many other applications.
+> 统一资源定位符（URL）（也称为web地址）是对资源的引用，它指定了计算机网络上资源的位置与获取资源的机制。URL 是一种特定类型的统一资源标识符\(uniform resource identifier, URI\)，许多人经常混用这两个术语。URL 必然包含着访问指定资源的方法，但这并不适用于每个 URI。URL 通常用于引用网页（http），但也用于文件传输（ftp）、电子邮件（mailto）、数据库访问（JDBC）等应用程序。
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
 
-Most relevant specifications:相关规范：
+相关规范：
 
-* [Uniform Resource Locators \(URL\)](http://www.w3.org/Addressing/URL/url-spec.txt)
-* [URL Living Standard](https://url.spec.whatwg.org/)
+* [统一资源定位符 \(URL\)](http://www.w3.org/Addressing/URL/url-spec.txt)
+* [URL 当前标准](https://url.spec.whatwg.org/)
 
-#### Document Object Model \(aka DOM\)  <a id="document-object-model-aka-dom"></a>
+#### 文档对象模型（DOM） <a id="document-object-model-aka-dom"></a>
 
-> The Document Object Model \(DOM\) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents. The nodes of every document are organized in a tree structure, called the DOM tree. Objects in the DOM tree may be addressed and manipulated by using methods on the objects. The public interface of a DOM is specified in its application programming interface \(API\).
+> 文档对象模型（DOM）是一种跨平台的、独立于语言的约定，用于表示与操作 HTML、XHTML 和 XML 文档中的对象。每个文档的节点都按树状结构进行组织，称为 DOM 树。可以使用对象上的方法对 DOM 树中的对象进行寻址和操作，DOM 的公共接口在其应用程序编程接口（API）中被指定。
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
 
-Most relevant specifications / documentation:相关规范/文档：
+相关规范/文档：
 
-* [DOM Living Standard](https://dom.spec.whatwg.org/)
+* [DOM 当前标准](https://dom.spec.whatwg.org/)
 * [W3C DOM4](https://www.w3.org/TR/domcore/)
-* [UI Events](https://www.w3.org/TR/uievents/)
+* [UI 事件](https://www.w3.org/TR/uievents/)
 
-#### JavaScript Programming Language \(aka ECMAScript 262\)  <a id="javascript-programming-language-aka-ecmascript-262"></a>
+#### JavaScript 编程语言（ECMAScript 262） <a id="javascript-programming-language-aka-ecmascript-262"></a>
 
 > JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
 >
