@@ -87,7 +87,7 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 3. 统一资源定位符（URLs）
 4. 超文本传输协议（HTTP）
 5. JavaScript 编程语言（ECMAScript 262）
-6. JavaScript 物件表示法 （JSON）
+6. JavaScript 对象表示法 （JSON）
 7. 文档对象模型（DOM）
 8. Web API（HTML5 与浏览器 API）
 9. Web内容无障碍指南（WCAG）& Accessible Rich Internet Applications \(ARIA\)
@@ -162,43 +162,43 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 #### JavaScript 编程语言（ECMAScript 262） <a id="javascript-programming-language-aka-ecmascript-262"></a>
 
-> JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
->
+> JavaScript 是一种高级、动态、无类型的解释型编程语言，已经经由 ECMAScript 语言规范实现了标准化。是除了 HTML 和 CSS 外万维网内容生产的三大基本技术之一；主流网站都使用它，且所有现代 Web 浏览器都对其提供了原生支持。JavaScript 是基于原型，以函数为第一公民的语言，这使得它有多种编程范式，支持面向对象、命令式与函数式编程风格。它有一个用于处理文本、数组、日期和正则表达式的 API，但不包括任何 I/O，如网络，存储以及图像处理功能，这些都依赖于它所嵌入的环境。
+
 > —[Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 
-Most relevant specifications / documentation:相关规范/文档：
+相关规范/文档：
 
-* [ECMAScript® 2018 Language Specification](http://ecma-international.org/ecma-262/9.0/index.html#Title)
-* [All ECMAScript Language Specifications](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+* [ECMAScript® 2018 语言规范](http://ecma-international.org/ecma-262/9.0/index.html#Title)
+* [所有 ECMAScript 语言规范](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
 
-#### Web APIs \(aka HTML5 and friends\)  <a id="web-apis-aka-html5-and-friends"></a>
+#### Web APIs \(HTML5\)  <a id="web-apis-aka-html5-and-friends"></a>
 
-> When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces \(that is, types of objects\) that you may be able to use while developing your Web app or site.
+> 在使用 JavaScript 编写 Web 代码时，有许多 API 可供调用。以下是所有接口（即对象类型）的列表，你可以在开发网站或 Web 应用程序时使用它们。
 >
 > —[Mozilla](https://developer.mozilla.org/en-US/docs/Web/API)
 
-Most relevant documentation:相关文档：
+相关文档：
 
-* [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
+* [Web API 接口](https://developer.mozilla.org/en-US/docs/Web/API)
 
-#### JavaScript Object Notation \(aka JSON\)  <a id="javascript-object-notation-aka-json"></a>
+#### JavaScript 对象表示法（JSON） <a id="javascript-object-notation-aka-json"></a>
 
-> It is the primary data format used for asynchronous browser/server communication \(AJAJ\), largely replacing XML \(used by AJAX\). Although originally derived from the JavaScript scripting language, JSON is a language-independent data format. Code for parsing and generating JSON data is readily available in many programming languages. The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json.
+> 这是浏览器与服务器异步通信（AJAJ）时基本的数据格式，在很大程度上取代了 XML （由AJAX使用）。虽然 JSON 最初起源于 JavaScript 脚本语言，但它是一种独立于语言的数据格式。用于解构和生成 JSON 数据的代码在很多语言中都已经有对应的实现。JSON格式最初由 Douglas Crockford 提出，它目前有两个相互竞争中的标准描述，分别是 RFC 7159 和 ECMA-404。ECMA 标准使用者较少，仅描述了允许的语法规则，而 RFC 还提供了一些语义和安全方面的考量。官方的 JSON 互联网媒体文件类型是 application/json。JSON 的后缀名为 .json。
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
-Most relevant specifications:相关规范：
+相关规范：
 
-* [Introducing JSON](http://json.org/)
+* [JSON 入门介绍](http://json.org/)
 * [JSON API](http://jsonapi.org/)
-* [The JSON Data Interchange Format](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+* [JSON 数据交换格式](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
-#### Web Content Accessibility Guidelines \(aka WCAG\) & Accessible Rich Internet Applications \(aka ARIA\)  <a id="web-content-accessibility-guidelines-aka-wcag--accessible-rich-internet-applications-aka-aria"></a>
+####  Web 内容无障碍指南（WCAG） & Accessible Rich Internet Applications \(aka ARIA\)  <a id="web-content-accessibility-guidelines-aka-wcag--accessible-rich-internet-applications-aka-aria"></a>
 
-> Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” \(i.e., unassisted\) and "indirect access" meaning compatibility with a person's assistive technology \(for example, computer screen readers\).
+> 可访问性是指产品、设备、服务或环境针对残障人士的设计。可访问性设计的理念同时保证了『直接访问』（即无需帮助）和『间接访问』，代表与个人辅助技术的兼容性（如计算机屏幕阅读助手）。
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Accessibility)
 
-* [Web Accessibility Initiative \(WAI\)](https://www.w3.org/WAI/standards-guidelines/)
-* [Web Content Accessibility Guidelines \(WCAG\) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all) 
+* [网络可访问性倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
+* [ Web 内容无障碍指南 \(WCAG\) 当前状态 ](http://www.w3.org/standards/techs/wcag#w3c_all)
 
