@@ -8,6 +8,8 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 初学者如何成为前端开发工程师？嗯，这很复杂，先来看看这张线路图：
 
+
+
 时至今日，我们依旧不能通过大学课堂得到一份前端开发工程师的学位，而且我很少听说有前端开发者在拿到计算机科学学位/视觉设计学位后就能立刻编写出专业的 HTML、CSS、JavaScript 代码。据我所见，今天的大部分前端从业者似乎都是自学成才的，或者从计算机科学领域/视觉设计领域转入前端领域的。
 
 ![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://github.com/kamranahmedse/developer-roadmap](.gitbook/assets/frontend.png)
