@@ -117,24 +117,24 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 #### 层叠样式表（CSS） <a id="cascading-style-sheets-aka-css"></a>
 
-> Cascading Style Sheets \(CSS\) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.
+> 层叠样式表（CSS）是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。虽然它经常被用来更改用 HTML 和 XHTML 编写的网页和用户界面的样式，该语言还是能应用于任何类型的 XML 文档，包括纯 XML、SVG 和XUL。与 HTML 和 JavaScript 一样，CSS 也是大多数网站用来创建具有视觉吸引力的网页、web应用交互界面以及许多移动端用户界面的基础技术。
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-Most relevant specifications / documentation:
+相关规范/文档：
 
-* [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work)
-* [Cascading Style Sheets Level 2 Revision 2 \(CSS 2.2\) Specification](https://www.w3.org/TR/CSS22/)
-* [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
+* [所有 W3C CSS 规范](http://www.w3.org/Style/CSS/current-work)
+* [层叠样式表第 2 版第 2 次修订（CSS 2.2）规范](https://www.w3.org/TR/CSS22/)
+* [CSS 参考手册](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [第三版选择器](http://www.w3.org/TR/css3-selectors/)
 
-#### Hypertext Transfer Protocol \(aka HTTP\)  <a id="hypertext-transfer-protocol-aka-http"></a>
+#### 超文本传输协议（HTTP） <a id="hypertext-transfer-protocol-aka-http"></a>
 
 > The Hypertext Transfer Protocol \(HTTP\) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-Most relevant specifications:
+Most relevant specifications:相关规范：
 
 * [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 * [HTTP/2](http://httpwg.org/specs/rfc7540.html)
@@ -145,7 +145,7 @@ Most relevant specifications:
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
 
-Most relevant specifications:
+Most relevant specifications:相关规范：
 
 * [Uniform Resource Locators \(URL\)](http://www.w3.org/Addressing/URL/url-spec.txt)
 * [URL Living Standard](https://url.spec.whatwg.org/)
@@ -156,7 +156,7 @@ Most relevant specifications:
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
 
-Most relevant specifications / documentation:
+Most relevant specifications / documentation:相关规范/文档：
 
 * [DOM Living Standard](https://dom.spec.whatwg.org/)
 * [W3C DOM4](https://www.w3.org/TR/domcore/)
@@ -168,7 +168,7 @@ Most relevant specifications / documentation:
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 
-Most relevant specifications / documentation:
+Most relevant specifications / documentation:相关规范/文档：
 
 * [ECMAScript® 2018 Language Specification](http://ecma-international.org/ecma-262/9.0/index.html#Title)
 * [All ECMAScript Language Specifications](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
@@ -179,7 +179,7 @@ Most relevant specifications / documentation:
 >
 > —[Mozilla](https://developer.mozilla.org/en-US/docs/Web/API)
 
-Most relevant documentation:
+Most relevant documentation:相关文档：
 
 * [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
 
@@ -189,7 +189,7 @@ Most relevant documentation:
 >
 > —[Wikipedia](https://en.wikipedia.org/wiki/JSON)
 
-Most relevant specifications:
+Most relevant specifications:相关规范：
 
 * [Introducing JSON](http://json.org/)
 * [JSON API](http://jsonapi.org/)
