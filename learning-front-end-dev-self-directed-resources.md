@@ -80,76 +80,74 @@
 
 目前，大多数前端开发人员使用 Chrome 和“Chrome 开发者工具”来开发前端代码。然而，主流的现代浏览器都提供了各自风格的开发工具。可以根据个人喜好选择一个用于开发。更重要的问题是了解你需要支持哪些设备上的哪些浏览器，然后进行适当的测试。
 
-#### 3.3 - Learn Domain Name System \(aka DNS\) <a id="4.3"></a>
+## 3.3 域名系统 \(DNS\)
 
-> The Domain Name System \(DNS\) is a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates domain names, which can be easily memorized by humans, to the numerical IP addresses needed for the purpose of computer services and devices worldwide. The Domain Name System is an essential component of the functionality of most Internet services because it is the Internet's primary directory service.
+> 域名系统（DNS）是用于计算机、服务或连接到因特网或专用网络的任何资源的分层分布式命名系统。它将各种信息与分配给每个参与实体的域名相关联。最浅显易见的是，它将人们可以轻易记忆的域名转换为世界各地的计算机服务和设备所需的数字IP地址。域名系统是大多数互联网服务功能的重要组成部分，因为它是互联网的主索引服务。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System)
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how_dns_works.jpg)
+![&#x56FE;&#x7247;&#x6765;&#x6E90;: http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how\_dns\_works.jpg](.gitbook/assets/how_dns_works.jpg)
 
-Image source: [http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how\_dns\_works.jpg](http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg)
+* [DNS 术语、组件与概念简介](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[read\]
+* [DNS 说明](https://www.youtube.com/watch?v=72snZctFFtA) \[watch\]
+* [DNS 如何运作](https://howdns.works/ep1/) \[read\]
+* [互联网: IP 地址与 DNS](https://www.youtube.com/watch?v=5o8CwafCxnU&index=3&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) \[watch\]
+* [什么是域名？](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) \[read\]
 
-* [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[read\]
-* [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA) \[watch\]
-* [How DNS Works](https://howdns.works/ep1/) \[read\]
-* [The Internet: IP Addresses and DNS](https://www.youtube.com/watch?v=5o8CwafCxnU&index=3&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) \[watch\]
-* [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) \[read\]
+## 3.4 学习 HTTP/网络 \(包括 CORS & WebSockets\)
 
-#### 3.4 - Learn HTTP/Networks \(Including CORS & WebSockets\) <a id="4.4"></a>
-
-> **HTTP** - The Hypertext Transfer Protocol \(HTTP\) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
+> **HTTP** - 超文本传输协议\(HTTP\)是一种用于分布式、协作性、超媒体信息系统的应用协议。HTTP是万维网数据通信的基础。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-**HTTP Specifications**
+**HTTP 规范**
 
 * [HTTP/2](https://http2.github.io/)
-* [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
+* [超文本传输协议 -- HTTP/1.1](https://tools.ietf.org/html/rfc2616)
 
-**HTTP Docs**
+**HTTP 文档**
 
 * [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) \[read\]
 
-**HTTP Videos/Articles/Tutorials**
+**HTTP 视频/文章/教程**
 
-* [High Performance Browser Networking: What Every Web Developer Should Know About Networking and Web Performance](http://chimera.labs.oreilly.com/books/1230000000545/index.html) \[read\]
-* [MDN: An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) \[read\]
-* [HTTP: The Definitive Guide \(Definitive Guides\)](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[read\]\[$\]
-* [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/#what-are-the-key-differences-to-http1x) \[read\]
-* [HTTP Fundamentals](http://www.pluralsight.com/courses/xhttp-fund) \[watch\]\[$\]
-* [HTTP/2 Fundamentals](https://app.pluralsight.com/library/courses/http2-fundamentals/table-of-contents) \[watch\]\[$\]
-* [HTTP: The Protocol Every Web Developer Must Know - Part 1](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) \[read\]
-* [HTTP: The Protocol Every Web Developer Must Know - Part 2](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) \[read\]
-* [HTTP Succinctly](http://code.tutsplus.com/series/http-succinctly--net-33683) \[read\]
+* [高性能浏览器网络：每个 Web 开发人员都应该知道的关于网络与 Web 性能的知识](http://chimera.labs.oreilly.com/books/1230000000545/index.html) \[read\]
+* [MDN: HTTP 总览](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) \[read\]
+* [HTTP: 权威指南](https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=cm_cr_arp_d_product_top?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=11b990b79d33ddbef63712765715a9c1&camp=1789&creative=9325) \[read\]\[$\]
+* [HTTP/2 常见问题](https://http2.github.io/faq/#what-are-the-key-differences-to-http1x) \[read\]
+* [HTTP 基础](http://www.pluralsight.com/courses/xhttp-fund) \[watch\]\[$\]
+* [HTTP/2 基础](https://app.pluralsight.com/library/courses/http2-fundamentals/table-of-contents) \[watch\]\[$\]
+* [HTTP: 每个 Web 开发者必须知道的协议 - 第一部分](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) \[read\]
+* [HTTP: 每个 Web 开发者必须知道的协议 - 第二部分](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155) \[read\]
+* [HTTP 简要概述](http://code.tutsplus.com/series/http-succinctly--net-33683) \[read\]
 
-**HTTP Status Codes**
+**HTTP 状态码**
 
-* [HTTP Status Codes](https://httpstatuses.com/)
-* [HTTP Status Codes in 60 Seconds](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[watch\]
+* [HTTP 状态码](https://httpstatuses.com/)
+* [60秒学会 HTTP 状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[watch\]
 
-> **CORS** - Cross-origin resource sharing \(CORS\) is a mechanism that allows restricted resources \(e.g., fonts\) on a web page to be requested from another domain outside the domain from which the resource originated.
+> **CORS** - 跨源资源共享\(CORS\)是一种机制，它允许 Web 页面访问来自不同源服务器上的指定的资源\(例如字体\)。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 
-**CORS Specifications**
+**CORS 规范**
 
-* [Cross-Origin Resource Sharing](https://www.w3.org/TR/cors/)
+* [跨源资源共享](https://www.w3.org/TR/cors/)
 
 **CORS**
 
-* [CORS in Action](https://www.amazon.com/CORS-Action-Creating-consuming-cross-origin/dp/161729182X/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=47ebd885d688a4ed69f77a1bd8273f8a&camp=1789&creative=9325) \[read\]\[$\]
-* [HTTP Access Control \(CORS\)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) \[read\]
+* [CORS 行动](https://www.amazon.com/CORS-Action-Creating-consuming-cross-origin/dp/161729182X/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=47ebd885d688a4ed69f77a1bd8273f8a&camp=1789&creative=9325) \[read\]\[$\]
+* [HTTP 访问控制 \(CORS\)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) \[read\]
 
-> **WebSockets** - WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C.
+> **WebSockets** - WebSocket 是通过一个 TCP 连接提供全双工通信通道的协议。IETF 在 2011 年将 WebSocket 协议标准化为RFC 6455，而 Web IDL 中的 WebSocket API 正在被 W3C 标准化。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 
 **WebSockets**
 
-* [Connect the Web With WebSockets](https://code.tutsplus.com/courses/connect-the-web-with-websockets) \[watch\]
-* [WebSocket: Lightweight Client-Server Communications](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[read\]\[$\]
-* [The WebSocket Protocol](https://tools.ietf.org/html/rfc6455) \[read\]
+* [通过 WebSockets 连接网络](https://code.tutsplus.com/courses/connect-the-web-with-websockets) \[watch\]
+* [WebSocket: 轻量级客户端 - 服务器通信协议](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[read\]\[$\]
+* [WebSocket 协议](https://tools.ietf.org/html/rfc6455) \[read\]
 
 #### 3.5 - Learn Web Hosting <a id="4.5"></a>
 
