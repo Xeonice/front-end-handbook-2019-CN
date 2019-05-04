@@ -323,51 +323,47 @@ description: 本章将从“如何成为前端开发人员”开始，逐步分�
 
 ![](.gitbook/assets/full-stack.jpg)
 
-The term "Full-Stack" developer has come to take on several meanings. So many, that not one meaning is clear when the term is used. Just consider the results from the two surveys shown below. These results might lead one to believe that being a full-stack developer is commonplace. But, in my almost 20 years of experience, this is anything but the case in a professional context.
+"全栈"开发者这个词的含义越来越多，以至于当我们使用此术语时，没有一个含义是明确的。先看看下面两份调查报告，这些报告可能会让人以为大多数开发者都是全栈开发者，但以我近 20 年的经验来看，这不太可能是开发领域的现状。
 
 ![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781\#.ngcpn8nlz](.gitbook/assets/fullstack1.png)
 
 ![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;https://insights.stackoverflow.com/survey/2017\#developer-profile-specific-developer-types](.gitbook/assets/fullstack2.png)
 
-The roles to design and develop a website or web application require a deep set of skills and vast experience in the area of visual design, UI/interaction design, [front-end development](https://github.com/kamranahmedse/developer-roadmap#-front-end-roadmap), and [back-end development](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap). Any person who can fill one or more of these 4 roles at a professional level is an extremely rare commodity.
+设计和开发网站或 Web 应用的角色需要在视觉设计、UI/交互设计、[前端开发](https://github.com/kamranahmedse/developer-roadmap#-front-end-roadmap)和[后端开发](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap)领域具备精湛的技能与丰富的经验，任何能够以高水准胜任这四个角色中的一个或多个的人都是极为罕见的。
 
-Pragmatically, you should seek to be, or seek to hire, an expert in one of these roles \(i.e. Visual Design, Interaction Design/IA, Front-end Dev, Back-end Dev\). Those who claim to operate at an expert level at one or more of these roles are exceptionally rare.
+实际上，你应该以成为或招募上述角色中专精于单一领域的人才（即视觉设计，交互设计/ IA，前端开发，后端开发）为目标，能够在单个/多个领域中达到专家级水平的人非常罕见。
 
-However, given that JavaScript has infiltrated all layers of a technology stack \(i.e. Node.js\) finding a full-stack JS developer who can code the front-end and back-end is becoming less mythical. Typically, these full-stack developers only deal with JavaScript. A developer who can code the front-end, back-end, API, and database isn't as absurd as it once was \(excluding visual design, interaction design, and CSS\). Still mythical in my opinion, but not as uncommon as it once was. Thus, I wouldn't recommend a developer set out to become a "full-stack" developer. In rare situations, it can work. But, as a general concept for building a career as a front-end developer, I'd focus on front-end technologies.
+然而，考虑到 JavaScript 已经渗透到所有层级的技术栈（即 Node.js），找到一个能够编写前端和后端代码的全栈 JS 开发人员就不那么不切实际了。一般来说，这些全栈开发人员只和 JavaScript 打交道。同时编写前端、后端、API 和数据库代码不再像以前那样遥不可及（不包括视觉设计、交互设计和 CSS）。在我看来这些人依旧像都市传说一样，但不像以前那么罕见。因此，我不建议开发人员将成为“全栈”开发人员作为目标。极少数情况下，它是可行的。但是，本文是规划前端开发人员职业生涯的通识，因此我会专注于前端技术。
 
 ## 2.8 前端面试
 
+**准备阶段:**
 
+* [2017 年，如何准备前端开发面试](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
+* [破解前端面试](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
+* [前端面试手册](https://github.com/yangshun/front-end-interview-handbook)
+* [揭秘前端面试流程](https://dev.to/emmawedekind/decoding-the-front-end-interview-process-14dl)
 
-**Preparing:**
+**问答题:**
 
-* [Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
-* [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
-* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-* [Decoding the Front-end Interview Process](https://dev.to/emmawedekind/decoding-the-front-end-interview-process-14dl)
+* [前端 Web 开发问答](http://davidshariff.com/quiz/)
+* [JavaScript Web 问答](http://davidshariff.com/js-quiz/)
 
-**Quiz's:**
+**你可能被问到的问题:**
 
-* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
-* [JavaScript Web Quiz](http://davidshariff.com/js-quiz/)
+* [10 个所有 JavaScript 开发者应该知道的面试问题](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [前端岗位面试问题](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
+* [前端 Web 开发问答](http://davidshariff.com/quiz/)
+* [前端开发面试题](http://thatjsdude.com/interview/index.html)
+* [最好的前端 JavaScript 面试问题（由一名前端开发工程师编写）](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28Written-by-a-Frontend-Engineer)
 
-**Questions you may get asked:**
+**你会提的问题:**
 
-* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-* [Front-End Job Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
-* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
-* [Interview Questions for Front-End-Developer](http://thatjsdude.com/interview/index.html)
-* [The Best Frontend JavaScript Interview Questions \(written by a Frontend Engineer\)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28Written-by-a-Frontend-Engineer)\)
-
-**Questions you ask:**
-
-* [An open source list of developer questions to ask prospective employers](https://github.com/ChiperSoft/InterviewThis)
+* [开源列表 -- 开发者会向未来雇主提出的问题](https://github.com/ChiperSoft/InterviewThis)
 
 ## 2.9 前端招聘板
 
-
-
-A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant resources for finding a specific front-end position/career.
+技术岗招聘渠道非常多，以下精简过的列表是目前寻找特定前端职位/职业最相关的资源。
 
 * [authenticjobs.com](https://authenticjobs.com/#category=4)
 * [careers.stackoverflow.com](http://careers.stackoverflow.com/jobs?searchTerm=front-end)
@@ -380,17 +376,17 @@ A plethora of technical job listing outlets exist. The narrowed list below are c
 * [weworkremotely.com](https://weworkremotely.com/)
 * [www.smashingmagazine.com/jobs/](https://www.smashingmagazine.com/jobs/)
 
-> **Notes:**
+> **注:**
 >
-> 1. Want to work remotely as a front-end developer checkout these [remote-friendly companies](https://github.com/jessicard/remote-jobs).
+> 1. 如果你希望成为远程前端开发，可以看看这些[支持远程工作的公司](https://github.com/jessicard/remote-jobs)。
 
 ## 2.10 前端薪资待遇
 
-The national average in the U.S for a mid-level front-end developer is somewhere between [$65k](https://www.payscale.com/research/US/Job=Front_End_Developer_%2f_Engineer/Salary) and [100k](https://www.indeed.com/salaries/Front-End-Developer-Salaries).
+在美国，中级前端开发的平均薪资水平在 [$65k](https://www.payscale.com/research/US/Job=Front_End_Developer_%2f_Engineer/Salary) 到 [100k](https://www.indeed.com/salaries/Front-End-Developer-Salaries) 之间。
 
-Of course when you first start expect to enter the field at around 40k depending upon location and experience.
+当然，如果你期望进入该领域时拿到 40k 左右的薪资，这取决于地理位置和工作经验。
 
-> **Notes:**
+> **注:**
 >
-> 1. A lead/senior front-end developer/engineer can potentially live wherever they want \(i.e., work remotely\) and make over $150k a year \(visit [angel.co](https://angel.co/jobs), sign-up, review front-end jobs over $150k or examine the salary ranges on [Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y)\).
+> 1. Leader / 高级前端开发者 / 工程师拥有超过 $150k 的年薪，而且能生活在他们希望居住的地方（即远程工作）（访问 [angel.co](https://angel.co/jobs)，在 [Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y) 注册并查看年薪超过 $150k 的前端工作或自行约定薪资范围）。
 
