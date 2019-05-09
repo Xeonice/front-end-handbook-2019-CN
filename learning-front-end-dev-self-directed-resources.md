@@ -635,7 +635,7 @@ Static site generators, typically written using server side code \(i.e., ruby, p
 * [静态网站生成器](http://www.oreilly.com/web-platform/free/static-site-generators.csp) \[read\]
 * [Working with Static Sites - Bringing the Power of Simplicity to Modern Sites](https://www.amazon.com/Working-Static-Sites-Bringing-Simplicity/dp/1491960949) \[read\]\[$\]
 
-## 3.19 - 通过 JS 学习计算机科学
+## 3.19 通过 JS 学习计算机科学
 
 * [六个小时完成四学期的计算机科学课程](https://frontendmasters.com/courses/computer-science/) \[video\]\[$\]
 * [六个小时完成四学期的计算机科学课程：第二部分](https://frontendmasters.com/courses/computer-science-2/) \[video\]\[$\]
@@ -650,191 +650,192 @@ Static site generators, typically written using server side code \(i.e., ruby, p
 **综合学习:**
 
 * [Grab Front End Guide](https://github.com/grab/front-end-guide) \[read\]
-* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
-* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+* [JavaScript 项目最佳实践集合](https://github.com/elsewhencode/project-guidelines)
+* [ 现代 Web 开发魔法书](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [从零开始的 JavaScript 技术栈](https://github.com/verekia/js-stack-from-scratch)
 
-**Deprecated Learning Materials:**
+**不推荐的学习资料:**
 
-* [JavaScript Application Design](https://www.amazon.com/JavaScript-Application-Design-Build-Approach/dp/1617291951?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4dd15b53493d3b5148af2b3e5488e98d&camp=1789&creative=9325) \[read\]\[$\]
-* [Build an App with React and Ampersand](http://learn.humanjavascript.com/react-ampersand) \[watch\]
-* [Field Guide to Web Applications](http://www.html5rocks.com/webappfieldguide/toc/index/) \[read\]
-* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) \[read\]
+* [JavaScript Web 应用开发](https://www.amazon.com/JavaScript-Application-Design-Build-Approach/dp/1617291951?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4dd15b53493d3b5148af2b3e5488e98d&camp=1789&creative=9325) \[read\]\[$\]
+* [用 React 和 Ampersand 创建一个应用](http://learn.humanjavascript.com/react-ampersand) \[watch\]
+* [Web 应用现场指南](http://www.html5rocks.com/webappfieldguide/toc/index/) \[read\]
+* [前端指南问卷调查](https://github.com/bradfrost/frontend-guidelines-questionnaire) \[read\]
 * [Human JavaScript](http://read.humanjavascript.com/) \[read\]
-* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw) \[watch\]
-* [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/) \[watch\]\[$\]
-* [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) \[read\]
+* [Nicholas Zakas: 从零开始的 JavaScript 应用架构](https://www.youtube.com/watch?v=vXjVFPosQHw) \[watch\]
+* [整理 JavaScript 功能](https://frontendmasters.com/courses/organizing-javascript/) \[watch\]\[$\]
+* [用于大型 JavaScript 应用架构的模式](http://addyosmani.com/largescalejavascript/) \[read\]
 * [Terrific](http://terrifically.org/) \[read\]
-* [frontend case studies](https://github.com/andrew--r/frontend-case-studies) \[read\]
+* [前端案例学习](https://github.com/andrew--r/frontend-case-studies) \[read\]
 
-Not a lot of general content is being created on this topic as of late. Most of the content offered for learning how to build front-end/SPA/JavaScript applications presupposes you've decided up a tool like Angular, Ember, React, or Aurelia.
+.到目前为止，还没有多少关于此主题的综合内容。学习如何构建前端/SPA/JavaScript 应用的大部分内容都假设您已经决定使用Angular、Ember、React 或 Aurelia 等工具。
 
-My advice, in [2019](https://2018.stateofjs.com/front-end-frameworks/overview/) learn [React](https://facebook.github.io/react/) and [Mobx](https://github.com/mobxjs/mobx) and [Apollo/graphql](https://www.apollographql.com/).
+我的建议是，[2019](https://2018.stateofjs.com/front-end-frameworks/overview/) 年学习  [React](https://facebook.github.io/react/)、[Mobx](https://github.com/mobxjs/mobx) 与 [Apollo/graphql](https://www.apollographql.com/)。
 
-## 3.21 - Learn Data \(i.e. JSON\) API Design
+## 3.21 学习数据 API（即JSON）设计
 
-* [API Design, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/) \[watch\]\[$\]
-* [Build APIs You Won't Hate](http://apisyouwonthate.com/) \[$\]\[read\]
+* [API 设计（第三版）](https://frontendmasters.com/courses/api-design-nodejs-v3/) \[watch\]\[$\]
+* [构建您不会讨厌的 API](http://apisyouwonthate.com/) \[$\]\[read\]
 * [JSON API](http://jsonapi.org/) \[read\]
 
-## 3.22 - Learn React
+## 3.22 学习 React
 
-**Learning React:**
+**学习 React:**
 
-* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html) \[read\]
-* [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) \[read\]
-* [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) \[watch\]
-* [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/) \[watch\]\[$\]
+* [教程: React 简介](https://facebook.github.io/react/tutorial/tutorial.html) \[read\]
+* [面向初学者的 ReactJS](http://blog.andrewray.me/reactjs-for-stupid-people/) \[read\]
+* [ReactJS 初学者指南](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) \[watch\]
+* [React 第四版完全简介](https://frontendmasters.com/courses/complete-react-v4/) \[watch\]\[$\]
 * [React 🎄](https://react.holiday/) \[read\]
-* [React Patterns Video Subscription](https://school.reactpatterns.com/) \[watch\]\[$\]
-* [React Enlightenment](https://www.reactenlightenment.com/) \[read\]
-* [REACT JS TUTORIAL \#1 - Reactjs Javascript Introduction & Workspace Setup](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=6s) \[watch\]
+* [React Patterns 视频订阅](https://school.reactpatterns.com/) \[watch\]\[$\]
+* [React 启蒙](https://www.reactenlightenment.com/) \[read\]
+* [REACT JS 教程 \#1 - Reactjs Javascript 介绍 & Workspace 配置](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=6s) \[watch\]
 
-**Mastering React:**
+**精通 React:**
 
-* [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app) \[watch\]\[$\]
-* [Advanced React Component Patterns](https://frontendmasters.com/courses/advanced-react-patterns/) \[watch\]\[$\]
-* [Intermediate React](https://frontendmasters.com/courses/intermediate-react/) \[watch\]\[$\]
-* [React Patterns](https://reactpatterns.com/) \[read\]
-* [8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594) \[read\]
-* [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic) \[read\]
-* [React + Mobx codebase containing real world examples \(CRUD, auth, advanced patterns, etc\) that adheres to the RealWorld spec and API.](https://github.com/gothinkster/react-mobx-realworld-example-app) \[code\]
-* [An Introduction to React Router v4 and its Philosophy Toward Routing](https://medium.freecodecamp.org/react-router-v4-philosophy-and-introduction-730fd4fff9bc) \[read\]
+* [构建您的第一个产品级 React  应用](https://egghead.io/courses/build-your-first-production-quality-react-app) \[watch\]\[$\]
+* [React 组件模式进阶](https://frontendmasters.com/courses/advanced-react-patterns/) \[watch\]\[$\]
+* [中级 React](https://frontendmasters.com/courses/intermediate-react/) \[watch\]\[$\]
+* [React 模式](https://reactpatterns.com/) \[read\]
+* [8 个重要的 React 组件结论](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594) \[read\]
+* [React - 基本概念](https://github.com/reactjs/react-basic) \[read\]
+* [React + Mobx 代码库 -- 包含符合现实世界 API 规范与其他相关规范的真实案例 \(CRUD, auth, advanced patterns, etc\)](https://github.com/gothinkster/react-mobx-realworld-example-app) \[code\]
+* [介绍 React Router v4 及其路由原理](https://medium.freecodecamp.org/react-router-v4-philosophy-and-introduction-730fd4fff9bc) \[read\]
 
-Once you have a good handle on React move on to learning a more robust state management solution like [MobX](https://mobx.js.org/). If you are an experienced developer with Functional Programming knowledge look at [Redux](https://redux.js.org/). If you need help understanding the role of state management beyond React's `setState` watch, "[Advanced State Management in React \(feat. Redux and MobX\)](https://frontendmasters.com/courses/react-state/)".
+一旦你掌握了 React，就可以继续学习更强大的状态管理解决方案，比如 [MobX](https://mobx.js.org/)。 如果您是具有函数式编程知识的熟练开发人员，可以考虑了解 [Redux](https://redux.js.org/)。 如果您需要深入理解状态管理的作用，而不是仅仅是 React 的`setState`，请查阅 [“ React 状态管理进阶（Redux 和 MobX）“](https://frontendmasters.com/courses/react-state/)。
 
-## 3.23 - Learn Application State Management
+## 3.23 学习应用状态管理
 
-* [State management in JavaScript](https://codeburst.io/state-management-in-javascript-15d0d98837e1) \[read\]
-* [Advanced State Management in React \(feat. Redux and MobX\)](https://frontendmasters.com/courses/react-state/) \[watch\]\[$\]
-* [React js tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) \[watch\]
-* [MobX + React is AWESOME](https://www.youtube.com/watch?v=_q50BXqkAfI&t=10s) \[watch\]
+* [JavaScript 中的状态管理](https://codeburst.io/state-management-in-javascript-15d0d98837e1) \[read\]
+* [React 状态管理进阶（Redux 和 MobX）](https://frontendmasters.com/courses/react-state/) \[watch\]\[$\]
+* [React js 教程 - Redux 如何工作](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) \[watch\]
+* [MobX + React 非常棒](https://www.youtube.com/watch?v=_q50BXqkAfI&t=10s) \[watch\]
 
-## 3.24 - Learn Progressive Web App
+## 3.24 学习渐进式 Web 应用（PWA）
 
-> Unlike traditional applications, progressive web apps are a hybrid of regular web pages \(or websites\) and a mobile application. This new application model attempts to combine features offered by most modern browsers with the benefits of mobile experience.
+> 与传统应用程序不同，渐进式 Web 应用是常规网页（或网站）与移动应用程序的混合体。这种新的应用程序模型试图将大多数现代浏览器提供的功能与移动体验的优势相结合。 
 >
-> In 2015, designer Frances Berriman and Google Chrome engineer Alex Russell coined the term "Progressive Web Apps" to describe apps taking advantage of new features supported by modern browsers, including Service Workers and Web App Manifests, that let users upgrade web apps to be first-class applications in their native OS.
+> 2015年，设计师 Frances Berriman 和 Google Chrome 工程师 Alex Russell 创造了“渐进式网络应用程序（PWA）”这一术语来描述利用现代浏览器新功能优势的应用程序，包括 Service Workers 和 Web App Manifests，这些新功能允许用户在 Web 应用中获得与原生应用近似的体验。
 >
-> According to Google Developers, these characteristics are:
+> 根据谷歌开发者的介绍，这些特征是： 
 >
-> * Progressive - Work for every user, regardless of browser choice because they’re built with progressive enhancement as a core tenet.
-> * Responsive - Fit any form factor: desktop, mobile, tablet, or forms yet to emerge.
-> * Connectivity independent - Service workers allow work offline, or on low quality networks.
-> * App-like - Feel like an app to the user with app-style interactions and navigation.
-> * Fresh - Always up-to-date thanks to the service worker update process.
-> * Safe - Served via HTTPS to prevent snooping and ensure content hasn’t been tampered with.
-> * Discoverable - Are identifiable as “applications” thanks to W3C manifests\[6\] and service worker registration scope allowing search engines to find them.
-> * Re-engageable - Make re-engagement easy through features like push notifications.
-> * Installable - Allow users to “keep” apps they find most useful on their home screen without the hassle of an app store.
-> * Linkable - Easily shared via a URL and do not require complex installation.
+> * 渐进式——为每个用户提供服务，不论他们选择什么浏览器，因为应用的核心原则是渐进式增强。
+> * 自适应——适合任何形式的因素:桌面，移动，平板电脑，或形式尚未出现。
+> * 独立连接——Service Worker 允许离线工作，或在低质量的网络上工作。
+> * 类应用程序——体验类似于一个面向用户的 APP，具备 APP 级别的交换和导航
+> * 保持最新版本——Service Worker 更新过程保证应用程序总是处于最新版本。
+> * 安全——通过 HTTPS 提供服务，以防止窥探，并确保内容没有被篡改。
+> * 可发现的——W3C manifest\[6\] 和 Service worker 注册范围允许搜索引擎找到它们，并将其标识为“应用程序”。
+> * 可重新参与——通过推送通知等功能使重新参与变得容易。
+> * 可安装——允许用户不经过应用商店，将他们认为最有用的应用“保存”在主屏幕上。
+>
+>   可链接——通过 URL 轻松共享，不需要复杂的安装。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
 
-* [A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) \[read\]
-* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) \[read\]
-* [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) \[watch\]\[$\]
-* [Building a Progressive Web App](https://www.lynda.com/CSS-tutorials/Building-Progressive-Web-App/518052-2.html) \[watch\]\[$\]
-* [Intro to Progressive Web Apps by Google](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) \[watch\]
-* [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.rfw9hdym6) \[read\]
-* [Why Native Apps Really are Doomed: Native Apps are Doomed pt 2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.qjrm13yj3) \[read\]
-* [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/) \[read\]
-* [Progressive Web Applications and Offline](https://frontendmasters.com/courses/progressive-web-apps/) \[watch\]\[$\]
+* [渐进式 Web 应用初学者指南](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) \[read\]
+* [渐进式 Web 应用（PWA）](https://developers.google.com/web/progressive-web-apps/) \[read\]
+* [渐进式 Web 应用入门](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) \[watch\]\[$\]
+* [构建渐进式 Web 应用](https://www.lynda.com/CSS-tutorials/Building-Progressive-Web-App/518052-2.html) \[watch\]\[$\]
+* [Google 推出的渐进式 Web 应用简介](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) \[watch\]
+* [原生应用的末日](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.rfw9hdym6) \[read\]
+* [为什么原生应用注定失败：原生应用的末日 pt 2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.qjrm13yj3) \[read\]
+* [您的第一个渐进式 Web 程序](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/) \[read\]
+* [渐进式 Web 应用与脱机](https://frontendmasters.com/courses/progressive-web-apps/) \[watch\]\[$\]
 
-## 3.25 - Learn JS API Design
+## 3.25 学习 JS API 设计
 
-* [Designing Better JavaScript APIs](http://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) \[read\]
-* [Writing JavaScript APIs](http://blog.wolksoftware.com/writing-javascript-apis) \[read\]
+* [设计更好的 JavaScript APIs](http://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) \[read\]
+* [编写 JavaScript APIs](http://blog.wolksoftware.com/writing-javascript-apis) \[read\]
 
-## 3.26 - Learn Browser Web Developer Tools
+## 3.26 学习浏览器开发者工具
 
-> Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application.
+> Web 开发工具允许 Web 开发人员测试与调试代码。它们不同于网站构建器和 IDE，因为它们不会直接参与网页构建，而是用于测试网站或 web 应用的工具。
 >
-> Web development tools come as browser add-ons or built in features in web browsers. The most popular web browsers today like, Google Chrome, Firefox, Opera, Internet Explorer, and Safari have built in tools to help web developers, and many additional add-ons can be found in their respective plugin download centers.
+> Web 开发工具作为浏览器的附加组件或内置特性出现在 Web 浏览器中。目前最流行的 Web 浏览器，如谷歌 Chrome、Firefox、Opera、Internet Explorer 和 Safari，都内置了协助 Web 开发人员的工具，而且可以在它们各自的插件下载中心中找到许多附加组件。
 >
-> Web development tools allow developers to work with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser. Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers.
+> Web 开发工具允许开发人员使用各种 Web 技术，包括 HTML、CSS、DOM、JavaScript 和其他由 Web 浏览器管理的组件，由于 Web 浏览器需求的增加，更受欢迎的Web浏览器包含了更多面向开发人员的功能。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)
 
-While most browsers come equipped with web developer tools, the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and widely used.
+虽然大多数浏览器都配备了web开发工具，但 [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/)是其中讨论最多、使用最广泛的。
 
-I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools.
+我建议学习和使用 [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/)，因为学习 Web 开发者工具的最佳资源依旧是围绕 Chrome 做讨论的。
 
-**Learn Chrome Web Developer Tools:**
+**学习 Chrome 开发者工具:**
 
-* [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) \[watch\]\[$\]
-* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) \[watch\]
-* [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/) \[watch\]\[$\]
-* [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) \[watch\]\[$\]
-* [Learning Chrome Web Developer Tools](https://www.lynda.com/Chrome-tutorials/Learning-Chrome-Web-Developer-Tools/590844-2.html) \[watch\]\[$\]
+* [Chrome 开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) \[watch\]\[$\]
+* [探索并精通 Chrome 开发者工具](http://discover-devtools.codeschool.com/) \[watch\]
+* [精通 Chrome 开发者工具（第二版）](https://frontendmasters.com/courses/chrome-dev-tools-v2/) \[watch\]\[$\]
+* [实用 Chrome 开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) \[watch\]\[$\]
+* [学习 Chrome 开发者工具](https://www.lynda.com/Chrome-tutorials/Learning-Chrome-Web-Developer-Tools/590844-2.html) \[watch\]\[$\]
 
-**Chrome Web Developer Tools Docs:**
+**Chrome 开发者工具文档:**
 
-* [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-* [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
-* [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
-* [Configure and Customize DevTools](https://developer.chrome.com/devtools/docs/settings)
+* [Command Line API 参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+* [键盘快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+* [面板文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+* [配置/自定义开发者工具](https://developer.chrome.com/devtools/docs/settings)
 
-#### 3.27 - Learn the Command Line \(aka CLI\) <a id="4.27"></a>
+## 3.27 学习命令行（CLI）
 
-> A command-line interface or command language interpreter \(CLI\), also known as command-line user interface, console user interface, and character user interface \(CUI\), is a means of interacting with a computer program where the user \(or client\) issues commands to the program in the form of successive lines of text \(command lines\).
+> 命令行界面或命令语言解释器（CLI），也称为命令行用户界面、控制台用户界面和字符用户界面（CUI），是与用户（或客户端）的计算机程序交互的手段。 以连续的文本行（命令行）的形式向程序发出命令。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Command-line_interface)
 
-**General Learning:**
+**综合学习:**
 
-* [The Bash Guide](http://guide.bash.academy/) \[read\]
-* [Command Line Power User](http://commandlinepoweruser.com/) \[watch\]
-* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) \[read\] \[free to $\]
+* [Bash 指南](http://guide.bash.academy/) \[read\]
+* [命令行高级用户](http://commandlinepoweruser.com/) \[watch\]
+* [学习足够让你变得危险的命令行](http://www.learnenough.com/command-line-tutorial) \[read\] \[free to $\]
 
-**Mastering:**
+**精通:**
 
-* [Advanced Command Line Techniques](https://code.tutsplus.com/courses/advanced-command-line-techniques) \[watch\]\[$\]
-* [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/) \[watch\]\[$\]
+* [命令行进阶技巧](https://code.tutsplus.com/courses/advanced-command-line-techniques) \[watch\]\[$\]
+* [Bash, VIM 和 Regex 简介](https://frontendmasters.com/courses/bash-vim-regex/) \[watch\]\[$\]
 
-#### 3.28 - Learn Node.js <a id="4.28"></a>
+## 3.28 学习 Node.js
 
-> Node.js is an open-source, cross-platform runtime environment for developing server-side web applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System z and IBM i. Its work is hosted and supported by the Node.js Foundation, a collaborative project at Linux Foundation.
+> Node.js 是一个开源的跨平台运行时环境，用于开发服务器端 Web 应用程序。 Node.js 应用程序是用 JavaScript 编写的，可以在OS X，Microsoft Windows，Linux，FreeBSD，NonStop，IBM AIX，IBM System z 和 IBM i 上的 Node.js 运行时中运行。 该项目由 Node.js 基金会托管和支持，该基金会是 Linux 基金会的一个合作项目。 
 >
-> Node.js provides an event-driven architecture and a non-blocking I/O API designed to optimize an application's throughput and scalability for real-time web applications. It uses Google V8 JavaScript engine to execute code, and a large percentage of the basic modules are written in JavaScript. Node.js contains a built-in library to allow applications to act as a web server without software such as Apache HTTP Server, Nginx or IIS.
+> Node.js 提供了一整套事件驱动的体系结构和非阻塞 I/O API，旨在优化应用程序的吞吐量和实时 Web 应用程序的可伸缩性。 它使用 Google V8 JavaScript 引擎来执行代码，而大部分基本模块都是用 JavaScript 编写的。 Node.js 包含一个内置库，允许应用在没有 Apache HTTP Server，Nginx 或 IIS 等软件的情况下充当 Web 服务器。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Node.js)
 
-**General Learning:**
+**综合学习:**
 
-* [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) \[read\]
-* [Introduction to Node.js](https://frontendmasters.com/courses/node-js/) \[watch\]\[$\]
-* [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) \[watch\]
-* [io.js and Node.js Next: Getting Started](http://www.pluralsight.com/courses/running-node-applications-io-js) \[watch\]\[$\]
+* [Node 的艺术](https://github.com/maxogden/art-of-node#the-art-of-node) \[read\]
+* [Node.js 介绍](https://frontendmasters.com/courses/node-js/) \[watch\]\[$\]
+* [Node.js 介绍（Evented Mind）](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) \[watch\]
+* [io.js 与 Node.js Next 入门](http://www.pluralsight.com/courses/running-node-applications-io-js) \[watch\]\[$\]
 * [Learning Node: Moving to the Server-Side](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=264ce29eb0775f4e8ccb7db892539555&camp=1789&creative=9325) \[read\]\[$\]
-* [Learn You The Node.js](https://github.com/workshopper/learnyounode) \[self-guided workshops\]
-* [Node.js Basics](http://teamtreehouse.com/library/nodejs-basics) \[watch\]\[$\]
+* [了解 Node.js](https://github.com/workshopper/learnyounode) \[self-guided workshops\]
+* [Node.js 基础](http://teamtreehouse.com/library/nodejs-basics) \[watch\]\[$\]
 * [Node.js in Practice](https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e202c01e97ebad79157fab3b59723e94&camp=1789&creative=9325) \[read\]\[$\]
-* [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js) \[watch\]
-* [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/) \[watch\]\[$\]
-* [Learn Node](https://learnnode.com/) \[watch\]\[$\]
+* [实时 Web 与 Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js) \[watch\]
+* [Node.js 中的 API 设计（第三版）](https://frontendmasters.com/courses/api-design-nodejs-v3/) \[watch\]\[$\]
+* [学习 Node](https://learnnode.com/) \[watch\]\[$\]
 
-#### 3.29 - Learn Modules <a id="4.29"></a>
+## 3.29 学习模块
 
-**General Learning:**
+**综合学习:**
 
-* [JavaScript for impatient programmers - Modules](http://exploringjs.com/impatient-js/ch_modules.html) \[read\]
-* [ES6 Modules in Depth](https://ponyfoo.com/articles/es6-modules-in-depth) \[read\]
-* [Exploring JS - Modules](http://exploringjs.com/es6/ch_modules.html#ch_modules) \[read\]
-* [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) \[read\]
+* [面向急性子的 JavaScript - 模块](http://exploringjs.com/impatient-js/ch_modules.html) \[read\]
+* [深入 ES6 模块](https://ponyfoo.com/articles/es6-modules-in-depth) \[read\]
+* [探索 JS - 模块](http://exploringjs.com/es6/ch_modules.html#ch_modules) \[read\]
+* [漫画深入 ES 模块](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) \[read\]
 
-**References/Docs:**
+**参考文献/文档:**
 
 * [MDN - export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 * [MDN - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 
-#### 3.30 - Learn Module loaders/bundlers <a id="4.30"></a>
+## 3.30 - 学习模块加载器/打包工具
 
 **Webpack:**
 
 * [Webpack](https://webpack.js.org/guides/getting-started/) \[read\]
-* [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) \[watch\]\[$\]
-* [Survivejs.com Webpack Book](https://survivejs.com/webpack/introduction/) \[read\]
+* [Webpack 4 基础](https://frontendmasters.com/courses/webpack-fundamentals/) \[watch\]\[$\]
+* [Survivejs.com Webpack 小册](https://survivejs.com/webpack/introduction/) \[read\]
 
 **Rollup:**
 
@@ -845,7 +846,7 @@ I'd suggest learning and using the [Chrome web developer tools](https://develope
 
 * [Parcel](https://parceljs.org/getting_started.html) \[read\]
 
-#### 3.31 - Learn Package Manager <a id="4.31"></a>
+## 3.31 学习包管理工具
 
 > A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a computer's operating system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
 >
@@ -859,7 +860,7 @@ I'd suggest learning and using the [Chrome web developer tools](https://develope
 * [npm docs](https://docs.npmjs.com/)
 * [yarn docs](https://yarnpkg.com/en/docs/)
 
-#### 3.32 - Learn Version Control <a id="4.32"></a>
+## 3.32 - Learn Version Control
 
 > A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number," "revision level," or simply "revision." For example, an initial set of files is "revision 1." When the first change is made, the resulting set is "revision 2," and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 >
@@ -886,7 +887,7 @@ The most common solution used for [version control](https://en.wikipedia.org/wik
 * [https://git-scm.com/doc](https://git-scm.com/docs)
 * [git-cheatsheet](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
 
-#### 3.33 - Learn Build and Task Automation <a id="4.33"></a>
+## 3.33 - Learn Build and Task Automation
 
 > Build automation is the process of automating the creation of a software build and the associated processes including: compiling computer source code into binary code, packaging binary code, and running automated tests.
 >
@@ -912,7 +913,7 @@ Read:
 * [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
 * [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
 
-#### 3.34 - Learn Site Performance Optimization <a id="4.34"></a>
+## 3.34 - Learn Site Performance Optimization
 
 > Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor.
 >
@@ -935,7 +936,7 @@ Read:
 * [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) \[watch\]
 * [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[read\]
 
-#### 3.35 - Learn Testing <a id="4.35"></a>
+## 3.35 - Learn Testing
 
 > **Unit Testing** - In computer programming, unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Intuitively, one can view a unit as the smallest testable part of an application.
 >
@@ -963,7 +964,7 @@ Read:
 * [Testing React Applications, v2](https://frontendmasters.com/courses/testing-react/) \[watch\]\[$\]
 * [Learn Javascript Unit Testing With Mocha, Chai and Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) \[watch\]\[$\]
 
-#### 3.36 - Learn Headless Browsers <a id="4.36"></a>
+## 3.36 - Learn Headless Browsers
 
 > A headless browser is a web browser without a graphical user interface.
 >
@@ -975,7 +976,7 @@ Read:
 
 [PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) steps in.
 
-#### 3.37 - Learn Offline Development <a id="4.37"></a>
+## 3.37 - Learn Offline Development
 
 Offline development \(aka offline first\) is an area of knowledge and discussion around development practices for devices that are not always connected to the Internet or a power source.
 
@@ -988,7 +989,7 @@ Offline development \(aka offline first\) is an area of knowledge and discussion
 * [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) \[read\]
 * [Offline Quickstart](https://developers.google.com/web/ilt/pwa/offline-quickstart)\[read\]
 
-#### 3.38 - Learn Web/Browser/App Security <a id="4.38"></a>
+## 3.38 - Learn Web/Browser/App Security
 
 * [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) \[read\]
 * [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) \[watch\]
@@ -1006,7 +1007,7 @@ Offline development \(aka offline first\) is an area of knowledge and discussion
 * [Web Security](https://frontendmasters.com/courses/web-security/) \[watch\]\[$\]
 * [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) \[watch\]\[$\]
 
-#### 3.39 - Learn Multi-Device Development <a id="4.39"></a>
+## 3.39 - Learn Multi-Device Development
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/things.jpg)
 
