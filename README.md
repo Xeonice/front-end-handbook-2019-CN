@@ -4,3 +4,13 @@
 
 源仓库地址：[https://github.com/FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019)
 
+当前翻译进度：
+
+* [x] Chapter 0
+* [x] Chapter 1
+* [x] Chapter 2
+* [ ] Chapter 3（ing）
+* [ ] Chapter 4
+* [ ] Chapter 5
+* [ ] Chapter 6
+
