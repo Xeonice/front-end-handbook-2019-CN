@@ -149,144 +149,142 @@
 * [WebSocket: 轻量级客户端 - 服务器通信协议](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=dd39395cf3d2ab4fc7c820d7c19db39a&camp=1789&creative=9325) \[read\]\[$\]
 * [WebSocket 协议](https://tools.ietf.org/html/rfc6455) \[read\]
 
-#### 3.5 - Learn Web Hosting <a id="4.5"></a>
+## 3.5 学习网络托管
 
-> A web hosting service is a type of Internet hosting service that allows individuals and organizations to make their website accessible via the World Wide Web. Web hosts are companies that provide space on a server owned or leased for use by clients, as well as providing Internet connectivity, typically in a data center.
->
+> 网络托管服务是一种允许个人和组织通过万维网访问其网站的互联网托管服务，Web 托管商是指在客户自有/租用的服务器上提供空间以及提供 Internet 连接（通常在数据中心中）的公司。
+
 > — [Wikipedia](https://en.wikipedia.org/wiki/Web_hosting_service)
 
-**General Learning:**
+**综合学习:**
 
-* [Web Hosting 101: Get Your Website Live on the Web in No Time](https://www.udemy.com/web-hosting-101/) \[video\]
+* [网络托管 101: 立即让你的网站与 Web 连接](https://www.udemy.com/web-hosting-101/) \[video\]
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/what-is-web-hosting-infographic.jpg)
+![&#x56FE;&#x7247;&#x6765;&#x6E90;: https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/what-is-web-hosting-infographic.jpg)
 
-Image source: [https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg](https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg)
+## 3.6 学习通用前端开发
 
-#### 3.6 - Learn General Front-End Development <a id="4.6"></a>
-
-* [Frontend Bootcamp / Days in the Web](https://github.com/Microsoft/frontend-bootcamp) \[read\]
-* [Becoming a Career-Ready Web Developer](https://frontendmasters.com/learn/beginner/)
-* [Become a Front-End Web Developer](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) \[watch\]\[$\]
-* [Being a web developer](http://www.yellowshoe.com.au/standards) \[read\]
+* [前端训练营 / 互联网上的日子](https://github.com/Microsoft/frontend-bootcamp) \[read\]
+* [为 Web 开发生涯提前做好准备](https://frontendmasters.com/learn/beginner/)
+* [成为一名前端开发者](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) \[watch\]\[$\]
+* [成为一名 Web 开发者](http://www.yellowshoe.com.au/standards) \[read\]
 * [freeCodeCamp](http://freecodecamp.com/) \[interact\]
-  * [learning front-end development during \#100DaysOfCode \[read\]](https://github.com/nas5w/100-days-of-code-frontend#contibuting)
-* [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) \[watch\]\[$\]
-* [Front End Web Development Career Kickstart](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) \[watch\]\[$\]
-* [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) \[watch\]\[$\]
-* [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) \[watch\]\[$\]
-* [Front-End Web Development: The Big Nerd Ranch Guide](https://www.amazon.com/Front-End-Web-Development-Ranch-Guide/dp/0134433947/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=06802d4e42ca55b03294779c960d0826&camp=1789&creative=9325) \[read\]\[$\]
-* [Complete Intro to Web Development](https://frontendmasters.com/courses/web-development-v2/) \[watch\]\[$\]
-* [Learn Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) \[watch\]\[$\]
-* [So, You Want to Be a Front-End Engineer](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[watch\]
-* [codecademy.com: Web Development Path](https://www.codecademy.com/learn/paths/web-development) \[interact\]\[free to $\]
+  * [通过 \#100DaysOfCode 学习前端开发\[read\]](https://github.com/nas5w/100-days-of-code-frontend#contibuting)
+* [前端开发者纳米学位](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) \[watch\]\[$\]
+* [前端开发生涯起步](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) \[watch\]\[$\]
+* [前端 Web 开发: 入门](http://www.pluralsight.com/courses/front-end-web-development-get-started) \[watch\]\[$\]
+* [前端 Web 开发快速入门（HTML5、CSS、JavaScript）](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) \[watch\]\[$\]
+* [Web 开发权威指南](https://www.amazon.com/Front-End-Web-Development-Ranch-Guide/dp/0134433947/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=06802d4e42ca55b03294779c960d0826&camp=1789&creative=9325) \[read\]\[$\]
+* [全面介绍 Web 开发](https://frontendmasters.com/courses/web-development-v2/)\[watch\]\[$\]
+* [学习前端 Web 开发](https://teamtreehouse.com/tracks/front-end-web-development) \[watch\]\[$\]
+* [所以，你希望成为一名前端开发工程师？](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[watch\]
+* [codecademy.com: Web 开发路线](https://www.codecademy.com/learn/paths/web-development) \[interact\]\[free to $\]
 * [web.dev](https://web.dev/learn) \[read\]
 
-#### 3.7 - Learn User Interface/Interaction Design <a id="4.7"></a>
+## 3.7 学习用户界面/交互设计
 
-> **User Interface Design** - User interface design \(UI\) or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing the user experience. The goal of user interface design is to make the user's interaction as simple and efficient as possible, in terms of accomplishing user goals \(user-centered design\).
+> **用户界面设计** - 用户界面设计\(UI\)或用户界面工程是为计算机、家用电器、移动设备和其他电子设备等机器和软件设计用户界面，以最大限度地提高用户体验作为核心。用户界面设计的目标是在实现用户目标\(以用户为中心的设计\)方面，使用户的交互尽可能的简单和高效。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/User_interface_design)
 >
-> **Interaction Design Pattern** - A design pattern is a formal way of documenting a solution to a common design problem. The idea was introduced by the architect Christopher Alexander for use in urban planning and building architecture, and has been adapted for various other disciplines, including teaching and pedagogy, development organization and process, and software architecture and design.
+> **交互设计模式** - 设计模式是记录常见设计问题解决方案的常用方式。这个概念是由建筑师克里斯托弗·亚历山大\(Christopher Alexander\)引入的，用于城市规划和建筑建筑学，并被应用于各种其他学科，包括教育学、开发组织和过程，以及软件架构与设计。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
 >
-> **User Experience Design** - User Experience Design \(UXD or UED or XD\) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product. User experience design encompasses traditional human–computer interaction \(HCI\) design, and extends it by addressing all aspects of a product or service as perceived by users.
+> **用户体验设计** - 用户体验设计\(UXD或UED或XD\)是通过提高用户与产品交互时，产品所提供的可用性、可访问性与乐趣来提高用户满意度的过程。用户体验设计包括传统的人机交互\(HCI\)设计，并通过满足用户感知的产品或服务的方方面面对其进行延伸。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/User_experience_design)
 >
-> **Human–Computer Interaction** - Human–computer interaction \(HCI\) researches the design and use of computer technology, focusing particularly on the interfaces between people \(users\) and computers. Researchers in the field of HCI both observe the ways in which humans interact with computers and design technologies that lets humans interact with computers in novel ways.
+> **人机交互** - 人机交互\(HCI\)研究计算机技术的设计和应用，专注于人\(用户\)与计算机之间的接口。HCI 领域的研究人员既观察了人与计算机交互的方式，也研究了让人类与计算机以全新方式交互的设计技术。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
 
-Minimally I'd suggest reading the following canonical texts on the matter so one can support and potential build usable user interfaces.
+我建议至少阅读以下与此问题相关的权威文档，以便维护或构建可用的用户界面。
 
-* [About Face: The Essentials of Interaction Design](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) \[read\]\[$\]
+* [About Face: 交互设计入门](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) \[read\]\[$\]
 * [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) \[read\]\[$\]
-* [Design for Non-Designers](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) \[watch\]
-* [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4539707bb145c676472472aab25eaa56&camp=1789&creative=9325) \[read\]\[$\]
-* [Designing Web Interfaces: Principles and Patterns for Rich Interactions](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=03fb59f4a4345732fae9ecdfaa5076ae&camp=1789&creative=9325) \[read\]\[$\]
-* [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=8b0b0771a9985e4e030ef1fe29cf6409&camp=1789&creative=9325) \[read\]\[$\]
+* [为非设计师准备的设计课](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) \[watch\]
+* [界面设计模式](https://book.douban.com/subject/25716088/) \[read\]\[$\]
+* [设计 Web 界面：丰富交互的原则与模式](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=03fb59f4a4345732fae9ecdfaa5076ae&camp=1789&creative=9325) \[read\]\[$\]
+* [点石成金：访客至上的网页设计秘笈](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=8b0b0771a9985e4e030ef1fe29cf6409&camp=1789&creative=9325) \[read\]\[$\]
 
-#### 3.8 - Learn HTML & CSS <a id="4.8"></a>
+## 3.8 学习 HTML / CSS
 
-> **HTML** - HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language.
+> **HTML** - 超文本标记语言（通常被称为HTML）是用于创建 web 页面的标准标记语言。Web 浏览器可以读取HTML文件，并将其渲染成可视化网页。HTML 从语义上描述了网站的结构随着线索的呈现，使其成为一种标记语言，而不是编程语言。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 >
-> **CSS** - Cascading Style Sheets \(CSS\) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.
+> **CSS** - 层叠样式表（CSS）是一种样式表语言，用于描述用标记语言编写的文档的外观和格式。虽然它经常被用来更改用 HTML 和 XHTML 编写的网页和用户界面的样式，该语言还是能应用于任何类型的 XML 文档，包括纯 XML、SVG 和 XUL。与 HTML 和 JavaScript 一样，CSS 也是大多数网站用来创建具有视觉吸引力的网页、web应用交互界面以及许多移动端用户界面的基础技术。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-Liken to constructing a house, one might consider HTML the framing and CSS to be the painting & decorating.
+就像建造一座房子一样，如果将 HTML 类比为框架的话，CSS 就是绘画和装饰。
 
-**General Learning:**
+**综合学习:**
 
-* [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt) \[read\]
-* [CSS Positioning](http://www.pluralsight.com/courses/css-positioning-1834) \[watch\]\[$\]
-* [Introduction to Web Development \(v2\)](https://frontendmasters.com/courses/web-development-v2/) \[watch\]\[$\]
-* [Front End Web Development: Get Started](http://www.pluralsight.com/courses/front-end-web-development-get-started) \[watch\]\[$\]
-* [Front-End Web Development Quick Start With HTML5, CSS, and JavaScript](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) \[watch\]\[$\]
-* [HTML and CSS: Design and Build Websites](https://www.amazon.com/gp/product/1118008189/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b1c45ab715f267f7dfed8c981c14eceb&camp=1789&creative=9325) \[read\]\[$\]
-* [HTML Document Flow](http://www.pluralsight.com/courses/html-document-flow-1837) \[watch\]\[$\]
-* [HTML Mastery: Semantics, Standards, and Styling](https://www.amazon.com/gp/product/1590597656/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a5c4eb997239ea9e57a86456cef7763c&camp=1789&creative=9325) \[read\]\[$\]
-* [Interneting is Hard](https://internetingishard.com/) \[read\]
-* [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) \[watch\]
-* [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) \[read\]
-* [Learn CSS Layout](http://learnlayout.com/) \[read\]
+* [利用 CSS 绝对定位至中心](http://codepen.io/shshaw/full/gEiDt) \[read\]
+* [CSS 定位](http://www.pluralsight.com/courses/css-positioning-1834) \[watch\]\[$\]
+* [Web 开发介绍（v2）](https://frontendmasters.com/courses/web-development-v2/) \[watch\]\[$\]
+* [前端开发入门](http://www.pluralsight.com/courses/front-end-web-development-get-started) \[watch\]\[$\]
+* [前端开发快速入门（ HTML](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css)[、CSS、JavaScript）](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) \[watch\]\[$\]
+* [HTML 与 CSS: 设计与构建网站](https://www.amazon.com/gp/product/1118008189/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=b1c45ab715f267f7dfed8c981c14eceb&camp=1789&creative=9325) \[read\]\[$\]
+* [HTML 文档流](http://www.pluralsight.com/courses/html-document-flow-1837) \[watch\]\[$\]
+* [精通 HTML: 语义、规范与样式](https://www.amazon.com/gp/product/1590597656/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a5c4eb997239ea9e57a86456cef7763c&camp=1789&creative=9325) \[read\]\[$\]
+* [互联网很难](https://internetingishard.com/) \[read\]
+* [HTML/CSS 入门: 制作网页](https://www.khanacademy.org/computing/computer-programming/html-css) \[watch\]
+* [学习编写 HTML / CSS](http://learn.shayhowe.com/html-css/) \[read\]
+* [学习 CSS 布局](http://learnlayout.com/) \[read\]
 * [MarkSheet](http://marksheet.io/) \[read\]
 * [MDN: HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) \[read\]
 * [MDN: CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) \[read\]
-* [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages) \[watch\]
-* [Solid HTML Form Structure](https://webdesign.tutsplus.com/courses/solid-html-form-structure) \[watch\]
-* [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) \[watch\]
-* [Resilient Web Design](https://resilientwebdesign.com/) \[read\]
+* [语义化 HTML: 如何构造页面](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages) \[watch\]
+* [纯粹的 HTML 表单结构](https://webdesign.tutsplus.com/courses/solid-html-form-structure) \[watch\]
+* [理解 CSS 盒子模型](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) \[watch\]
+* [弹性 Web 设计](https://resilientwebdesign.com/) \[read\]
 
-**Mastering CSS:**
+**精通 CSS:**
 
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[read\]
-* [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/) \[watch\]\[$\]
-* [CSS Diner](http://flukeout.github.io/) \[interact\]
-* [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/) \[read\]
-* [CSS Secrets: Better Solutions to Everyday Web Design Problems](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[read\]\[$\]
+* [Flexbox 全面指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[read\]
+* [面向响应式网页设计的 Grid 和 Flexbox](https://frontendmasters.com/courses/css-grids-flexbox/) \[watch\]\[$\]
+* [CSS 晚餐](http://flukeout.github.io/) \[interact\]
+* [CSS 选择器（从 CSS1 至 CSS4）](http://css4-selectors.com/selectors/) \[read\]
+* [CSS 揭秘](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[read\]\[$\]
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) \[read\]
-* [CSS In-Depth, v2](https://frontendmasters.com/courses/css-in-depth-v2/) \[watch\]\[$\]
-* [What the Flexbox?! A Simple, Free 20 Video Course That Will Help You Master CSS Flexbox](http://flexbox.io/) \[watch\]
-* [30 Seconds of CSS - A curated collection of useful CSS snippets you can understand in 30 seconds or less.](https://atomiks.github.io/30-seconds-of-css/) \[read\]
+* [深入 CSS （第二版）](https://frontendmasters.com/courses/css-in-depth-v2/) \[watch\]\[$\]
+* [什么是 Flexbox?! 一个简单的，包含 20 节课的免费视频课程助你精通 CSS Flexbox](http://flexbox.io/) \[watch\]
+* [30 秒 CSS - 一个你可以在 30 秒内理解的实用 CSS 集合](https://atomiks.github.io/30-seconds-of-css/) \[read\]
 
-**References/Docs:**
+**参考文献/文档:**
 
-* [CSS Triggers...a Game of Layout, Paint, and Composite](http://csstriggers.com/)
+* [CSS Triggers...关于布局、渲染与构建的游戏](http://csstriggers.com/)
 * [cssreference.io](http://cssreference.io/)
 * [cssvalues.com](http://cssvalues.com/)
-* [Default CSS for Chrome Browser](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css)
-* [Head - A list of everything that could go in theof your document](http://gethead.info/)
-* [HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
-* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [Chrome 浏览器的默认 CSS](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css)
+* [Head - A list of everything that could go in the of your document](http://gethead.info/)
+* [HTML 属性参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* [MDN CSS 参考](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [MDN HTML 元素参考](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-**Glossary/Vocabulary:**
+**术语表/词典:**
 
-* [CSS Glossary - Programming Reference for CSS Covering Comments, Properties, and Selectors](https://www.codecademy.com/articles/glossary-css)
-* [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)
-* [HTML Glossary Programming Reference for HTML elements](https://www.codecademy.com/articles/glossary-html)
+* [CSS 术语集 - CSS 编程参考，包括注释、属性与选择器](https://www.codecademy.com/articles/glossary-css)
+* [CSS 词典](http://apps.workflower.fi/vocabs/css/en)
+* [HTML 元素术语集参考](https://www.codecademy.com/articles/glossary-html)
 
-**Standards/Specifications:**
+**标准/规范:**
 
-* [All W3C CSS Specifications](http://www.w3.org/Style/CSS/current-work#roadmap)
-* [All W3C HTML Spec](http://www.w3.org/standards/techs/html#w3c_all)
-* [Cascading Style Sheets Level 2 Revision 2 \(CSS 2.2\) Specification](https://drafts.csswg.org/css2/)
-* [CSS Indexes - A listing of every term defined by CSS specs](https://drafts.csswg.org/indexes/)
-* [The Elements of HTML from the Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
-* [Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
-* [The HTML Syntax](https://html.spec.whatwg.org/multipage/syntax.html#syntax) from the Living Standard
-* [HTML 5.2 from W3C](http://w3c.github.io/html/)
-* [Selectors Level 3](http://www.w3.org/TR/css3-selectors/)
+* [所有 W3C CSS 规范](http://www.w3.org/Style/CSS/current-work#roadmap)
+* [所有 W3C HTML 规范](http://www.w3.org/standards/techs/html#w3c_all)
+* [层叠样式表 2 级修订版 2（CSS 2.2）规范](https://drafts.csswg.org/css2/)
+* [CSS 索引 - CSS 规范定义的每个术语的列表](https://drafts.csswg.org/indexes/)
+* [HTML 元素（现有规范）](https://html.spec.whatwg.org/multipage/semantics.html#semantics)
+* [全局属性](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+* [HTML 语法（现有规范）](https://html.spec.whatwg.org/multipage/syntax.html#syntax)
+* [W3C HTML 5.2](http://w3c.github.io/html/)
+* [3 级选择器](http://www.w3.org/TR/css3-selectors/)
 
-**Architecting CSS:**
+**CSS 架构:**
 
-* [Atomic Design](http://atomicdesign.bradfrost.com/) \[read\]
+* [原子设计](http://atomicdesign.bradfrost.com/) \[read\]
 * [BEM](http://getbem.com/introduction/)
 * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 * [OOCSS](http://oocss.org/) \[read\]
@@ -295,120 +293,120 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 * [SUIT CSS](http://suitcss.github.io/)
 * [rscss](http://rscss.io/)
 
-**Authoring/Architecting Conventions:**
+**编辑/架构公约:**
 
-* [CSS code guide](http://codeguide.co/#css) \[read\]
-* [css-architecture](https://github.com/jareware/css-architecture)
+* [CSS 代码指南](http://codeguide.co/#css) \[read\]
+* [css 架构](https://github.com/jareware/css-architecture)
 * [cssguidelin.es](http://cssguidelin.es/) \[read\]
 * [Idiomatic CSS](https://github.com/necolas/idiomatic-css) \[read\]
-* [MaintainableCSS](http://maintainablecss.com/) \[read\]
-* [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) \[read\]
+* [可维护CSS](http://maintainablecss.com/) \[read\]
+* [开发灵活、持久和可持续的 HTML 与 CSS 的标准](http://mdo.github.io/code-guide/) \[read\]
 
-#### 3.9 - Learn Search Engine Optimization <a id="4.9"></a>
 
-> Search engine optimization \(SEO\) is the process of affecting the visibility of a website or a web page in a search engine's unpaid results — often referred to as "natural," "organic," or "earned" results. In general, the earlier \(or higher ranked on the search results page\), and more frequently a site appears in the search results list, the more visitors it will receive from the search engine's users. SEO may target different kinds of search, including image search, local search, video search, academic search, news search and industry-specific vertical search engines.
+
+## **3.9 学习搜索引擎优化**
+
+> 搜索引擎优化（SEO）是提升网站或网页在搜索引擎的未付费结果中的可见性的过程，通常被称为“自然的”、“有机的”或“赚来的”结果。一般来说，一个站点出现在搜索结果列表中越早\(或在搜索结果页面上排名越靠前\)，出现频率越高，它从搜索引擎用户那里获得的访问者就越多。SEO 可以针对不同类型的搜索，包括图像搜索、地方搜索、视频搜索、学术搜索、新闻搜索和特定行业的垂直搜索引擎。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Search_engine_optimization)
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-does-seo-work.jpg)
+![&#x56FE;&#x7247;&#x6765;&#x6E90;: https://visual.ly/community/infographic/computers/how-does-seo-work](.gitbook/assets/how-does-seo-work.jpg)
 
-Image source: [https://visual.ly/community/infographic/computers/how-does-seo-work](https://visual.ly/community/infographic/computers/how-does-seo-work)
+**综合学习:**
 
-**General Learning:**
+* [Google 搜索引擎优化入门指南](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) \[read\]
+* [现代 SEO](https://frontendmasters.com/courses/modern-seo/) \[watch\]\[$\]
+* [SEO 基础（](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html)[David Boo](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html)[h）](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html)\[watch\]\[$\]
+* [SEO 基础（Paul Wilson）](http://www.pluralsight.com/courses/seo-fundamentals) \[watch\]\[$\]
+* [SEO 入门教程（2016）](http://www.hobo-web.co.uk/seo-tutorial/) \[read\]
+* [面向网页设计师的 SEO](https://webdesign.tutsplus.com/courses/seo-for-web-designers) \[watch\]\[$\]
 
-* [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) \[read\]
-* [Modern SEO](https://frontendmasters.com/courses/modern-seo/) \[watch\]\[$\]
-* [SEO Fundamentals From David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) \[watch\]\[$\]
-* [SEO Fundamentals From Paul Wilson](http://www.pluralsight.com/courses/seo-fundamentals) \[watch\]\[$\]
-* [SEO Tutorial For Beginners in 2016](http://www.hobo-web.co.uk/seo-tutorial/) \[read\]
-* [SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers) \[watch\]\[$\]
+## 3.10 学习 JavaScript
 
-#### 3.10 - Learn JavaScript <a id="4.10"></a>
+> JavaScript 是一种高级、动态、无类型的解释型编程语言，已经经由 ECMAScript 语言规范实现了标准化。是除了 HTML 和 CSS 外万维网内容生产的三大基本技术之一；主流网站都使用它，且所有现代 Web 浏览器都对其提供了原生支持。JavaScript 是基于原型，以函数为第一公民的语言，这使得它有多种编程范式，支持面向对象、命令式与函数式编程风格。它有一个用于处理文本、数组、日期和正则表达式的 API，但不包括任何 I/O，如网络，存储以及图像处理功能，这些都依赖于它所嵌入的环境。
 
-> JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
->
 > — [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 
-**Getting Started:**
+**入门学习:**
 
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) \[read\]
 * [javascript.info](http://javascript.info/)
-* [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) \[read\]
-* [Eloquent JavaScript](http://eloquentjavascript.net/) \[read\]
+* [JavaScript 启蒙](http://www.javascriptenlightenment.com/) \[read\]
+* [JavaScript 编程精解](http://eloquentjavascript.net/) \[read\]
 
-**General Learning:**
+**综合学习:**
 
-* [Speaking JavaScript](http://speakingjs.com/es5/index.html) \[read\]
-* [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/index.html) \[read\]
-* [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[read\]
-* [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[read\]
-* [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) \[read\]
-* [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) \[read\]
-* [Modern JavaScript Cheatsheet - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet) \[read\]
-* [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/) \[watch\]\[$\]
-* [Deep Foundations of JavaScript \(v3\)](https://frontendmasters.com/courses/deep-javascript-v3/) \[watch\]\[$\]
+* [用 JavaScript交谈](http://speakingjs.com/es5/index.html) \[read\]
+* [面向急性子程序员的 JavaScript](http://exploringjs.com/impatient-js/index.html) \[read\]
+* [你不知道的 JavaScript: 提升](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[read\]
+* [你不知道的 JavaScript: 类型 & 语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[read\]
+* [你不知道的 JavaScript: 作用域 & 闭包](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) \[read\]
+* [你不知道的 JavaScript: this & 对象原型](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) \[read\]
+* [现代 JavaScript 备忘录 - 在现代项目中您经常遇到的 JavaScript 知识点备忘录](https://github.com/mbeaudru/modern-js-cheatsheet) \[read\]
+* [JavaScript 难点](https://frontendmasters.com/courses/javascript-hard-parts/) \[watch\]\[$\]
+* [深入 JavaScript 基础 \(第三版\)](https://frontendmasters.com/courses/deep-javascript-v3/) \[watch\]\[$\]
 
-**Mastering:**
+**精通:**
 
-* [Setting up ES6](https://leanpub.com/setting-up-es6) \[read\]
-* [ES6 FOR EVERYONE!](https://es6.io/) \[watch\]\[$\]
-* [Exploring ES6](http://exploringjs.com/es6.html) \[read\]
-* [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) \[read\]
-* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) \[read\]\[$\]
-* [JavaScript: The Recent Parts](https://frontendmasters.com/courses/js-recent-parts/) \[watch\]\[$\]
-* [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html) \[read\]
-* [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/index.html) \[read\]
-* [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) \[read\]
-* [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) \[watch\]\[$\]
-* [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[read\]
+* [设置 ES6](https://leanpub.com/setting-up-es6) \[read\]
+* [每个人都能懂的 ES6!](https://es6.io/) \[watch\]\[$\]
+* [探索 ES6](http://exploringjs.com/es6.html) \[read\]
+* [你不知道的 JavaScript: ES6 & ](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)现在与未来 \[read\]
+* [深入了解 ES6](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) \[read\]\[$\]
+* [JavaScript: 最新部分](https://frontendmasters.com/courses/js-recent-parts/) \[watch\]\[$\]
+* [探索 ES2016 与 ES2017](http://exploringjs.com/es2016-es2017/index.html) \[read\]
+* [探索 ES2018 与 ES2019](http://exploringjs.com/es2018-es2019/index.html) \[read\]
+* [JavaScript 正则表达式启蒙](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) \[read\]
+* [运用正则表达式](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) \[watch\]\[$\]
+* [你不知道的 JavaScript: 异步 & 性能](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[read\]
 * [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) \[read\]\[$\]
-* [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) \[read\]\[$\]
-* [JS MythBusters](https://mythbusters.js.org/index.html) \[read\]
-* [Robust JavaScript](https://molily.de/robust-javascript/) \[read\]
-* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms#readme) \[read\]
-* [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts) \[read\]
+* [测试驱动的 JavaScript 开发](http://www.amazon.com/dp/0321683919/) \[read\]\[$\]
+* [JS 终结者](https://mythbusters.js.org/index.html) \[read\]
+* [健壮的 JavaScript](https://molily.de/robust-javascript/) \[read\]
+* [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms#readme) \[read\]
+* [33 个所有 JavaScript 开发者都需要知道的概念](https://github.com/leonardomso/33-js-concepts) \[read\]
 * [doesitmutate.xyz](https://doesitmutate.xyz/) \[read\]
 
-**Functional JavaScript:**
+**JavaScript 函数式编程:**
 
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
-* [funfunfunction: Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \[watch\]
+* [函数式编程术语](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
+* [funfunfunction: JavaScript 函数式编程](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \[watch\]
 * [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) \[read\]
-* [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) \[read\]
-* [Mostly adequate guide to FP \(in javascript\)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) \[read\]
-* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) \[watch\]
+* [JavaScript 函数式编程: 如何运用函数式编程技巧提升你的 JavaScript 程序？](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) \[read\]
+* [FP 指南（javascript）](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)\[read\]
+* [Frisby 教授介绍可组合函数式 JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) \[watch\]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) \[read\]\[$\]
-* [Functional-Lite JavaScript \(v2\)](https://frontendmasters.com/courses/functional-javascript-v2/) \[watch\]\[$\]
-* [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) \[watch\]\[$\]
+* [Functional-Lite JavaScript \(第二版\)](https://frontendmasters.com/courses/functional-javascript-v2/) \[watch\]\[$\]
+* [JavaScript 的核心函数式编程](https://frontendmasters.com/courses/functional-javascript/) \[watch\]\[$\]
 
-**References/Docs:**
+**参考文献/文档:**
 
-* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* [MSDN JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
+* [MDN JavaScript 参考文档](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [MSDN JavaScript 参考文档](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
 
-**Glossary/Encyclopedia/Jargon:**
+**术语表/百科全书/术语:**
 
-* [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
-* [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
-* [Simplified JavaScript Jargon](http://jargon.js.org/)
+* \*\*\*\*[JavaScript 百科全书](http://www.crockford.com/javascript/encyclopedia/)
+* [JavaScript 术语表](https://www.codecademy.com/articles/glossary-javascript)
+* [JavaScript 术语（简略版）](http://jargon.js.org/)
 
-**Standards/Specifications:**
+**标准/规范:**
 
-* [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
-* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
-* [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/index.html)
-* [ECMAScript® 2017 Language Specification](http://www.ecma-international.org/ecma-262/8.0/index.html)
-* [ECMAScript® 2018 Language Specification](http://www.ecma-international.org/ecma-262/9.0/index.html)
-* [ECMAScript® 2019 Language Specification](https://tc39.github.io/ecma262/)
-* [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
+* [如何阅读 ECMAScript 规范](https://timothygu.me/es-howto/)
+* [ECMAScript® 2015 语言规范](http://www.ecma-international.org/ecma-262/6.0/index.html)
+* [ECMAScript® 2016 语言规范](https://www.ecma-international.org/ecma-262/7.0/index.html)
+* [ECMAScript® 2017 语言规范](http://www.ecma-international.org/ecma-262/8.0/index.html)
+* [ECMAScript® 2018 语言规范](http://www.ecma-international.org/ecma-262/9.0/index.html)
+* [ECMAScript® 2019 语言规范](https://tc39.github.io/ecma262/)
+* [ECMA262 状态、进展与文档](https://github.com/tc39/ecma262)
 
-**Style:**
+**编码规范:**
 
-* [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
-* [JavaScript Standard Style](http://standardjs.com/rules.html)
-* [JavaScript Semi-Standard Style](https://github.com/Flet/semistandard)
+* [Airbnb JavaScript 编码规范](http://airbnb.io/javascript/)
+* [JavaScript 标准编码规范](http://standardjs.com/rules.html)
+* [JavaScript 分号编码规范](https://github.com/Flet/semistandard)
 
-**Deprecated JS Learning Resources:**
+**不推荐的 JS 学习资源:**
 
 * [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[watch\]
 * [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) \[watch\]
@@ -416,16 +414,621 @@ Image source: [https://visual.ly/community/infographic/computers/how-does-seo-wo
 * [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) \[watch\]
 * [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) \[watch\]
 * [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) \[watch\]
-* [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) \[read\]\[$\]
-* [The Principles of Object-Oriented JavaScript](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) \[read\]\[$\]
-* [JavaScript Modules](http://jsmodules.io/cjs.html) \[read\]
-* [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) \[read\]\[$\]
-* [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) \[watch\]\[$\]
-* [High Performance JavaScript \(Build Faster Web Application Interfaces\)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) \[read\]\[$\]
+* [JavaScript 模式](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) \[read\]\[$\]
+* [JavaScript 面向对象精要](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) \[read\]\[$\]
+* [JavaScript 模块](http://jsmodules.io/cjs.html) \[read\]
+* [JavaScript 函数式编程](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) \[read\]\[$\]
+* [JavaScript 和 Web 的优点](https://frontendmasters.com/courses/good-parts-javascript-web/) \[watch\]\[$\]
+* [高性能 JavaScript](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) \[read\]\[$\]
 
-**JS Explorers/Visualizers:**
+**JS 探索/可视化呈现:**
 
-* [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
-* [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
-* [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/)
+* [JavaScript 数组探索](https://sdras.github.io/array-explorer/)
+* [JavaScript 对象探索](https://sdras.github.io/object-explorer/)
+* [JavaScript 可视化呈现](https://tylermcginnis.com/javascript-visualizer/)
+
+
+
+## 3.11 学习 DOM, BOM, CSSOM 与 jQuery
+
+> **DOM** - 文档对象模型（DOM）是一种跨平台的、独立于语言的约定，用于表示与操作 HTML、XHTML 和 XML 文档中的对象。每个文档的节点都按树状结构进行组织，称为 DOM 树。可以使用对象上的方法对 DOM 树中的对象进行寻址和操作，DOM 的公共接口在其应用程序编程接口（API）中被指定。
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+
+> **BOM** - 浏览器对象模型\(Browser Object Model, BOM\)是一个浏览器独有的约定，指浏览器暴露的所有对象组成的表示模型。与文档对象模型不同，其既没有标准的实现，也没有严格的定义，所以浏览器厂商可以自由地实现BOM。
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+>
+> **jQuery** - jQuery 是一个跨平台的 JavaScript 库，旨在简化 HTML 的客户端脚本。jQuery 是当前最受欢迎的 JavaScript 库，全球前10,000个访问最高的网站中，有 65% 使用了 jQuery。jQuery 是基于 MIT 协议授权的免费、开源软件。
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/JQuery)
+
+理想的学习路径\(当然也是最困难的学习路径\)是先学习 JavaScript，再学习 DOM，最后学习 jQuery。然而，学习路径应该根据您的个人情况进行规划。大多数前端开发人员会先学习JavaScript，然后通过学习 jQuery 来学习DOM。无论您选择哪条路径，都要确保理解 JavaScript、DOM 和 jQuery 的底层原理。
+
+**综合学习:**
+
+* [文档对象模型](http://eloquentjavascript.net/13_dom.html) \[read\]
+* [HTML/JS: 让网页变得可互动](https://www.khanacademy.org/computing/computer-programming/html-css-js) \[watch\]
+* [HTML/JS: 运用 jQuery 让网页变得可互动](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) \[watch\]
+* [jQuery 启蒙](http://jqueryenlightenment.com/) \[read\]
+* [什么是 DOM?](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) \[read\]
+
+**精通:**
+
+* [JavaScript ](http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590598563&linkCode=as2&tag=fronenddevejo-20&linkId=VQZU5EQIQQXCF56Y)[DOM 高级程序设计](http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590598563&linkCode=as2&tag=fronenddevejo-20&linkId=VQZU5EQIQQXCF56Y) \[read\]\[$\]
+* [JS 基础进阶 -- jQuery & 纯 DOM 编程](https://frontendmasters.com/courses/javascript-jquery-dom/) \[watch\]\[$\]
+* [Douglas Crockford: 不方便的 API - DOM 理论](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) \[watch\]
+* [DOM 启蒙](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) \[read\]\[$\][（在线版本）](http://domenlightenment.com/)
+* [修复常见 jQuery Bugs](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) \[watch\]\[$\]
+* [jQuery-Free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) \[watch\]\[$\]
+* [jQuery 技巧](http://www.pluralsight.com/courses/jquery-tips-and-tricks) \[watch\]\[$\]
+
+**参考文献/文档:**
+
+* [jQuery 文档](http://api.jquery.com/)
+* [事件](https://html.spec.whatwg.org/#events-2)
+* [DOM 浏览器支持](http://www.webbrowsercompatibility.com/dom/desktop/)
+* [DOM 事件浏览器支持](http://www.webbrowsercompatibility.com/dom-events/desktop/)
+* [HTML 接口浏览器支持](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [MDN 文档对象模型 \(DOM\)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [MDN 浏览器对象模型](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+* [MDN 事件参考](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [MSDN 文档对象模型 \(DOM\)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
+* [CSS 对象模型 \(CSSOM\)](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+
+**Standards/Specifications:**
+
+* [文档对象模型 \(DOM\) 3 级事件规范](https://www.w3.org/TR/DOM-Level-3-Events/)
+* [文档对象模型 \(DOM\) 技术报告](http://www.w3.org/DOM/DOMTR)
+* [DOM 现有标准](https://dom.spec.whatwg.org/)
+* [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
+
+## 3.12 学习 Web 动画
+
+**综合学习:**
+
+* [SVG 与动画入门（第二版）](https://frontendmasters.com/courses/svg-essentials-animation/) \[$\]\[watch\]
+* [Web 动画进阶](https://www.codeschool.com/courses/adventures-in-web-animations) \[$\]\[watch\]
+* [动画与 Snap.svg](https://webdesign.tutsplus.com/courses/animating-with-snapsvg) \[$\]\[watch\]
+* [CSS3 与 HTML5 动画](https://frontendmasters.com/courses/animation-storytelling-html5-css3/) \[$\]\[watch\]
+* [用 CSS 生成动画](http://www.kirupa.com/css_animations/index.htm) \[read & watch\]
+* [现实世界中的 CSS 动画](https://webdesign.tutsplus.com/courses/css-animation-in-the-real-world) \[$\]\[watch\]
+* [JavaScript + HTML5 动画基础](http://www.amazon.com/Foundation-HTML5-Animation-JavaScript-Lamberta/dp/1430236655/ref=sr_1_3) \[$\]\[read\]
+* [学习用 JavaScript 去创建动画](http://www.kirupa.com/javascript_animations/index.htm) \[read & watch\]
+* [CSS 动效设计](https://frontendmasters.com/courses/motion-design-css/) \[$\]\[watch\]
+* [2015 动画状态](https://air.mozilla.org/rachel-nabors-state-of-the-animation-2015/) \[watch\]
+* [Web Animation using JavaScript: Develop & Design \(Develop and Design\)](http://www.amazon.com/Web-Animation-using-JavaScript-Develop-ebook/dp/B00UNKXVDU/ref=sr_1_1) \[$\]\[read\]
+
+**标准/规范:**
+
+* [Web 动画](https://w3c.github.io/web-animations/)
+
+## 3.13 学习 Web 字体、图标与图片
+
+> 网络排版是指在万维网上使用字体。在 HTML 刚刚被创造时，字体和样式完全由每个 Web浏览器的设置所控制。在 Netscape 于 1995 年引入标记之前，还没有任何单独的Web页面控制字体显示的机制，该标记随后被标准化为 HTML 3.2 规范。但是，由标签指定的字体或回退字体必须安装在用户的计算机上，比如浏览器的默认 sans-serif 或 monospace 字体。第一个层叠样式表规范于 1996 年发布，提供了相同的功能。
+>
+> CSS2 规范于 1998 年发布，试图通过添加字体匹配、合成和下载来改进字体选择过程。这些技术没有得到太多的应用，并在 CSS2.1 规范中被删除了。然而，Internet Explorer 在 1997 年发布的 4.0 版本中增加了对字体下载功能的支持。字体下载后来包含在 CSS3 字体模块中，并在 Safari 3.1、Opera 10 和 Mozilla Firefox 3.5 中得到实现。这随后增加了人们对 Web 排版和字体下载的兴趣。
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Web_typography)
+
+**字体:**
+
+* [字体加载策略综合指南](https://www.zachleat.com/web/comprehensive-webfonts/) \[read\]
+* [Beautiful Web Type 展示了来自 Google Web Fonts 目录的最佳字体](http://hellohappy.org/beautiful-web-type/) \[read\]
+* [利用 @font-face 的 Web 字体 -- 快速指南](http://www.html5rocks.com/en/tutorials/webfonts/quick/) \[read\]
+* [MDN: Web 字体](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) \[read\]
+* [响应式 Web 布局（第二版）](https://frontendmasters.com/courses/responsive-typography-v2/) \[watch\]\[$\]
+* [网络排版](http://www.pluralsight.com/courses/typography-for-web-1790) \[watch\]\[$\]
+
+**图标:**
+
+* [\[read\]](https://www.lynda.com/CSS-tutorials/Web-Icons-SVG/502312-2.html) \[watch\]
+
+**Images:**
+
+* [MDN: HTML 中的图片](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) \[read\]
+* [MDN: 响应式图片](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) \[read\]
+* [WEB 上的 SVG - 实用指南](https://svgontheweb.com/) \[read\]
+
+## 3.14 学习可用性
+
+> 无障碍是指为残疾人设计的产品、设备、服务或环境。无障碍设计的概念同时确保了“直接访问”与“间接访问”，其意义在于与某人的辅助技术\(例如，计算机屏幕阅读器\)的兼容性。
+>
+> 可访问性可以看作是“访问的能力”，并受益于某些系统或实体。该概念的核心是使残疾人或特殊需要的人能够获得服务，或通过使用辅助技术让他们能够得到更好的服务；然而，可访问性方面的研究和开发给每个人都带来了好处。
+>
+> 不要将可访问性与可用性混为一谈，可用性是指特定用户可以在特定的使用环境中使用产品\(如设备、服务或环境\)，来实现特定目标，并兼具效率和满意度。
+>
+> 易访问性与通用设计密切相关，通用设计是一个创造产品的过程，使尽可能广的人群能够使用这些产品，并在尽可能广的情况下进行操作。这是为了让所有人\(无论他们是否有残疾\)都能接触到这些东西。
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Accessibility)
+
+**综合学习:**
+
+* [获得最低限度 web 可访问性的 9 个技巧](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
+* [UX 基础: 可访问性](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) \[watch\]\[$\]
+* [屏幕阅读器如何支持 HTML 元素](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) \[read\]
+* [Web 可访问性入门](https://www.w3.org/WAI/intro/accessibility.php) - WAI \[read\]
+* [Web 应用通用设计: 任何人都可访问的 Web 应用](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) \[read\]\[$\]
+* [Web 可访问性: 入门](http://www.pluralsight.com/courses/web-accessibility-getting-started) \[watch\]\[$\]
+* [一个为了所有人的 Web](http://rosenfeldmedia.com/books/a-web-for-everyone/) \[read\]\[$\]
+* [Web 可访问性](https://frontendmasters.com/courses/web-accessibility/) \[watch\]\[$\]
+* [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) \[watch\]
+* [网络易用性 by Google](https://www.udacity.com/course/web-accessibility--ud891) - Udacity 课程 \[watch\]
+
+**标准/规范:**
+
+* [可访问的富 Internet 应用 \(WAI-ARIA\) 当前进展](http://www.w3.org/standards/techs/aria#w3c_all)
+* [网页无障碍（WAI）](http://www.w3.org/WAI/)
+* [网页内容可访问性指南 \(WCAG）当前进展 ](http://www.w3.org/standards/techs/wcag#w3c_all)
+
+## 3.15 学习 Web/浏览器 APIs
+
+![ &#x56FE;&#x7247;&#x6765;&#x6E90;: http://www.evolutionoftheweb.com/](.gitbook/assets/web-api.png)
+
+BOM（浏览器对象模型）和DOM（文档对象模型）不是浏览器内 Web 平台上唯一可用的浏览器API。 所有不是专门用于DOM或BOM的东西，但用于浏览器编程的接口都可以被视为 Web 或浏览器 API（可悲的是，其中一些 API 在过去被称为 HTML5 API，它们将自己的细节混淆/标准化为实际的 HTML5 指定 HTML5 标记语言的规范）。 请注意，Web 或浏览器 API 确实包含可通过平板电脑和手机设备上的浏览器访问的设备 API（例如，[`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)）。
+
+您应该在适当的情况下了解并学习 Web /浏览器 API。 你应当看看 HTML5test.com 用于熟悉所有这些API的好工具是调查5个最新浏览器的HTML5test.com结果。可以使用一个很好的工具来对其进行研究，[HTML5test.com](https://html5test.com/compare/browser/index.html) 拥有当前 5 种浏览器的相关报告。
+
+MDN 有大量关于 Web/浏览器api 的相关文档。
+
+* [MDN Web API 参考](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
+* [MDN Web APIs 接口参考 - 所有接口，按照字母顺序排列](https://developer.mozilla.org/en-US/docs/Web/API)
+* [MDN WebAPI - 列出对应用程序有用的设备访问 API 和其他 APIs](https://developer.mozilla.org/en-US/docs/WebAPI) 
+
+请记住，并非每个 API 都是由 W3C 或 WHATWG 指定的。
+
+除了 MDN 外，以下资源可能会有助于您了解所有Web /浏览器API：
+
+* [HTML 5 JavaScript API 索引](http://html5index.org/)
+* [HTML5 概览](http://html5-overview.net/current)
+* [platform.html5.org](https://platform.html5.org/)
+
+## 3.16 学习 JSON（JavaScript 对象表示法）
+
+> JSON是一种开放的标准格式，它使用人类可读的文本来传输由属性值对组成的数据对象。它是用于异步浏览器/服务器通信\(AJAJ\)的主要数据格式，在很大程度上替代了 XML\(由AJAX使用\)。
+>
+> 虽然 JSON 最初源于JavaScript脚本语言，但它是一种独立于语言的数据格式，用于解构和生成 JSON 数据的代码在很多语言中都已经有对应的实现。
+>
+> JSON格式最初由 Douglas Crockford 提出，它目前有两个相互竞争中的标准描述，分别是 RFC 7159 和 ECMA-404。ECMA 标准使用者较少，仅描述了允许的语法规则，而 RFC 还提供了一些语义和安全方面的考量。官方的 JSON 互联网媒体文件类型是 application/json。JSON 的后缀名为 .json。
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/JSON)
+
+**综合学习:**
+
+* [JavaScript 对象表示法入门: JSON 入门指南](https://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=24e8df4722cb62d086d3f8c87f4e17a1&camp=1789&creative=9325) \[read\]\[$\]
+* [json.com](https://www.json.com/) \[read\]
+* [JSON 是什么](https://mijingo.com/lessons/what-is-json/) \[watch\]
+
+**参考文献/文档:**
+
+* [json.org](http://json.org/) \[read\]
+
+**标准/规范:**
+
+* [ECMA-404 JSON 数据交换格式](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+* [RFC 7159 JavaScript 对象表示法 \(JSON\) 数据交换格式](https://tools.ietf.org/html/rfc7159)
+* [STD 90 - RFC 8259 - JavaScript 对象表示法 \(JSON\) 数据交换格式, DECEMBER 2017](https://www.rfc-editor.org/info/rfc8259)
+
+**架构:**
+
+* [JSON API](http://jsonapi.org/)
+
+## 3.17 学习 JS 模版
+
+JavaScript 模板经常被使用，但并不总是将其搭配 [MV\*](http://todomvc.com/) 解决方案来将视图的部分（即，UI）与逻辑和模型（即，数据或JSON）分开。
+
+* [ES6 模版字符串, Handlebars 终结者?](https://www.keithcirkel.co.uk/es6-template-literals/) \[read\]
+* [nunjucks 入门](http://mozilla.github.io/nunjucks/getting-started.html) \[read\]
+* [Lodash 模版字符串](https://lodash.com/docs/4.17.2#template) \[docs\]
+
+注意，JavaScript 2015（又名ES6）添加了一个名为[“模版字符串“](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)的本地模板机制。此外，到目前为止，模板已经被诸如 [JSX](https://facebook.github.io/jsx/)、[模版元素](http://aurelia.io/docs/templating/basics)或 [HTML 字符串](https://angular.io/docs/ts/latest/guide/template-syntax.html#)之类的东西所取代。
+
+如果我不使用 React & JSX，我会优先使用 JavaScript 的“模板字符串”，只有在不能使用它的时候才会迁移至 [nunjucks](http://mozilla.github.io/nunjucks/getting-started.html)。
+
+## 3.18 学习静态网站生成器
+
+Static site generators, typically written using server side code \(i.e., ruby, php, python, nodeJS, etc.\), produce static HTML files from static text/data + templates that are intended to be sent from a server to the client statically without a dynamic nature.静态站点生成器，通常使用服务器端代码\(即 ruby、php、python、nodeJS 等\)，从静态文本/数据+模板生成静态HTML文件，这些文件从服务器静态地发送到客户机，不需要动态特性。
+
+**综合学习:**
+
+* [JAMstack](https://jamstack.org/) \[read\]
+* [静态网站生成器](http://www.oreilly.com/web-platform/free/static-site-generators.csp) \[read\]
+* [Working with Static Sites - Bringing the Power of Simplicity to Modern Sites](https://www.amazon.com/Working-Static-Sites-Bringing-Simplicity/dp/1491960949) \[read\]\[$\]
+
+## 3.19 - 通过 JS 学习计算机科学
+
+* [六个小时完成四学期的计算机科学课程](https://frontendmasters.com/courses/computer-science/) \[video\]\[$\]
+* [六个小时完成四学期的计算机科学课程：第二部分](https://frontendmasters.com/courses/computer-science-2/) \[video\]\[$\]
+* [JavaScript 计算机科学](https://github.com/davidshariff/computer-science) \[read\]
+* [JavaScript 编写的经典计算机科学范例、算法和方法集合](https://github.com/nzakas/computer-science-in-javascript) \[read\]
+* [JavaScript 算法实用指南](https://frontendmasters.com/courses/practical-algorithms/) \[watch\]\[$\]
+* [面试数据结构简介](https://frontendmasters.com/courses/data-structures-interviews/) \[watch\]\[$\]
+* [JavaScript 算法与数据结构 -- 大师班](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/) \[watch\]\[$\]
+
+## 3.20 - 学习前端应用架构
+
+**综合学习:**
+
+* [Grab Front End Guide](https://github.com/grab/front-end-guide) \[read\]
+* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
+* [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+
+**Deprecated Learning Materials:**
+
+* [JavaScript Application Design](https://www.amazon.com/JavaScript-Application-Design-Build-Approach/dp/1617291951?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4dd15b53493d3b5148af2b3e5488e98d&camp=1789&creative=9325) \[read\]\[$\]
+* [Build an App with React and Ampersand](http://learn.humanjavascript.com/react-ampersand) \[watch\]
+* [Field Guide to Web Applications](http://www.html5rocks.com/webappfieldguide/toc/index/) \[read\]
+* [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) \[read\]
+* [Human JavaScript](http://read.humanjavascript.com/) \[read\]
+* [Nicholas Zakas: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw) \[watch\]
+* [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/) \[watch\]\[$\]
+* [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) \[read\]
+* [Terrific](http://terrifically.org/) \[read\]
+* [frontend case studies](https://github.com/andrew--r/frontend-case-studies) \[read\]
+
+Not a lot of general content is being created on this topic as of late. Most of the content offered for learning how to build front-end/SPA/JavaScript applications presupposes you've decided up a tool like Angular, Ember, React, or Aurelia.
+
+My advice, in [2019](https://2018.stateofjs.com/front-end-frameworks/overview/) learn [React](https://facebook.github.io/react/) and [Mobx](https://github.com/mobxjs/mobx) and [Apollo/graphql](https://www.apollographql.com/).
+
+## 3.21 - Learn Data \(i.e. JSON\) API Design
+
+* [API Design, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/) \[watch\]\[$\]
+* [Build APIs You Won't Hate](http://apisyouwonthate.com/) \[$\]\[read\]
+* [JSON API](http://jsonapi.org/) \[read\]
+
+## 3.22 - Learn React
+
+**Learning React:**
+
+* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html) \[read\]
+* [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) \[read\]
+* [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) \[watch\]
+* [Complete Intro to React v4](https://frontendmasters.com/courses/complete-react-v4/) \[watch\]\[$\]
+* [React 🎄](https://react.holiday/) \[read\]
+* [React Patterns Video Subscription](https://school.reactpatterns.com/) \[watch\]\[$\]
+* [React Enlightenment](https://www.reactenlightenment.com/) \[read\]
+* [REACT JS TUTORIAL \#1 - Reactjs Javascript Introduction & Workspace Setup](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=6s) \[watch\]
+
+**Mastering React:**
+
+* [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app) \[watch\]\[$\]
+* [Advanced React Component Patterns](https://frontendmasters.com/courses/advanced-react-patterns/) \[watch\]\[$\]
+* [Intermediate React](https://frontendmasters.com/courses/intermediate-react/) \[watch\]\[$\]
+* [React Patterns](https://reactpatterns.com/) \[read\]
+* [8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594) \[read\]
+* [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic) \[read\]
+* [React + Mobx codebase containing real world examples \(CRUD, auth, advanced patterns, etc\) that adheres to the RealWorld spec and API.](https://github.com/gothinkster/react-mobx-realworld-example-app) \[code\]
+* [An Introduction to React Router v4 and its Philosophy Toward Routing](https://medium.freecodecamp.org/react-router-v4-philosophy-and-introduction-730fd4fff9bc) \[read\]
+
+Once you have a good handle on React move on to learning a more robust state management solution like [MobX](https://mobx.js.org/). If you are an experienced developer with Functional Programming knowledge look at [Redux](https://redux.js.org/). If you need help understanding the role of state management beyond React's `setState` watch, "[Advanced State Management in React \(feat. Redux and MobX\)](https://frontendmasters.com/courses/react-state/)".
+
+## 3.23 - Learn Application State Management
+
+* [State management in JavaScript](https://codeburst.io/state-management-in-javascript-15d0d98837e1) \[read\]
+* [Advanced State Management in React \(feat. Redux and MobX\)](https://frontendmasters.com/courses/react-state/) \[watch\]\[$\]
+* [React js tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) \[watch\]
+* [MobX + React is AWESOME](https://www.youtube.com/watch?v=_q50BXqkAfI&t=10s) \[watch\]
+
+## 3.24 - Learn Progressive Web App
+
+> Unlike traditional applications, progressive web apps are a hybrid of regular web pages \(or websites\) and a mobile application. This new application model attempts to combine features offered by most modern browsers with the benefits of mobile experience.
+>
+> In 2015, designer Frances Berriman and Google Chrome engineer Alex Russell coined the term "Progressive Web Apps" to describe apps taking advantage of new features supported by modern browsers, including Service Workers and Web App Manifests, that let users upgrade web apps to be first-class applications in their native OS.
+>
+> According to Google Developers, these characteristics are:
+>
+> * Progressive - Work for every user, regardless of browser choice because they’re built with progressive enhancement as a core tenet.
+> * Responsive - Fit any form factor: desktop, mobile, tablet, or forms yet to emerge.
+> * Connectivity independent - Service workers allow work offline, or on low quality networks.
+> * App-like - Feel like an app to the user with app-style interactions and navigation.
+> * Fresh - Always up-to-date thanks to the service worker update process.
+> * Safe - Served via HTTPS to prevent snooping and ensure content hasn’t been tampered with.
+> * Discoverable - Are identifiable as “applications” thanks to W3C manifests\[6\] and service worker registration scope allowing search engines to find them.
+> * Re-engageable - Make re-engagement easy through features like push notifications.
+> * Installable - Allow users to “keep” apps they find most useful on their home screen without the hassle of an app store.
+> * Linkable - Easily shared via a URL and do not require complex installation.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+
+* [A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) \[read\]
+* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) \[read\]
+* [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) \[watch\]\[$\]
+* [Building a Progressive Web App](https://www.lynda.com/CSS-tutorials/Building-Progressive-Web-App/518052-2.html) \[watch\]\[$\]
+* [Intro to Progressive Web Apps by Google](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) \[watch\]
+* [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.rfw9hdym6) \[read\]
+* [Why Native Apps Really are Doomed: Native Apps are Doomed pt 2](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.qjrm13yj3) \[read\]
+* [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/) \[read\]
+* [Progressive Web Applications and Offline](https://frontendmasters.com/courses/progressive-web-apps/) \[watch\]\[$\]
+
+## 3.25 - Learn JS API Design
+
+* [Designing Better JavaScript APIs](http://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) \[read\]
+* [Writing JavaScript APIs](http://blog.wolksoftware.com/writing-javascript-apis) \[read\]
+
+## 3.26 - Learn Browser Web Developer Tools
+
+> Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application.
+>
+> Web development tools come as browser add-ons or built in features in web browsers. The most popular web browsers today like, Google Chrome, Firefox, Opera, Internet Explorer, and Safari have built in tools to help web developers, and many additional add-ons can be found in their respective plugin download centers.
+>
+> Web development tools allow developers to work with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser. Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)
+
+While most browsers come equipped with web developer tools, the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and widely used.
+
+I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools.
+
+**Learn Chrome Web Developer Tools:**
+
+* [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) \[watch\]\[$\]
+* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) \[watch\]
+* [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/) \[watch\]\[$\]
+* [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) \[watch\]\[$\]
+* [Learning Chrome Web Developer Tools](https://www.lynda.com/Chrome-tutorials/Learning-Chrome-Web-Developer-Tools/590844-2.html) \[watch\]\[$\]
+
+**Chrome Web Developer Tools Docs:**
+
+* [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+* [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+* [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
+* [Configure and Customize DevTools](https://developer.chrome.com/devtools/docs/settings)
+
+#### 3.27 - Learn the Command Line \(aka CLI\) <a id="4.27"></a>
+
+> A command-line interface or command language interpreter \(CLI\), also known as command-line user interface, console user interface, and character user interface \(CUI\), is a means of interacting with a computer program where the user \(or client\) issues commands to the program in the form of successive lines of text \(command lines\).
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Command-line_interface)
+
+**General Learning:**
+
+* [The Bash Guide](http://guide.bash.academy/) \[read\]
+* [Command Line Power User](http://commandlinepoweruser.com/) \[watch\]
+* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) \[read\] \[free to $\]
+
+**Mastering:**
+
+* [Advanced Command Line Techniques](https://code.tutsplus.com/courses/advanced-command-line-techniques) \[watch\]\[$\]
+* [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/) \[watch\]\[$\]
+
+#### 3.28 - Learn Node.js <a id="4.28"></a>
+
+> Node.js is an open-source, cross-platform runtime environment for developing server-side web applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System z and IBM i. Its work is hosted and supported by the Node.js Foundation, a collaborative project at Linux Foundation.
+>
+> Node.js provides an event-driven architecture and a non-blocking I/O API designed to optimize an application's throughput and scalability for real-time web applications. It uses Google V8 JavaScript engine to execute code, and a large percentage of the basic modules are written in JavaScript. Node.js contains a built-in library to allow applications to act as a web server without software such as Apache HTTP Server, Nginx or IIS.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Node.js)
+
+**General Learning:**
+
+* [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) \[read\]
+* [Introduction to Node.js](https://frontendmasters.com/courses/node-js/) \[watch\]\[$\]
+* [Introduction to Node.js from Evented Mind](https://www.eventedmind.com/classes/introduction-to-node-js-4c0326de) \[watch\]
+* [io.js and Node.js Next: Getting Started](http://www.pluralsight.com/courses/running-node-applications-io-js) \[watch\]\[$\]
+* [Learning Node: Moving to the Server-Side](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=264ce29eb0775f4e8ccb7db892539555&camp=1789&creative=9325) \[read\]\[$\]
+* [Learn You The Node.js](https://github.com/workshopper/learnyounode) \[self-guided workshops\]
+* [Node.js Basics](http://teamtreehouse.com/library/nodejs-basics) \[watch\]\[$\]
+* [Node.js in Practice](https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e202c01e97ebad79157fab3b59723e94&camp=1789&creative=9325) \[read\]\[$\]
+* [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js) \[watch\]
+* [API Design in Node.js, v3](https://frontendmasters.com/courses/api-design-nodejs-v3/) \[watch\]\[$\]
+* [Learn Node](https://learnnode.com/) \[watch\]\[$\]
+
+#### 3.29 - Learn Modules <a id="4.29"></a>
+
+**General Learning:**
+
+* [JavaScript for impatient programmers - Modules](http://exploringjs.com/impatient-js/ch_modules.html) \[read\]
+* [ES6 Modules in Depth](https://ponyfoo.com/articles/es6-modules-in-depth) \[read\]
+* [Exploring JS - Modules](http://exploringjs.com/es6/ch_modules.html#ch_modules) \[read\]
+* [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) \[read\]
+
+**References/Docs:**
+
+* [MDN - export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+* [MDN - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+
+#### 3.30 - Learn Module loaders/bundlers <a id="4.30"></a>
+
+**Webpack:**
+
+* [Webpack](https://webpack.js.org/guides/getting-started/) \[read\]
+* [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) \[watch\]\[$\]
+* [Survivejs.com Webpack Book](https://survivejs.com/webpack/introduction/) \[read\]
+
+**Rollup:**
+
+* [Rollup](http://rollupjs.org/guide/) \[read\]
+  * [Microbundle](https://github.com/developit/microbundle)
+
+**Parcel**
+
+* [Parcel](https://parceljs.org/getting_started.html) \[read\]
+
+#### 3.31 - Learn Package Manager <a id="4.31"></a>
+
+> A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a computer's operating system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Package_manager)
+
+**General Learning:**
+
+* [An introduction to how JavaScript package managers work](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3) \[read\]
+* [The Mystical & Magical SemVer Ranges Used By npm & Bower](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) \[read\]
+* [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) \[read\]
+* [npm docs](https://docs.npmjs.com/)
+* [yarn docs](https://yarnpkg.com/en/docs/)
+
+#### 3.32 - Learn Version Control <a id="4.32"></a>
+
+> A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number," "revision level," or simply "revision." For example, an initial set of files is "revision 1." When the first change is made, the resulting set is "revision 2," and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Version_control)
+
+The most common solution used for [version control](https://en.wikipedia.org/wiki/Version_control) today is [Git](https://git-scm.com/). Learn it!
+
+**General Learning:**
+
+* [Getting Git Right](https://www.atlassian.com/git/) \[read\]
+* [Git Fundamentals](http://www.pluralsight.com/courses/git-fundamentals) \[watch\]\[$\]
+* [learn Enough Git](https://www.learnenough.com/git-tutorial) \[read\]
+* [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC) \[read\]
+
+**Mastering:**
+
+* [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) \[watch\]\[$\]
+* [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview/) \[read\]
+* [Pro Git](http://git-scm.com/book/en/v2) \[read\]
+* [Learn Git Branching](http://learngitbranching.js.org/) \[interact\]
+
+**References/Docs:**
+
+* [https://git-scm.com/doc](https://git-scm.com/docs)
+* [git-cheatsheet](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
+
+#### 3.33 - Learn Build and Task Automation <a id="4.33"></a>
+
+> Build automation is the process of automating the creation of a software build and the associated processes including: compiling computer source code into binary code, packaging binary code, and running automated tests.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Build_automation)
+
+**General Learning:**
+
+* [Getting Started with Gulp](https://www.amazon.com/Getting-Started-Gulp-Travis-Maynard/dp/1784395765?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3eb1e7a868a09b44f90570c56ef5f53b&camp=1789&creative=9325) \[read\]\[$\]
+* [Gulp Basics](http://teamtreehouse.com/library/gulp-basics) \[watch\]\[$\]
+* [JavaScript Build Automation With Gulp.js](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) \[watch\]\[$\]
+
+**References/Docs:**
+
+* [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+
+Gulp is great. However, you might only need `npm run`. Before turning to additional complexity in your application stack ask yourself if `npm run` can do the job. If you need more, use Gulp.
+
+Read:
+
+* [Give Grunt the Boot! A Guide to Using npm as a Build Tool](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
+* [Using npm as a Build System for Your next Project](https://drublic.de/blog/npm-builds)
+* [Using npm as a Task Runner](http://teamtreehouse.com/library/using-npm-as-a-task-runner) \[watch\]\[$\]
+* [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
+* [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
+
+#### 3.34 - Learn Site Performance Optimization <a id="4.34"></a>
+
+> Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Web_performance_optimization)
+
+**General Learning:**
+
+* [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) \[watch\]
+* [Even Faster Web Sites: Performance Best Practices for Web Developers](https://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4fe6a82bbf727209ba337ecaa0e516bc&camp=1789&creative=9325) \[read\]\[$\]
+* [High Performance Web Sites: Essential Knowledge for Front-End Engineers](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) \[read\]\[$\]
+* [JavaScript Performance Rocks](http://javascriptrocks.com/) \[read\]\[$\]
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) \[read\]
+* [perf-tooling.today](http://www.perf-tooling.today/) \[read\]
+* [Performance Calendar](http://calendar.perfplanet.com/) \[read\]
+* [perf.rocks](http://perf.rocks/) \[read\]
+* [Using WebPageTest](https://www.amazon.com/Using-WebPageTest-Rick-Viscomi/dp/1491902590/ref=sr_1_1?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=91a76d5d4b4f47cf4e0d1392cc9cea30&camp=1789&creative=9325) \[read\]\[$\]
+* [Web Performance Daybook Volume 2](https://www.amazon.com/Web-Performance-Daybook-Techniques-Optimizing/dp/1449332919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=59e32c394c2377bb17af1d801b924d1d&camp=1789&creative=9325) \[read\]\[$\]
+* [Website Performance](https://frontendmasters.com/courses/web-performance/) \[watch\]\[$\]
+* [Web Performance with Webpack 4](https://frontendmasters.com/courses/performance-webpack/) \[watch\]\[$\]
+* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) \[watch\]
+* [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[read\]
+
+#### 3.35 - Learn Testing <a id="4.35"></a>
+
+> **Unit Testing** - In computer programming, unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Intuitively, one can view a unit as the smallest testable part of an application.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+>
+> **Functional Testing** - Functional testing is a quality assurance \(QA\) process and a type of black box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered \(not like in white-box testing\). Functional testing usually describes what the system does.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
+>
+> **Integration Testing** - Integration testing \(sometimes called integration and testing, abbreviated I&T\) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+
+**General Learning:**
+
+* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/) \[watch\]\[$\]
+* [Front-End First: Testing and Prototyping JavaScript Apps](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) \[watch\]\[$\]
+* [Let's Code: Test-Driven JavaScript](http://www.letscodejavascript.com/) \[watch\]\[$\]
+* [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) \[watch\]
+* [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) \[read\]\[$\]
+* [Testable JavaScript](https://www.amazon.com/gp/product/1449323391?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a27df21b09e3eff9ad8033a5c959e7f0&camp=1789&creative=9325) \[read\]\[$\]
+* [Test-Driving JavaScript Applications: Rapid, Confident, Maintainable Code](https://www.amazon.com/Test-Driving-JavaScript-Applications-Confident-Maintainable/dp/1680501747?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c97c9c87e634569328a335cba0b0c15f&camp=1789&creative=9325)\[read\]\[$\]
+* [Test-Driven JavaScript Development](https://www.amazon.com/dp/0321683919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f707aa5243bf6bac68bda05d1e6369e8&camp=1789&creative=9325) \[read\]\[$\]
+* [The Way of the Web Tester: A Beginner's Guide to Automating Tests](https://www.amazon.com/Way-Web-Tester-Beginners-Automating/dp/1680501836/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3e2c87950e0350d64c9d9862ed2ef524&camp=1789&creative=9325) \[read\]\[$\]
+* [Testing React Applications, v2](https://frontendmasters.com/courses/testing-react/) \[watch\]\[$\]
+* [Learn Javascript Unit Testing With Mocha, Chai and Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) \[watch\]\[$\]
+
+#### 3.36 - Learn Headless Browsers <a id="4.36"></a>
+
+> A headless browser is a web browser without a graphical user interface.
+>
+> Headless browsers provide automated control of a web page in an environment similar to popular web browsers, but are executed via a command line interface or using network communication. They are particularly useful for testing web pages as they are able to render and understand HTML the same way a browser would, including styling elements such as page layout, color, font selection and execution of JavaScript and AJAX which are usually not available when using other testing methods. Google stated in 2009 that using a headless browser could help their search engine index content from websites that use AJAX.
+>
+> — [Wikipedia](https://en.wikipedia.org/wiki/Headless_browser)
+
+* [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) \[readme\]
+
+[PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) steps in.
+
+#### 3.37 - Learn Offline Development <a id="4.37"></a>
+
+Offline development \(aka offline first\) is an area of knowledge and discussion around development practices for devices that are not always connected to the Internet or a power source.
+
+**General Learning:**
+
+* [Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html) \[read\]
+* [Everything You Need to Know to Create Offline-First Web Apps](https://github.com/pazguille/offline-first) \[read\]
+* [Offline First](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) \[read\]
+* [offlinefirst.org](http://offlinefirst.org/) \[read\]
+* [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) \[read\]
+* [Offline Quickstart](https://developers.google.com/web/ilt/pwa/offline-quickstart)\[read\]
+
+#### 3.38 - Learn Web/Browser/App Security <a id="4.38"></a>
+
+* [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) \[read\]
+* [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) \[watch\]
+* [Hacksplaining](https://www.hacksplaining.com/) \[read\]
+* [HTML5 Security Cheatsheet](https://html5sec.org/) \[read\]
+* [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) \[read\]
+* [Identity and Data Security for Web Development: Best Practices](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f5f2aaa4d5f944a3ccc316a16e3673f4&camp=1789&creative=9325) [read](https://frontendmasters.com/books/front-end-handbook/2019/$)
+* [Security for Web Developers: Using JavaScript, HTML, and CSS](https://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=df49be399d7d1a12acebe5a85637a7a8&camp=1789&creative=9325) \[read\]\[$\]
+* [The Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html) \[read\]
+* [The Internet: Encryption & Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6) \[watch\]
+* [The Internet: Cybersecurity & Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=7) \[watch\]
+* [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/) \[read\]\[$\]
+* [Web Security Basics](https://github.com/vasanthk/web-security-basics) \[read\]
+* [Web security](https://developer.mozilla.org/en-US/docs/Web/Security) \[read\]
+* [Web Security](https://frontendmasters.com/courses/web-security/) \[watch\]\[$\]
+* [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) \[watch\]\[$\]
+
+#### 3.39 - Learn Multi-Device Development <a id="4.39"></a>
+
+![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/things.jpg)
+
+Image source: [http://bradfrost.com/blog/post/this-is-the-web/](http://bradfrost.com/blog/post/this-is-the-web/)
+
+A website or web application can run on a wide range of computers, laptops, tablets and phones, as well as a handful of new devices \(watches, thermostats, fridges, etc.\). How you determine what devices you'll support and how you will develop to support those devices is called, "multi-device development strategy". Below, I list the most common multi-device development strategies.
+
+* Build a [responsive \(RWD\)](https://en.wikipedia.org/wiki/Responsive_web_design) web site/app for all devices.
+* Build an [adaptive/progressively](https://en.wikipedia.org/wiki/Adaptive_web_design) enhanced web site/app for all devices.
+* Build a website, web app, native app, or hybrid-native app for each individual device or a grouping of devices.
+* Attempt to retrofit something you have already built using bits and parts from strategies 1, 2 or 3.
+
+**General Learning:**
+
+* [A book Apart Pack - Responsive Web Design](https://abookapart.com/collections/responsive-design) \[read\]\[$\]
+* [A Book Apart Pack - Design For Any Device](https://abookapart.com/collections/design-for-any-device) \[read\]\[$\]
+* [Adaptive Web Design](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) \[read\]\[$\]
+* [Designing with Progressive Enhancement](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) \[read\]\[$\]
+* [Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256) \[watch\]
+* [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/) \[watch\]\[$\]
+* [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) \[watch\]\[$\]
+* [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) \[watch\]
+* [Responsive Web Typography, v2](https://frontendmasters.com/courses/responsive-typography-v2/) \[watch\]\[$\]
+* [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) \[watch\]
 
