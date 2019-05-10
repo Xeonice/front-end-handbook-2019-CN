@@ -862,8 +862,6 @@ Static site generators, typically written using server side code \(i.e., ruby, p
 
 ## 3.32 学习版本控制
 
-> A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number," "revision level," or simply "revision." For example, an initial set of files is "revision 1." When the first change is made, the resulting set is "revision 2," and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
->
 > 软件配置管理的一个组成部分，版本控制，也称为修订控制或源代码控制，是对文档、计算机程序、大型 Web 站点和其他信息修改的集中管理。更改通常用数字或字母代码标识，称为“修订号”、“修订级别”或简单地称为“修订”。例如，初始文件集是“revision 1”。当进行第一个更改时，结果集是“revision 2”，依此类推。每个修订都有一个时间戳和做出更改的人相关联。可以对修订进行比较、恢复，并与某些类型的文件进行合并。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Version_control)
@@ -917,7 +915,7 @@ Gulp 非常好用。然而，您可能只需要 `npm run`。在将您的应用�
 
 ## 3.34 学习站点性能优化
 
-> Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor.Web 性能优化，WPO 或网站优化是一门关于提高网页下载速度与站点在用户的 Web 浏览器上显示速度的学问。 随着全球互联网均速的不断提高，网站管理员和网站管理员应该考虑网站呈现在访问者面前所花费的时间。
+> Web 性能优化，WPO 或网站优化是一门关于提高网页下载速度与站点在用户的 Web 浏览器上显示速度的学问。 随着全球互联网均速的不断提高，网站管理员和网站管理员应该考虑网站呈现在访问者面前所花费的时间。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Web_performance_optimization)
 
@@ -948,7 +946,7 @@ Gulp 非常好用。然而，您可能只需要 `npm run`。在将您的应用�
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
 >
-> **集成测试** - Integration testing \(sometimes called integration and testing, abbreviated I&T\) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing.集成测试（有时称为集成和测试，缩写为I＆T）是软件测试阶段之一，这个阶段中，各个软件模块被组合并作为一个整体进行测试。 它发生在单元测试之后，验证测试之前。 集成测试默认输入模块已经过单元测试，将它们组合成更大的集合，将集成测试计划中定义的测试应用于这些集合，并将集成系统作为其输出，以便进行系统测试。
+> **集成测试** - 集成测试（有时称为集成和测试，缩写为I＆T）是软件测试阶段之一，这个阶段中，各个软件模块被组合并作为一个整体进行测试。 它发生在单元测试之后，验证测试之前。 集成测试默认输入模块已经过单元测试，将它们组合成更大的集合，将集成测试计划中定义的测试应用于这些集合，并将集成系统作为其输出，以便进行系统测试。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
 
