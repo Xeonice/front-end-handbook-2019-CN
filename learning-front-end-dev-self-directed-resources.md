@@ -848,188 +848,188 @@ Static site generators, typically written using server side code \(i.e., ruby, p
 
 ## 3.31 学习包管理工具
 
-> A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a computer's operating system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
+> 包管理器或包管理系统是一组软件工具，可以通过统一的方式自动化为计算机操作系统安装，升级，配置与删除的软件包。 它通常维护一个包含软件依赖性和版本信息的数据库，以防软件不匹配或缺少先决条件。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Package_manager)
 
-**General Learning:**
+**综合学习:**
 
-* [An introduction to how JavaScript package managers work](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3) \[read\]
-* [The Mystical & Magical SemVer Ranges Used By npm & Bower](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) \[read\]
-* [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) \[read\]
-* [npm docs](https://docs.npmjs.com/)
-* [yarn docs](https://yarnpkg.com/en/docs/)
+* [JavaScript 包管理工具原理介绍](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3) \[read\]
+* [npm & Bower 所使用的神奇语义化版本](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) \[read\]
+* [包管理器: 面向前端开发初学者的入门指南](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) \[read\]
+* [npm 文档](https://docs.npmjs.com/)
+* [yarn 文档](https://yarnpkg.com/en/docs/)
 
-## 3.32 - Learn Version Control
+## 3.32 学习版本控制
 
 > A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number," "revision level," or simply "revision." For example, an initial set of files is "revision 1." When the first change is made, the resulting set is "revision 2," and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 >
+> 软件配置管理的一个组成部分，版本控制，也称为修订控制或源代码控制，是对文档、计算机程序、大型 Web 站点和其他信息修改的集中管理。更改通常用数字或字母代码标识，称为“修订号”、“修订级别”或简单地称为“修订”。例如，初始文件集是“revision 1”。当进行第一个更改时，结果集是“revision 2”，依此类推。每个修订都有一个时间戳和做出更改的人相关联。可以对修订进行比较、恢复，并与某些类型的文件进行合并。
+>
 > — [Wikipedia](https://en.wikipedia.org/wiki/Version_control)
 
-The most common solution used for [version control](https://en.wikipedia.org/wiki/Version_control) today is [Git](https://git-scm.com/). Learn it!
+目前[版本控制](https://en.wikipedia.org/wiki/Version_control)最常用的解决方案是 [Git](https://git-scm.com/)，开始学习吧!
 
-**General Learning:**
+**综合学习:**
 
-* [Getting Git Right](https://www.atlassian.com/git/) \[read\]
-* [Git Fundamentals](http://www.pluralsight.com/courses/git-fundamentals) \[watch\]\[$\]
+* [正确使用 Git](https://www.atlassian.com/git/) \[read\]
+* [Git 基础](http://www.pluralsight.com/courses/git-fundamentals) \[watch\]\[$\]
 * [learn Enough Git](https://www.learnenough.com/git-tutorial) \[read\]
 * [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC) \[read\]
 
-**Mastering:**
+**精通:**
 
-* [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) \[watch\]\[$\]
-* [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview/) \[read\]
+* [深入 Git](https://frontendmasters.com/courses/git-in-depth/) \[watch\]\[$\]
+* [Git 进阶教程](https://www.atlassian.com/git/tutorials/advanced-overview/) \[read\]
 * [Pro Git](http://git-scm.com/book/en/v2) \[read\]
-* [Learn Git Branching](http://learngitbranching.js.org/) \[interact\]
+* [学习 Git 分支](http://learngitbranching.js.org/) \[interact\]
 
-**References/Docs:**
+**参考文献/文档:**
 
 * [https://git-scm.com/doc](https://git-scm.com/docs)
 * [git-cheatsheet](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
 
-## 3.33 - Learn Build and Task Automation
+## 3.33 学习自动化构建工具
 
-> Build automation is the process of automating the creation of a software build and the associated processes including: compiling computer source code into binary code, packaging binary code, and running automated tests.
+> 构建自动化是自动化创建软件构建和相关过程（将计算机源代码编译为二进制代码、打包二进制代码和运行自动化测试）的过程。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Build_automation)
 
-**General Learning:**
+**综合学习:**
 
 * [Getting Started with Gulp](https://www.amazon.com/Getting-Started-Gulp-Travis-Maynard/dp/1784395765?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3eb1e7a868a09b44f90570c56ef5f53b&camp=1789&creative=9325) \[read\]\[$\]
-* [Gulp Basics](http://teamtreehouse.com/library/gulp-basics) \[watch\]\[$\]
-* [JavaScript Build Automation With Gulp.js](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) \[watch\]\[$\]
+* [Gulp 基础](http://teamtreehouse.com/library/gulp-basics) \[watch\]\[$\]
+* [运用 Gulp.js 实现 JavaScript 构建自动化](http://www.pluralsight.com/courses/javascript-build-automation-gulpjs) \[watch\]\[$\]
 
-**References/Docs:**
+**参考文献/文档:**
 
 * [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
-Gulp is great. However, you might only need `npm run`. Before turning to additional complexity in your application stack ask yourself if `npm run` can do the job. If you need more, use Gulp.
+Gulp 非常好用。然而，您可能只需要 `npm run`。在将您的应用栈变得更复杂之前，请先问问自己 `npm run` 是否可以完成这项工作。如果不能的话再使用 Gulp。
 
-Read:
+阅读:
 
-* [Give Grunt the Boot! A Guide to Using npm as a Build Tool](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
-* [Using npm as a Build System for Your next Project](https://drublic.de/blog/npm-builds)
-* [Using npm as a Task Runner](http://teamtreehouse.com/library/using-npm-as-a-task-runner) \[watch\]\[$\]
-* [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
-* [Why npm Scripts?](https://css-tricks.com/why-npm-scripts/)
+* [忘掉 Grunt 吧！一篇关于将 npm 作为构建工具的指南](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/)
+* [使用 npm 作为您下一个项目的构建系统](https://drublic.de/blog/npm-builds)
+* [将 npm 作为任务管理器](http://teamtreehouse.com/library/using-npm-as-a-task-runner) \[watch\]\[$\]
+* [为什么我在 npm Scripts 中留下了 Gulp 和 Grunt](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
+* [为什么选择 npm Scripts?](https://css-tricks.com/why-npm-scripts/)
 
-## 3.34 - Learn Site Performance Optimization
+## 3.34 学习站点性能优化
 
-> Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor.
+> Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor.Web 性能优化，WPO 或网站优化是一门关于提高网页下载速度与站点在用户的 Web 浏览器上显示速度的学问。 随着全球互联网均速的不断提高，网站管理员和网站管理员应该考虑网站呈现在访问者面前所花费的时间。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Web_performance_optimization)
 
-**General Learning:**
+**综合学习:**
 
-* [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860) \[watch\]
-* [Even Faster Web Sites: Performance Best Practices for Web Developers](https://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4fe6a82bbf727209ba337ecaa0e516bc&camp=1789&creative=9325) \[read\]\[$\]
-* [High Performance Web Sites: Essential Knowledge for Front-End Engineers](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) \[read\]\[$\]
-* [JavaScript Performance Rocks](http://javascriptrocks.com/) \[read\]\[$\]
-* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) \[read\]
+* [浏览器渲染性能优化](https://www.udacity.com/course/browser-rendering-optimization--ud860) \[watch\]
+* [高性能网站建设进阶指南](https://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4fe6a82bbf727209ba337ecaa0e516bc&camp=1789&creative=9325) \[read\]\[$\]
+* [高性能网站建设指南](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) \[read\]\[$\]
+* [JavaScript 性能暗礁](http://javascriptrocks.com/) \[read\]\[$\]
+* [PageSpeed Insights 规则](https://developers.google.com/speed/docs/insights/rules) \[read\]
 * [perf-tooling.today](http://www.perf-tooling.today/) \[read\]
-* [Performance Calendar](http://calendar.perfplanet.com/) \[read\]
+* [性能日历](http://calendar.perfplanet.com/) \[read\]
 * [perf.rocks](http://perf.rocks/) \[read\]
 * [Using WebPageTest](https://www.amazon.com/Using-WebPageTest-Rick-Viscomi/dp/1491902590/ref=sr_1_1?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=91a76d5d4b4f47cf4e0d1392cc9cea30&camp=1789&creative=9325) \[read\]\[$\]
-* [Web Performance Daybook Volume 2](https://www.amazon.com/Web-Performance-Daybook-Techniques-Optimizing/dp/1449332919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=59e32c394c2377bb17af1d801b924d1d&camp=1789&creative=9325) \[read\]\[$\]
-* [Website Performance](https://frontendmasters.com/courses/web-performance/) \[watch\]\[$\]
-* [Web Performance with Webpack 4](https://frontendmasters.com/courses/performance-webpack/) \[watch\]\[$\]
-* [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) \[watch\]
-* [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[read\]
+* [Web 性能实践日志](https://www.amazon.com/Web-Performance-Daybook-Techniques-Optimizing/dp/1449332919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=59e32c394c2377bb17af1d801b924d1d&camp=1789&creative=9325) \[read\]\[$\]
+* [站点性能](https://frontendmasters.com/courses/web-performance/) \[watch\]\[$\]
+* [Web 性能与 Webpack 4](https://frontendmasters.com/courses/performance-webpack/) \[watch\]\[$\]
+* [网站性能优化](https://www.udacity.com/course/website-performance-optimization--ud884) \[watch\]
+* [前端性能核对表 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[read\]
 
-## 3.35 - Learn Testing
+## 3.35 学习测试
 
-> **Unit Testing** - In computer programming, unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Intuitively, one can view a unit as the smallest testable part of an application.
+> **单元测试** - 在计算机程序设计中，单元测试是一种软件测试方法，通过测试源代码的单个单元、一组或多组计算机程序模块与相关的控制数据、使用过程和操作过程来确定它们是否满足使用要求。直观地说，可以将单元看作应用程序中最小的可测试部分。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
 >
-> **Functional Testing** - Functional testing is a quality assurance \(QA\) process and a type of black box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered \(not like in white-box testing\). Functional testing usually describes what the system does.
+> **功能测试** - 功能测试是一种质量保证（QA）过程和一种黑盒测试，其测试用例基于被测组件的规范。 通过输入和检查输出来测试功能，很少考虑内部程序结构（不像白盒测试）。 功能测试通常描述系统的功能。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
 >
-> **Integration Testing** - Integration testing \(sometimes called integration and testing, abbreviated I&T\) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing.
+> **集成测试** - Integration testing \(sometimes called integration and testing, abbreviated I&T\) is the phase in software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing.集成测试（有时称为集成和测试，缩写为I＆T）是软件测试阶段之一，这个阶段中，各个软件模块被组合并作为一个整体进行测试。 它发生在单元测试之后，验证测试之前。 集成测试默认输入模块已经过单元测试，将它们组合成更大的集合，将集成测试计划中定义的测试应用于这些集合，并将集成系统作为其输出，以便进行系统测试。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
 
-**General Learning:**
+**综合学习:**
 
-* [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/) \[watch\]\[$\]
-* [Front-End First: Testing and Prototyping JavaScript Apps](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) \[watch\]\[$\]
-* [Let's Code: Test-Driven JavaScript](http://www.letscodejavascript.com/) \[watch\]\[$\]
-* [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) \[watch\]
-* [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) \[read\]\[$\]
-* [Testable JavaScript](https://www.amazon.com/gp/product/1449323391?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a27df21b09e3eff9ad8033a5c959e7f0&camp=1789&creative=9325) \[read\]\[$\]
+* [JavaScript 测试实践与原则](https://frontendmasters.com/courses/testing-practices-principles/) \[watch\]\[$\]
+* [前端优先: 测试和原型化 JavaScript 程序](http://www.pluralsight.com/courses/testing-and-prototyping-javascript-apps) \[watch\]\[$\]
+* [来编程吧: 测试驱动 JavaScript](http://www.letscodejavascript.com/) \[watch\]\[$\]
+* [JavaScript 测试](https://www.udacity.com/course/javascript-testing--ud549) \[watch\]
+* [JavaScript 测试方法](http://jstesting.jcoglan.com/) \[read\]\[$\]
+* [可测试的 JavaScript](https://www.amazon.com/gp/product/1449323391?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=a27df21b09e3eff9ad8033a5c959e7f0&camp=1789&creative=9325) \[read\]\[$\]
 * [Test-Driving JavaScript Applications: Rapid, Confident, Maintainable Code](https://www.amazon.com/Test-Driving-JavaScript-Applications-Confident-Maintainable/dp/1680501747?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c97c9c87e634569328a335cba0b0c15f&camp=1789&creative=9325)\[read\]\[$\]
-* [Test-Driven JavaScript Development](https://www.amazon.com/dp/0321683919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f707aa5243bf6bac68bda05d1e6369e8&camp=1789&creative=9325) \[read\]\[$\]
+* [测试驱动的 JavaScript 开发](https://www.amazon.com/dp/0321683919/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f707aa5243bf6bac68bda05d1e6369e8&camp=1789&creative=9325) \[read\]\[$\]
 * [The Way of the Web Tester: A Beginner's Guide to Automating Tests](https://www.amazon.com/Way-Web-Tester-Beginners-Automating/dp/1680501836/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=3e2c87950e0350d64c9d9862ed2ef524&camp=1789&creative=9325) \[read\]\[$\]
-* [Testing React Applications, v2](https://frontendmasters.com/courses/testing-react/) \[watch\]\[$\]
-* [Learn Javascript Unit Testing With Mocha, Chai and Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) \[watch\]\[$\]
+* [测试 React 应用（第二版）](https://frontendmasters.com/courses/testing-react/) \[watch\]\[$\]
+* [学习通过](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) [Mocha, Chai 和 Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/)[ 进行 Javascript 单元测试](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) \[watch\]\[$\]
 
-## 3.36 - Learn Headless Browsers
+## 3.36 学习无头浏览器
 
-> A headless browser is a web browser without a graphical user interface.
+> 无头浏览器是没有图形用户界面的Web浏览器。 
 >
-> Headless browsers provide automated control of a web page in an environment similar to popular web browsers, but are executed via a command line interface or using network communication. They are particularly useful for testing web pages as they are able to render and understand HTML the same way a browser would, including styling elements such as page layout, color, font selection and execution of JavaScript and AJAX which are usually not available when using other testing methods. Google stated in 2009 that using a headless browser could help their search engine index content from websites that use AJAX.
+> 无头浏览器在类似于主流 Web 浏览器的环境中提供通过命令行界面或使用网络通信对网页进行自动控制的功能， 它们对于测试网页非常有用，因为它们能够通过和浏览器相同的方式呈现和理解 HTML，包括样式元素，例如页面布局，颜色，字体选择以及  JavaScript 和 AJAX 的执行，这些在使用其他测试方法时通常是不可用的。 谷歌在 2009 年表示，使用无头浏览器可以帮助他们的搜索引擎索引网站中使用 AJAX 传输的内容。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Headless_browser)
 
-* [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) \[readme\]
+* [无头 Chrome 浏览器入门](https://developers.google.com/web/updates/2017/04/headless-chrome) \[readme\]
 
-[PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) steps in.
+[PhantomJS 即将停止维护](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [无头 Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) 会接替它的位置。
 
-## 3.37 - Learn Offline Development
+## 3.37 学习离线开发
 
-Offline development \(aka offline first\) is an area of knowledge and discussion around development practices for devices that are not always connected to the Internet or a power source.
+离线开发（也称为脱机优先）是一门围绕并非始终连接到 Internet 或电源的设备的进行开发实践的学问。
 
-**General Learning:**
+**综合学习:**
 
-* [Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html) \[read\]
-* [Everything You Need to Know to Create Offline-First Web Apps](https://github.com/pazguille/offline-first) \[read\]
-* [Offline First](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) \[read\]
+* [创建 HTML5 脱机 Web 应用](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html) \[read\]
+* [创建脱机优先 Web 应用所需了解的所有知识](https://github.com/pazguille/offline-first) \[read\]
+* [脱机优先](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) \[read\]
 * [offlinefirst.org](http://offlinefirst.org/) \[read\]
-* [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) \[read\]
-* [Offline Quickstart](https://developers.google.com/web/ilt/pwa/offline-quickstart)\[read\]
+* [离线指南](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) \[read\]
+* [离线快速入门](https://developers.google.com/web/ilt/pwa/offline-quickstart) \[read\]
 
-## 3.38 - Learn Web/Browser/App Security
+## 3.38 学习 Web/浏览器/应用安全
 
-* [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) \[read\]
-* [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) \[watch\]
+* [浏览器安全手册](https://code.google.com/p/browsersec/wiki/Main) \[read\]
+* [前端安全](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) \[watch\]
 * [Hacksplaining](https://www.hacksplaining.com/) \[read\]
-* [HTML5 Security Cheatsheet](https://html5sec.org/) \[read\]
-* [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) \[read\]
+* [HTML5 安全备忘录](https://html5sec.org/) \[read\]
+* [HTTP 安全最佳实践](https://httpsecurityreport.com/best_practice.html) \[read\]
 * [Identity and Data Security for Web Development: Best Practices](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f5f2aaa4d5f944a3ccc316a16e3673f4&camp=1789&creative=9325) [read](https://frontendmasters.com/books/front-end-handbook/2019/$)
 * [Security for Web Developers: Using JavaScript, HTML, and CSS](https://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=df49be399d7d1a12acebe5a85637a7a8&camp=1789&creative=9325) \[read\]\[$\]
-* [The Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html) \[read\]
-* [The Internet: Encryption & Public Keys](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6) \[watch\]
-* [The Internet: Cybersecurity & Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=7) \[watch\]
-* [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/) \[read\]\[$\]
-* [Web Security Basics](https://github.com/vasanthk/web-security-basics) \[read\]
-* [Web security](https://developer.mozilla.org/en-US/docs/Web/Security) \[read\]
-* [Web Security](https://frontendmasters.com/courses/web-security/) \[watch\]\[$\]
-* [Full Stack for Front End Engineers](https://frontendmasters.com/courses/full-stack/) \[watch\]\[$\]
+* [Web 应用安全基础](http://martinfowler.com/articles/web-security-basics.html) \[read\]
+* [互联网: 加密 & 公钥](https://www.youtube.com/watch?v=ZghMPWGXexs&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=6) \[watch\]
+* [互联网: 网络安全 & 犯罪](https://www.youtube.com/watch?v=AuYNXgO_f3Y&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=7) \[watch\]
+* [错综复杂的 Web: 一篇关于保护现代 Web 应用的指南](http://lcamtuf.coredump.cx/tangled/) \[read\]\[$\]
+* [Web 安全基础](https://github.com/vasanthk/web-security-basics) \[read\]
+* [Web 安全](https://developer.mozilla.org/en-US/docs/Web/Security) \[read\]
+* [Web 安全](https://frontendmasters.com/courses/web-security/) \[watch\]\[$\]
+* [面向前端的全栈课](https://frontendmasters.com/courses/full-stack/) \[watch\]\[$\]
 
-## 3.39 - Learn Multi-Device Development
+## 3.39 学习多设备开发
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/things.jpg)
+![&#x56FE;&#x7247;&#x6765;&#x6E90;&#xFF1A;http://bradfrost.com/blog/post/this-is-the-web/](.gitbook/assets/things.jpg)
 
-Image source: [http://bradfrost.com/blog/post/this-is-the-web/](http://bradfrost.com/blog/post/this-is-the-web/)
+网站或 Web 应用程序可以运行在各种各样的计算机、笔记本电脑、平板电脑和手机上，也可以运行在一些新设备上（手表、恒温器、冰箱等）。如何确定你需要支持哪些设备，以及如何开发以适配这些设备，称为“多设备开发策略”。以下是我列出的常用多设备开发策略。
 
-A website or web application can run on a wide range of computers, laptops, tablets and phones, as well as a handful of new devices \(watches, thermostats, fridges, etc.\). How you determine what devices you'll support and how you will develop to support those devices is called, "multi-device development strategy". Below, I list the most common multi-device development strategies.
+* 为所有设备构建一个[响应式 \(RWD\)](https://en.wikipedia.org/wiki/Responsive_web_design) 网站/应用。
+* 为所有设备构建一个[自适应/渐进式](https://en.wikipedia.org/wiki/Adaptive_web_design)的 Web 站点/应用。
+* 为每个单独的设备或一组设备构建一个网站、Web 应用、原生应用或 Hybrid-native 应用程序。
+* 尝试用策略 1、策略 2、策略 3 （或其中的一部分）来改造您已经构建的东西。
 
-* Build a [responsive \(RWD\)](https://en.wikipedia.org/wiki/Responsive_web_design) web site/app for all devices.
-* Build an [adaptive/progressively](https://en.wikipedia.org/wiki/Adaptive_web_design) enhanced web site/app for all devices.
-* Build a website, web app, native app, or hybrid-native app for each individual device or a grouping of devices.
-* Attempt to retrofit something you have already built using bits and parts from strategies 1, 2 or 3.
+**综合学习:**
 
-**General Learning:**
-
-* [A book Apart Pack - Responsive Web Design](https://abookapart.com/collections/responsive-design) \[read\]\[$\]
-* [A Book Apart Pack - Design For Any Device](https://abookapart.com/collections/design-for-any-device) \[read\]\[$\]
-* [Adaptive Web Design](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) \[read\]\[$\]
-* [Designing with Progressive Enhancement](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) \[read\]\[$\]
-* [Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256) \[watch\]
-* [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/) \[watch\]\[$\]
-* [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) \[watch\]\[$\]
-* [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) \[watch\]
-* [Responsive Web Typography, v2](https://frontendmasters.com/courses/responsive-typography-v2/) \[watch\]\[$\]
-* [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) \[watch\]
+* [A book Apart Pack - 响应式网页设计](https://abookapart.com/collections/responsive-design) \[read\]\[$\]
+* [A Book Apart Pack - 为所有设备进行设计](https://abookapart.com/collections/design-for-any-device) \[read\]\[$\]
+* [自适应网页设计](https://www.amazon.com/gp/product/0134216148?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=defa398e66db76e7edbb8ddfa28caa1e&camp=1789&creative=9325) \[read\]\[$\]
+* [使用渐进增强进行设计](https://www.amazon.com/Designing-Progressive-Enhancement-Building-Everyone/dp/0321658884/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=bdac6f12a3d24fe694468aa8145001eb&camp=1789&creative=9325) \[read\]\[$\]
+* [移动端 Web 开发](https://www.udacity.com/course/mobile-web-development--cs256) \[watch\]
+* [用于响应式网页设计的 CSS Grids 和 Flexbox](https://frontendmasters.com/courses/css-grids-flexbox/) \[watch\]\[$\]
+* [响应式 HTML Email 设计](https://frontendmasters.com/courses/responsive-email/) \[watch\]\[$\]
+* [响应式图片](https://www.udacity.com/course/responsive-images--ud882) \[watch\]
+* [响应式 Web 排版（第二版）](https://frontendmasters.com/courses/responsive-typography-v2/) \[watch\]\[$\]
+* [响应式网页设计基础](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) \[watch\]
 
