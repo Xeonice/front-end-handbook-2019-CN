@@ -68,34 +68,34 @@ description: >-
 * [Paw](https://paw.cloud/) \[$\]
 * [Postman](https://www.getpostman.com/) \[free - $\]
 
-## 5.6 - Code Editing Tools
+## 5.6 代码编辑工具
 
-> A source code editor is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment \(IDE\) or web browser. Source code editors are the most fundamental programming tool, as the fundamental job of programmers is to write and edit source code.
+> 源代码编辑器是专门为程序员编辑计算机程序源代码而设计的文本编辑器程序。它可以是一个独立的应用程序，也可以集成至到集成开发环境\(IDE\)或 Web 浏览器中。源代码编辑器是最基本的编程工具，程序员的基本工作就是编写和编辑源代码。
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Source_code_editor)
 
-Front-end code can minimally be edited with a simple text editing application like Notepad or TextEdit. But, most front-end practitioners use a code editor specifically design for editing a programming language.
+前端代码可以通过一个简单的文本编辑应用程序（如记事本或 TextEdit）进行最低限度的编辑。但是，大多数前端实践者会选用专门用于编辑编程语言的代码编辑器。
 
-Code editors come in all sorts of types and size, so to speak. Selecting one is a rather subjective engagement. Choose one, learn it inside and out, then get on to learning HTML, CSS, DOM, and JavaScript.
+代码编辑器有各种各样的类型，体积也大不相同。选择编辑器完全依赖于个人喜好。选择一个，并对其进行深入了解，然后学习 HTML、CSS、DOM 和 JavaScript。
 
-However, I do strongly believe, minimally, a code editor should have the following qualities \(by default or by way of plugins\):
+然而，我坚信，代码编辑器至少应该具备以下品质（默认附带或通过插件实现）:
 
-1. Good documentation on how to use the editor
-2. Report \(i.e., hinting/linting/errors\) on the code quality of HTML, CSS, and JavaScript.
-3. Offer syntax highlighting for HTML, CSS, and JavaScript.
-4. Offer code completion for HTML, CSS, and JavaScript.
-5. Be customizable by way of a plug-in architecture
-6. Have available a large repository of third-party/community plug-ins that can be used to customize the editor to your liking
-7. Be small, simple, and not coupled to the code \(i.e., not required to edit the code\)
+1. 关于如何使用编辑器的优质文档
+2. 关于 HTML，CSS 和 JavaScript 的代码质量（即提示/ linting /错误）报告。 
+3. 提供 HTML，CSS 和 JavaScript 语法高亮。 
+4. 提供 HTML，CSS 和 JavaScript 的代码补全。 
+5. 可通过插件系统进行自定义。
+6. 有一个大型的第三方/社区插件仓库，可用于根据自己的喜好自定义编辑器。
+7. 小巧，简单，不与代码耦合（即，不需要编辑代码）。
 
-**Code Editors:**
+**代码编辑器:**
 
 * [Atom](https://atom.io/)
 * [Sublime Text](http://www.sublimetext.com/) \[$\]
 * [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) \[$\]
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-**Online Code Editors:**
+**在线代码编辑器:**
 
 * [PaizaCloud](https://paiza.cloud/) \[free to $\]
 * [AWS Cloud9](https://aws.amazon.com/cloud9/) \[$\]
@@ -103,33 +103,31 @@ However, I do strongly believe, minimally, a code editor should have the followi
 * [StackBliz](https://stackblitz.com/)
 * [codeSandbox](https://codesandbox.io/)
 
-**Shareable & Runnable Simple Code Editors:**
+**可共享 & 运行的简单代码编辑器:**
 
-Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to share small amounts of immediately runnable code in a web browser.
+用于共享有限数量的可立即运行的代码，不是真正的代码编辑器，而是可用于在 Web 浏览器中共享少量可立即执行的代码的工具。
 
 * [CodePen](http://codepen.io/) \[free to $\]
 * [jsbin.com](http://jsbin.com/) \[free to $\]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [glitch](https://glitch.com/)
 
-I recommending using [Visual Studio Code](https://code.visualstudio.com/) because of the quality of the tool and the continuous improvements made to the editor that likely won't stop or slow due to the fact that Microsoft is behind the tool. It is widely used:
+我建议使用 [Visual Studio Code](https://code.visualstudio.com/)，因为该工具的质量和对编辑器所做的持续改进目前不会因为微软的支持而降低或停止，而且在开发社区中非常受欢迎:
 
-![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/vscode.png)
+![&#x56FE;&#x7247;&#x6765;&#x6E90;: https://2018.stateofjs.com/other-tools/text\_editors](.gitbook/assets/vscode.png)
 
-Image source: [https://2018.stateofjs.com/other-tools/text\_editors](https://2018.stateofjs.com/other-tools/text_editors)
+## 5.7 浏览器工具
 
-## 5.7 - Browser Tools
-
-**JS Utilities to fix Browsers:**
+**用于修复浏览器的 JS 工具:**
 
 * [History.js](https://github.com/browserstate/history.js)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
 * [Platform.js](https://github.com/bestiejs/platform.js)
 * [URI.js](http://medialize.github.io/URI.js/)
 
-**General Reference Tools to Determine If X Browser Supports X:**
+**用于确定 X 浏览器是否支持 X 的参考工具：**
 
-* [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
+* \*\*\*\*[Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Browserscope](http://www.browserscope.org/)
 * [caniuse.com](http://caniuse.com/)
 * [Firefox Platform Status - Implementation & standardization roadmap for web platform features](https://platform-status.mozilla.org/)
@@ -139,7 +137,7 @@ Image source: [https://2018.stateofjs.com/other-tools/text\_editors](https://201
 * [web-platform-tests dashboard](https://wpt.fyi/)
 * [whatwebcando.today](https://whatwebcando.today/)
 
-**Browser Development/Debug Tools:**
+**浏览器开发/Debug 工具:**
 
 * [Chrome Developer Tools \(aka DevTools\)](https://developers.google.com/web/tools/?hl=en)
   * [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
@@ -150,12 +148,12 @@ Image source: [https://2018.stateofjs.com/other-tools/text\_editors](https://201
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
 * [Vorlon.js](http://vorlonjs.com/)
 
-**JavaScript Utilities to Determine If X Browser Supports X:**
+**用于确定 X 浏览器是否支持 X 的 JavaScript 实用程序：**
 
-* [Feature.js](http://featurejs.com/)
+* \*\*\*\*[Feature.js](http://featurejs.com/)
 * [Modernizr](https://modernizr.com/)
 
-**Broad Browser Polyfills/Shims:**
+**通用浏览器 Polyfills/Shims:**
 
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
@@ -165,7 +163,7 @@ Image source: [https://2018.stateofjs.com/other-tools/text\_editors](https://201
 * [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)
 * [webshim](https://afarkas.github.io/webshim/demos/)
 
-**Hosted Testing/Automation for Browsers:**
+**浏览器托管测试/自动化:**
 
 * [Browserling](https://www.browserling.com/) \[free to $\]
 * [BrowserStack](https://www.browserstack.com/) \[$\]
@@ -174,13 +172,13 @@ Image source: [https://2018.stateofjs.com/other-tools/text\_editors](https://201
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) \[$\]
 
-**Headless Browsers:**
+**无头浏览器:**
 
 * [slimerjs](http://slimerjs.org/)
 * [Zombie.js](http://zombie.js.org/)
 * [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 
-**Browser Automation:**
+**浏览器自动化:**
 
 Used for functional testing and monkey testing.
 
@@ -188,24 +186,24 @@ Used for functional testing and monkey testing.
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [TestCafe](https://github.com/DevExpress/testcafe)
 
-**Browser Hacks:**
+**浏览器黑魔法:**
 
 * [browserhacks.com](http://browserhacks.com/)
 
-**Browser Syncing Tools:**
+**浏览器同步工具:**
 
 * [Browsersync](http://www.browsersync.io/)
 
-**Browser List:**
+**浏览器列表:**
 
 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env.
 
 * [Browserslist](https://github.com/ai/browserslist)
   * [http://browserl.ist/](http://browserl.ist/?q=%3E+2%25)
 
-## 5.8 - HTML Tools
+## 5.8 HTML 工具
 
-**HTML Templates/Boilerplates/Starter Kits:**
+**HTML 模板/Boilerplates/入门套件：**
 
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
@@ -217,12 +215,12 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 
 * [html5shiv](https://github.com/aFarkas/html5shiv)
 
-**Transpiling:**
+**转译:**
 
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 
-**References:**
+**参考文档:**
 
 * [Element attributes](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
 * [Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
@@ -236,20 +234,20 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [HTMLHint](https://htmlhint.io/)
 * [html-inspector](https://github.com/philipwalton/html-inspector)
 
-**Optimizer:**
+**优化工具:**
 
 * [HTML Minifier](http://kangax.github.io/html-minifier/)
 
-**Online Creation/Generation/Experimentation Tools:**
+**在线创建/生成/实验工具:**
 
 * [tablesgenerator.com](http://www.tablesgenerator.com/)
 
-**Authoring Conventions:**
+**书写规范:**
 
 * [HTML Code Guide](http://codeguide.co/#html)
 * [Principles of Writing Consistent, Idiomatic HTML](https://github.com/necolas/idiomatic-html)
 
-**Workflow:**
+**工作流:**
 
 * [Emmet](http://emmet.io/)
 
@@ -257,13 +255,13 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 
 * [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
 
-**Trending HTML Repositories on GitHub This Month:**
+**本月 GitHhub 上 HTML 仓库流行趋势:**
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)
 
-## 5.9 - CSS Tools
+## 5.9 CSS 工具
 
-**CSS Utilities:**
+**CSS 通用工具:**
 
 * [Basscss](http://basscss.com/)
 * [Skeleton](http://getskeleton.com/)
@@ -271,7 +269,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Tachyons](https://github.com/tachyons-css/tachyons/)
 
-**CSS Frameworks \(utilities + UI\):**
+**CSS 框架 \(通用工具 + UI\):**
 
 * [Base](http://getbase.org/)
 * [Bulma](http://bulma.io/)
@@ -288,7 +286,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [Shoelace](https://shoelace.style/)
 * [Spectre.css](https://picturepan2.github.io/spectre/)
 
-**Mobile Only CSS Frameworks:**
+**移动端 CSS 框架:**
 
 * [Ratchet](http://goratchet.com/)
 
@@ -296,19 +294,21 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 
 > A CSS Reset \(or “Reset CSS”\) is a short, often compressed \(minified\) set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 >
+> CSS Reset（或“Reset CSS”）是一组简短的，经常压缩（缩小）的 CSS 规则集，用于将各个浏览器间 HTML 元素的样式统一起来。
+>
 > — [cssreset.com](http://cssreset.com/what-is-a-css-reset/)
 
 * [Eric Meyer's “Reset CSS” 2.0](https://meyerweb.com/eric/tools/css/reset/)
 * [Normalize](https://necolas.github.io/normalize.css/)
 * [sanitize.css](https://github.com/jonathantneal/sanitize.css)
 
-**Transpiling:**
+**转译:**
 
 * [pleeease.io](http://pleeease.io/)
 * [PostCSS](https://github.com/postcss/postcss) & [cssnext](http://cssnext.io/)
 * [rework](https://github.com/reworkcss/rework) & [myth](http://www.myth.io/)
 
-**References:**
+**参考文档:**
 
 * [CSS Cursors](http://csscursor.info/)
 * [css3test.com](http://css3test.com/)
@@ -329,19 +329,19 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [CSS Lint](http://csslint.net/)
 * [stylelint](http://stylelint.io/)
 
-**Code Formatter/Beautifier:**
+**代码格式化/美化工具:**
 
 * [CSScomb](https://github.com/csscomb/csscomb.js)
 * [CSSfmt](https://github.com/morishitter/cssfmt)
 
-**Optimizer:**
+**优化工具:**
 
 * [clean-css](https://github.com/jakubpawlowicz/clean-css)
 * [cssnano](http://cssnano.co/)
 * [CSSO](http://css.github.io/csso/)
 * [purgecss](https://github.com/FullHuman/purgecss)
 
-**Online Creation/Generation/Experimentation Tools:**
+**在线创建/生成/实验工具：**
 
 * [CSS Arrow Please](http://cssarrowplease.com/)
 * [CSS Matic](http://www.cssmatic.com/)
@@ -351,7 +351,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [patternizer.com](http://patternizer.com/)
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
-**Architecting CSS:**
+**CSS 架构:**
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) \[read\]
 * [BEM](http://getbem.com/introduction/)
@@ -362,7 +362,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [SUIT CSS](http://suitcss.github.io/)
 * [rscss](http://rscss.io/)
 
-**Authoring/Architecting Conventions:**
+**书写/架构规范:**
 
 * [CSS code guide](http://codeguide.co/#css) \[read\]
 * [css-architecture](https://github.com/jareware/css-architecture) \[read\]
@@ -372,7 +372,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [Standards for Developing Flexible, Durable, and Sustainable HTML and CSS](http://mdo.github.io/code-guide/) \[read\]
 * [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) \[read\]
 
-**Style Guide Resources:**
+**风格指南资源:**
 
 * [Frontify](https://frontify.com/) \[$\]
 * [SC5 STYLE GUIDE GENERATOR](http://styleguide.sc5.io/)
@@ -386,13 +386,13 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [Radium](https://formidable.com/open-source/radium/)
 * [Aphrodite](https://github.com/Khan/aphrodite)
 
-**Trending CSS Repositories on GitHub This Month:**
+**本月 GitHub CSS 仓库趋势:**
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)
 
-## 5.10 - DOM Tools
+## 5.10 - DOM 工具
 
-**DOM Libraries/Frameworks:**
+**DOM 库/框架:**
 
 * [Bliss](http://blissfuljs.com/docs.html)
 * [jQuery](http://jquery.com/)
@@ -402,22 +402,22 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [Umbrella JS](http://umbrellajs.com/)
 * [nanoJS](https://vladocar.github.io/nanoJS/)
 
-**DOM Utilities:**
+**DOM 通用工具:**
 
 * [Keypress](http://dmauro.github.io/Keypress/)
 * [Tether](http://tether.io/docs/welcome/)
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
 
-**DOM Event Tools:**
+**DOM 事件工具:**
 
 * [Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer.html)
 
-**DOM Performance Tools:**
+**DOM 性能工具:**
 
 * [Chrome DevTools Timeline](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
 * [DOM Monster](http://mir.aculo.us/dom-monster/)
 
-**References:**
+**参考文档:**
 
 * [Events](https://html.spec.whatwg.org/#events-2)
 * [DOM Browser Support](http://www.webbrowsercompatibility.com/dom/desktop/)
@@ -434,7 +434,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [dom-shims](https://github.com/necolas/dom-shims)
 * [Pointer Events Polyfill: a unified event system for the web platform](https://github.com/jquery/PEP)
 
-**Virtual DOM:**
+**虚拟 DOM:**
 
 * [jsdom](https://github.com/tmpvar/jsdom)
 * [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
