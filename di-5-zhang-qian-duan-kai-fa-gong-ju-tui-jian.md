@@ -1153,13 +1153,13 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 
 * [Gulp](http://gulpjs.com/)
 
-**Opinionated Tasking/Build pipeline tools:**
+**Opinionated Tasking / Build管道工具:**
 
 * [Brunch](http://brunch.io/)
 
-Before reaching for Gulp make sure [npm scripts](https://docs.npmjs.com/misc/scripts) or [yarn script](https://yarnpkg.com/en/docs/package-json#toc-scripts) won't fit the bill. Read, ["Why I Left Gulp and Grunt for npm Scripts"](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.nw3huib54).
+确保 [npm scripts](https://docs.npmjs.com/misc/scripts) 和 [yarn script](https://yarnpkg.com/en/docs/package-json#toc-scripts) 无法满足需求时再使用 Gulp，详情阅读 ["为什么我会为了 npm Scripts 放弃 Gulp 和 Grunt"](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.nw3huib54).
 
-#### 5.39 - Deployment Tools <a id="6.39"></a>
+## 5.39 开发工具
 
 * [Bamboo](https://www.atlassian.com/software/bamboo/) \[$\]
 * [Buddy](https://buddy.works/) \[free to $\]
@@ -1173,19 +1173,19 @@ Before reaching for Gulp make sure [npm scripts](https://docs.npmjs.com/misc/scr
 * [Semaphore](https://semaphoreci.com/) \[free to $\]
 * [Springloops](http://www.springloops.io/) \[free to $\]
 
-#### 5.40 - Site/App Monitoring Tools <a id="6.40"></a>
+## 5.40 站点/应用监控工具
 
-**Uptime Monitoring:**
+**即时监控:**
 
 * [Uptime Robot](https://uptimerobot.com/) \[free to $\]
 
-**General Monitoring Tools:**
+**通用监控工具:**
 
 * [Pingdom](https://www.pingdom.com/) \[free to $\]
 * [New Relic](http://newrelic.com/)
 * [Uptrends](https://www.uptrends.com/) \[$\]
 
-#### 5.41 - JavaScript Error Reporting/Monitoring <a id="6.41"></a>
+## 5.41 JavaScript 错误报告/监控工具
 
 * [bugsnag](https://bugsnag.com/) \[$\]
 * [errorception](https://errorception.com/) \[$\]
@@ -1195,9 +1195,9 @@ Before reaching for Gulp make sure [npm scripts](https://docs.npmjs.com/misc/scr
 * [Sentry](https://getsentry.com/welcome/) \[free to $\]
 * [TrackJS](https://trackjs.com/) \[$\]
 
-#### 5.42 - Performance Tools <a id="6.42"></a>
+## 5.42 性能工具
 
-**Reporting:**
+**报告:**
 
 * [bundlephobia.com](https://bundlephobia.com/)
 * [GTmetrix](https://gtmetrix.com/)
@@ -1209,26 +1209,26 @@ Before reaching for Gulp make sure [npm scripts](https://docs.npmjs.com/misc/scr
 * [Datadog](https://www.datadoghq.com/) \[$\]
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
-**JS Tools:**
+**JS 工具:**
 
 * [imagemin](https://github.com/imagemin/imagemin)
 * [ImageOptim-CLI](http://jamiemason.github.io/ImageOptim-CLI/)
 
-**Budgeting:**
+**预算:**
 
 * [performancebudget.io](http://www.performancebudget.io/)
 
-**References/Docs:**
+**参考文献/文档:**
 
 * [Jank Free](http://jankfree.org/)
 * [Performance of ES6 features relative to the ES5](https://kpdecker.github.io/six-speed/)
 
-**Checklist:**
+**对照清单:**
 
 * [The Front-End Checklist](https://frontendchecklist.io/)
 * [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[read\]
 
-#### 5.43 - Tools for Finding Tools <a id="6.43"></a>
+## 5.43 用于查找工具的工具
 
 * [built with](http://builtwith.com/)
 * [frontendtools.com](http://frontendtools.com/)
@@ -1241,7 +1241,7 @@ Before reaching for Gulp make sure [npm scripts](https://docs.npmjs.com/misc/scr
 * [bestof.js.org](https://bestof.js.org/)
 * [libraries.io](https://libraries.io/)
 
-#### 5.44 - Documentation Generation Tools <a id="6.44"></a>
+## 5.44 文档生成工具
 
 * [docz](https://www.docz.site/)
 * [ESDoc](https://github.com/esdoc/esdoc)
