@@ -11,6 +11,6 @@
 * [x] Chapter 2
 * [x] Chapter 3
 * [ ] Chapter 4
-* [ ] Chapter 5（ing）
+* [x] Chapter 5（ing）
 * [ ] Chapter 6
 
