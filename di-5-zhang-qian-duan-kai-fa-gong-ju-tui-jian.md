@@ -6,8 +6,6 @@ description: >-
 
 # 第5章-前端开发工具推荐
 
-
-
 ## 5.1 文档/API 浏览工具
 
 **用于浏览常用开发人员文档和开发人员 API 参考的工具。**
@@ -180,7 +178,7 @@ description: >-
 
 **浏览器自动化:**
 
-Used for functional testing and monkey testing.
+用于功能测试与猴子测试。
 
 * [CasperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
@@ -203,7 +201,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 
 ## 5.8 HTML 工具
 
-**HTML 模板/Boilerplates/入门套件：**
+**HTML 模板/入门套件：**
 
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
@@ -292,8 +290,6 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 
 **CSS Reset:**
 
-> A CSS Reset \(or “Reset CSS”\) is a short, often compressed \(minified\) set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
->
 > CSS Reset（或“Reset CSS”）是一组简短的，经常压缩（缩小）的 CSS 规则集，用于将各个浏览器间 HTML 元素的样式统一起来。
 >
 > — [cssreset.com](http://cssreset.com/what-is-a-css-reset/)
@@ -439,9 +435,9 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [jsdom](https://github.com/tmpvar/jsdom)
 * [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
 
-#### 5.11 - JavaScript Tools <a id="6.11"></a>
+## 5.11 - JavaScript 工具
 
-**JS Utilities:**
+**JS 常用库:**
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
 * [async](http://caolan.github.io/async/)
@@ -468,25 +464,25 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
 
-**Transforming JavaScript Objects Tool:**
+**转译至 JavaScript 对象的工具:**
 
 * [transform-www](https://transform.now.sh/)
 
-**Transpiling / Type Checking \(ES to ES\):**
+**转译 / 类型检查 \(ES 至 ES\):**
 
 * [TypeScript](https://www.typescriptlang.org/)
 
-**Type Checking \(ES to ES\):**
+**类型检查 \(ES 至 ES\):**
 
 * [Flow](https://flowtype.org/)
 
-**Transpiling \(ES to ES\):**
+**转译 \(ES 至 ES\):**
 
 * [Babel](https://babeljs.io/)
 * [sucrase](https://sucrase.io/)
 * [scw](https://swc-project.github.io/)
 
-**Code-analysis Engine:**
+**代码分析引擎:**
 
 * [Tern](https://ternjs.net/)
 
@@ -494,14 +490,14 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 
 * [eslint](http://eslint.org/)
 
-**Unit Testing:**
+**单元测试:**
 
 * [AVA](https://github.com/avajs/ava)
 * [Jasmine](http://jasmine.github.io/)
 * [Mocha](http://mochajs.org/)
 * [Tape](https://github.com/substack/tape)
 
-**Testing Assertions for Unit Testing:**
+**单元测试断言:**
 
 * [Chai](http://chaijs.com/)
 * [expect.js](https://github.com/Automattic/expect.js)
@@ -512,103 +508,103 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [sinon.js](http://sinonjs.org/)
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
-**Code Formater/Beautifier:**
+**代码格式化/美化工具:**
 
 * [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
 * [js-beautify](http://jsbeautifier.org/)
 * [jsfmt](http://rdio.github.io/jsfmt/)
 * [prettier](https://github.com/jlongster/prettier)
 
-**Performance Testing:**
+**性能测试:**
 
 * [benchmark.js](http://benchmarkjs.com/)
 * [jsperf.com](https://jsperf.com/)
 
-**Visualization, Static Analysis, Complexity, Coverage Tools:**
+**可视化, 静态分析, 复杂度, 覆盖率工具:**
 
 * [Coveralls](https://coveralls.io/) \[$\]
 * [Esprima](http://esprima.org/)
 * [istanbul](https://github.com/gotwarlost/istanbul)
 
-**Optimizer:**
+**优化工具:**
 
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
 * [Terser](https://github.com/terser-js/terser)
 * [optimize-js](https://github.com/nolanlawson/optimize-js)
 * [Prepack](https://prepack.io/)
 
-**Obfuscate:**
+**代码混淆:**
 
 * [Javascript Obfuscator](http://www.javascriptobfuscator.com/) \[free to $\]
 * [JScrambler](https://jscrambler.com/) \[$\]
 
-**Sharable/Runnable Code Editors:**
+**可分享/运行代码编辑器:**
 
 * [CodeSandbox](https://codesandbox.io/) \[free to $\]
 
-**Online Regular Expression Editors/Visual Tools:**
+**在线正则表达式编辑器/可视化工具:**
 
 * [debuggex](https://www.debuggex.com/)
 * [regex101](https://regex101.com/)
 * [regexper](http://regexper.com/)
 * [RegExr](http://regexr.com/)
 
-**Authoring Convention Tools:**
+**书写规范工具:**
 
 * [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
 * [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
 
-**Trending JS Repositories on GitHub This Month:**
+**本月 GitHub JS 仓库趋势:**
 
 [https://github.com/trending?l=javascript&since=monthly](https://github.com/trending?l=javascript&since=monthly)
 
-**Most Depended upon Packages on NPM:**
+**NPM 上最流行的依赖包:**
 
 [https://www.npmjs.com/browse/depended](https://www.npmjs.com/browse/depended)
 
-#### 5.12 - Headless CMS Tools <a id="6.12"></a>
+## 5.12 无头 CMS 工具
 
-**Site Generator Listings:**
+**站点生成器列表:**
 
 * [headless CMS](https://headlesscms.org/)
 
-#### 5.13 - Static Site Generators Tools <a id="6.13"></a>
+## 5.13 静态站点生成工具
 
-**Site Generator Listings:**
+**站点生成器列表:**
 
 * [staticgen.com](https://www.staticgen.com/)
 * [staticsitegenerators.net](https://staticsitegenerators.net/)
 
-#### 5.14 - Accessibility Tools <a id="6.14"></a>
+#### 5.14 可用性工具 <a id="6.14"></a>
 
-**Guides**
+**指南**
 
 * [A11Y Style Guide](http://a11y-style-guide.com/style-guide/)
 * [Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/)
 * [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag/)
 * [18F Accessibility Guide](https://pages.18f.gov/accessibility/checklist/)
 
-**Site Scanners**
+**站点扫描器**
 
 * [aXe Browser Extension](http://www.deque.com/products/axe/)
 * [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 * [Tenon Accessibility Tool](https://tenon.io/)
 * [WAVE Accessibility Tool](http://wave.webaim.org/)
 
-**Color Contrast Testers**
+**对比色测试工具**
 
 * [Colorable](http://jxnblk.com/colorable/demos/text/)
 * [Colorable Matrix](http://jxnblk.com/colorable/demos/matrix/)
 * [Color Safe](http://colorsafe.co/)
 * [Color Ratio](http://leaverou.github.io/contrast-ratio/)
 
-**Low-Vision Simulators**
+**低视力模拟器**
 
 * [SEE](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn) \(Chrome\)
 * [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb) \(Chrome\)
 * [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) \(Chrome\)
 
-**Screen Readers**
+**屏幕阅读器**
 
 * [VoiceOver](http://www.apple.com/accessibility/) \(Mac\)
 * [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS) \(Win\)
@@ -616,7 +612,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [ChromeVox](http://www.chromevox.com/) \(Chrome extension\)
 * [Basic screen reader commands](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 
-**Readability Testers**
+**可读性测试工具**
 
 * [Expresso App](http://www.expresso-app.org/)
 * [Hemingway App](http://www.hemingwayapp.com/)
@@ -624,7 +620,7 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [Readability Score](https://readability-score.com/text/)
 * [MS Office](https://support.office.com/en-us/article/Test-your-document-s-readability-0adc0e9a-b3fb-4bde-85f4-c9e88926c6aa)
 
-**Articles**
+**文章**
 
 * [Getting Started with ARIA](http://a11yproject.com/posts/getting-started-aria/)
 * [Reframing Accessibility for the Web](http://alistapart.com/article/reframing-accessibility-for-the-web)
@@ -633,9 +629,9 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [MDN Accessibility Guide](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 * [Enable accessibility panel in Chrome dev tools](https://umaar.com/dev-tips/101-accessibility-inspection/)
 
-#### 5.15 - App Frameworks \(Desktop, Mobile, Tablet, etc.\) Tools <a id="6.15"></a>
+## 5.15 应用框架 \(桌面端、移动端、平板电脑等\) 工具
 
-**Front-End App Frameworks:**
+**前端应用框架:**
 
 * [AngularJS](https://github.com/angular/angular.js) \(i.e Angular 1.x.x\) + [Batarang](https://github.com/angular/angularjs-batarang)
 * [Angular](https://github.com/angular/angular) \(i.e. Angular 2.0.0 +\) + [angular-cli](https://github.com/angular/angular-cli)
@@ -646,16 +642,16 @@ Share target browsers between different front-end tools, like Autoprefixer, Styl
 * [Vue.js](http://vuejs.org/) + [vue-cli](https://github.com/vuejs/vue-cli) & [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 * [Riot](http://riotjs.com/)
 
-**Native Hybrid Mobile WebView \(i.e., Browser Engine Driven\) Frameworks:**
+**原生混合移动端 WebView（浏览器引擎驱动）框架:**
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom WebView as a bridge to native APIs.
+这些解决方案通常使用 [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), 或自定义 WebView 作为原生 API 桥接工具.
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
-**Native Hybrid Mobile Development Webview \(i.e., Browser Engine Driven\) Environments/Platforms/Tools:**
+**原生混合移动端 WebView（浏览器引擎驱动）环境/平台/工具:**
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom WebView as a bridge to native APIs.
+这些解决方案通常使用 [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), 或自定义 WebView 作为原生 API 桥接工具.
 
 * [Adobe PhoneGap](http://phonegap.com/) \[$\]
 * [cocoon.io](https://cocoon.io/) \[free to $\]
@@ -663,7 +659,7 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 * [kony](http://www.kony.com/products/mobility-platform) \[$\]
 * [Monaca](https://monaca.io/) \[$\]
 
-**Native Desktop App Frameworks:**
+**原生桌面端应用框架:**
 
 * [Electron](http://electron.atom.io/)
 * [NW.js](https://github.com/nwjs/nw.js)
@@ -671,9 +667,9 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 * [Neutralino.js](https://neutralino.js.org/)
 * [DeskGap](https://deskgap.com/)
 
-**Native Mobile App Frameworks \(Aka JavaScript Native Apps\)**
+**原生移动端应用框架 \(JavaScript 原生应用\)**
 
-These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or WebView is used. The UI is constructed from native UI components.
+这些解决方案在运行时使用 JS 引擎以解释 JS 并将其桥接至本机API，不使用浏览器引擎或 WebView， UI 由原生 UI 组件组成。
 
 * [Flutter](https://flutter.io/)
 * [NativeScript](https://www.nativescript.org/)
@@ -682,14 +678,14 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 * [trigger.io](https://trigger.io/how-it-works/) \[$\]
 * [weex](https://weex.apache.org/)
 
-**References & demo apps:**
+**参考项目 & demo 应用:**
 
 * [todomvc.com](http://todomvc.com/)
 * [RealWorld example apps](https://github.com/gothinkster/realworld) \[code\]
 * [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [Front-end Guidelines](https://github.com/bendc/frontend-guidelines)
 
-**Performance:**
+**性能:**
 
 * [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
 * [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[read\]
@@ -700,11 +696,17 @@ If you are building a simple website that has minimal interactions with data \(i
 
 Want something smaller than React, consider [Preact](https://preactjs.com/). Preact is an attempt to recreate the core value proposition of React \(or similar libraries like Mithril\) using as little code as possible, with first-class support for ES2015. Currently the library is around 3kb \(minified & gzipped\).
 
-#### 5.16 - JavaScript App Manager <a id="6.16"></a>
+如果您不熟悉前端/JavaScript 应用开发，我建议从 [Vue.js](http://vuejs.org/) 开始，然后再转向 [React](http://facebook.github.io/react/)，最后了解一下 [Angular 2+](https://angular.io/)、[Ember](http://emberjs.com/) 或 [Aurelia](http://aurelia.io/)。
+
+如果您正在构建一个与数据交互极少的简单网站（即主要是静态内容网站），则应避免使用前端框架。 使用像 [Gulp ](https://github.com/vigetlabs/blendid)这样的任务运行器[和 jQuery](https://github.com/vigetlabs/blendid) 可以完成很多工作，同时避免学习和使用应用框架工具所带来的不必要的复杂性。 
+
+如果想要比 React 更简洁的东西，请考虑 [Preact](https://preactjs.com/)。 Preact 是尝试使用尽可能少的代码实现 React（或像Mithril这样的类似库）的核心价值，同时为 ES2015 提供最佳支持。 目前该库大约 3kb（精简并压缩过后）。
+
+## 5.16 JavaScript 应用管理工具
 
 * [JSUI](https://github.com/kitze/JSUI)
 
-#### 5.17 - State Tools <a id="6.17"></a>
+## 5.17 状态工具
 
 * [Redux](https://redux.js.org/)
 * [Mobx](https://mobx.js.org/)
@@ -715,26 +717,26 @@ Want something smaller than React, consider [Preact](https://preactjs.com/). Pre
 * [unstated](https://github.com/jamiebuilds/unstated)
 * [Vuex](https://vuex.vuejs.org/en/)
 
-#### 5.18 - Progressive Web App Tools: <a id="6.18"></a>
+## 5.18 渐进式 Web 应用（PWA）工具:
 
 * [lighthouse](https://developers.google.com/web/tools/lighthouse/)
 * [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
 
-#### 5.19 - GUI Development/Build Tools <a id="6.19"></a>
+## 5.19 GUI 开发/构建工具
 
 * [CodeKit](http://incident57.com/codekit/)
 * [Prepros](https://prepros.io/)
 * [KoalaApp](http://koala-app.com/) \[free\]
 
-#### 5.20 - Templating/Data Binding Tools <a id="6.20"></a>
+## 5.20 模版/数据绑定工具
 
-**Just Templating:**
+**仅模版:**
 
 * [doT.js](http://olado.github.io/doT/)
 * [art-template](https://aui.github.io/art-template/)
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 
-**Templating and Reactive Data Binding:**
+**模版与动态数据绑定:**
 
 * [ractive.js](https://ractive.js.org/)
 * [react.js](https://facebook.github.io/react/index.html)
@@ -746,13 +748,13 @@ Want something smaller than React, consider [Preact](https://preactjs.com/). Pre
 * [Rivets.js](http://rivetsjs.com/)
 * [vue.js](http://vuejs.org/)
 
-**Templating to Virtual DOM:**
+**虚拟 DOM 模版:**
 
 * [JSX](https://facebook.github.io/jsx/)
 
-#### 5.21 - UI Widget & Component Toolkits <a id="6.21"></a>
+## 5.21 - UI 组件 & 组件工具箱
 
-**On Web Platform:**
+**Web 平台:**
 
 * [Kendo UI](http://www.telerik.com/kendo-ui) for jQuery \[free to $\]
 * [Materialize](http://materializecss.com/)
@@ -761,7 +763,7 @@ Want something smaller than React, consider [Preact](https://preactjs.com/). Pre
 * [UiKit](https://getuikit.com/)
 * [Webix](http://webix.com/) \[$\]
 
-**React Specific, On Web Platform:**
+**Web 平台，仅限 React:**
 
 * [Ant Design](https://ant.design/)
 * [Material ui](http://material-ui.com/)
@@ -769,21 +771,23 @@ Want something smaller than React, consider [Preact](https://preactjs.com/). Pre
 * [ExtReact](https://www.sencha.com/products/extreact/#app) \[$\]
 * [Fabric](https://developer.microsoft.com/en-us/fabric)
 
-**Native Desktop/Laptop/Netbook Apps via Web Platform \(i.e. used with NW.js and Electron\):**
+**通过 Web 平台（即 NW.js 或 electronic）实现的原生桌面/笔记本/上网本应用程序:**
 
-* [Photon](http://photonkit.com/)
+* \*\*\*\*[Photon](http://photonkit.com/)
 * [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
 If you need a basic set of UI Widgets/Components start with [Semantic UI](http://semantic-ui.com/). If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at [Kendo UI](http://www.telerik.com/kendo-ui) or [Webix](http://webix.com/). Keep in mind that most of these solutions still require jQuery.
 
-#### 5.22 - Data Visualization \(e.g., Charts\) Tools <a id="6.22"></a>
+如果需要一套基础 UI 组件，建议从 [Semantic UI](http://semantic-ui.com/) 开始。如果您正在构建一些需要网格、电子表格或主网格的东西，则必须了解 [Kendo UI](http://www.telerik.com/kendo-ui) 或 [Webix](http://webix.com/)。记住，这些解决方案中的大多数仍然需要 jQuery。
 
-**JS Libraries:**
+## 5.22 数据可视化（图表）工具
+
+**JS 库:**
 
 * [d3](http://d3js.org/)
 * [sigmajs](http://sigmajs.org/)
 
-**Widgets & Components:**
+**组件:**
 
 * [amCharts](http://www.amcharts.com/) \[free to $\]
 * [AnyChart](http://www.anychart.com/) \[Non-commercial free to $\]
@@ -796,16 +800,16 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [Highcharts](http://www.highcharts.com/) \[Non-commercial free to $\]
 * [ZingChart](http://www.zingchart.com/) \[free to $\]
 
-**Services \(i.e. hosted data visualization services for embedding and sharing\):**
+**服务（即可嵌入和共享的托管数据可视化服务）:**
 
 * [ChartBlocks](http://www.chartblocks.com/) \[free to $\]
 * [Datawrapper](https://datawrapper.de/)
 * [infogr.am](https://infogr.am/) \[free to $\]
 * [plotly](https://plot.ly/) \[free to $\]
 
-#### 5.23 - Graphics \(e.g., SVG, canvas, webgl\) Tools <a id="6.23"></a>
+## 5.23 图形化 \(SVG、canvas、webgl\) 工具
 
-**General:**
+**通用:**
 
 * [Fabric.js](http://fabricjs.com/)
 * [Two.js](http://jonobr1.github.io/two.js/#introduction)
@@ -828,9 +832,9 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [pixi.js](https://github.com/pixijs/pixi.js)
 * [three.js](http://threejs.org/)
 
-#### 5.24 - Animation Tools <a id="6.24"></a>
+## 5.24 动画工具
 
-**CSS and JavaScript Utilities:**
+**CSS 或 JavaScript 库:**
 
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Animate](https://github.com/daneden/animate.css)
@@ -850,34 +854,34 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 
-**Animation References:**
+**动画兼容性参考:**
 
 * [canianimate.com](http://canianimate.com/)
 
-#### 5.25 - JSON Tools <a id="6.25"></a>
+## 5.25 - JSON 工具
 
-**Online Editors:**
+**在线编辑器:**
 
 * [JSONmate](http://jsonmate.com/)
 * [JSON Editor Online](https://jsoneditoronline.org/)
 
-**Formatter & Validator:**
+**格式化 & 验证工具:**
 
 * [jsonformatter.org](http://jsonformatter.org/)
 * [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 
-**Query Tools:**
+**查询工具:**
 
 * [DefiantJS](http://www.defiantjs.com/)
 * [JSON Mask](https://github.com/nemtsov/json-mask)
 * [ObjectPath](http://objectpath.org/)
 
-**Generating Mock JSON Tools:**
+**JSON 模拟数据生成工具:**
 
 * [JSON Generator](http://www.json-generator.com/)
 * [Mockaroo](https://www.mockaroo.com/) \[free to $\]
 
-**Online JSON Mocking API Tools:**
+**JSON API 在线模拟工具:**
 
 * [FillText.com](http://www.filltext.com/)
 * [FakeJSON](https://fakejson.com/) \[free to $\]
@@ -890,22 +894,22 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [Mocky](http://www.mocky.io/)
 * [RANDOM USER GENERATOR](https://randomuser.me/)
 
-**List of public JSON API's:**
+**公共 JSON API 列表:**
 
 * [A collective list of JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
 
-**Local JSON Mocking API Tools:**
+**本地 JSON API 模拟工具:**
 
 * [json-server](https://github.com/typicode/json-server)
 
-**JSON Specifications/Schemas:**
+**JSON 规范/结构:**
 
 * [json-schema.org](http://json-schema.org/) & [jsonschema.net](http://jsonschema.net/)
 * [{json:api}](http://jsonapi.org/)
 
-#### 5.26 - Placeholder Content Tools <a id="6.26"></a>
+## 5.26 占位内容生成工具
 
-**Images:**
+**图片:**
 
 * [placehold.it](http://placehold.it/)
 * [Satyr](http://satyr.io/)
@@ -915,25 +919,25 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [LibreStock](http://librestock.com/)
 * [Unsplash](https://unsplash.it/)
 
-**Device Mockups:**
+**设备模拟:**
 
 * [placeit.net](https://placeit.net/)
 * [mockuphone.com](http://mockuphone.com/)
 
-**Text:**
+**文字:**
 
 * [Meet the Ipsums](http://meettheipsums.com/)
 * [catipsum.com](http://www.catipsum.com/)
 * [baconipsum.com](http://baconipsum.com/) \([API](http://baconipsum.com/json-api/)\)
 
-**User Data:**
+**用户数据:**
 
 * [uinames.com](https://uinames.com/)
 * [randomuser.me](https://randomuser.me/)
 
-#### 5.27 - Testing Tools <a id="6.27"></a>
+## 5.27 测试工具
 
-**Software Testing Frameworks:**
+**软件测试框架:**
 
 * [Intern](https://theintern.github.io/)
 * [Jest](http://facebook.github.io/jest/)
@@ -941,14 +945,14 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
   * [Enzyme](https://github.com/airbnb/enzyme)
   * [Cheerio](https://github.com/cheeriojs/cheerio)
 
-**Unit Testing:**
+**单元测试:**
 
 * [AVA](https://github.com/avajs/ava)
 * [Jasmine](http://jasmine.github.io/)
 * [Mocha](http://mochajs.org/)
 * [Tape](https://github.com/substack/tape)
 
-**Testing Assertions for Unit Testing:**
+**单元测试断言:**
 
 * [Chai](http://chaijs.com/)
 * [expect.js](https://github.com/Automattic/expect.js)
@@ -959,7 +963,7 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [sinon.js](http://sinonjs.org/)
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
-**Hosted Testing/Automation for Browsers:**
+**浏览器托管/自动化测试:**
 
 * [Browserling](https://www.browserling.com/) \[$\]
 * [BrowserStack](https://www.browserstack.com/) \[$\]
@@ -967,19 +971,19 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) \[$\]
 
-**Integration/Functional Testing:**
+**集成/功能测试:**
 
 * [Cypress](https://www.cypress.io/)
 * [Nightwatch](http://nightwatchjs.org/)
 * [WebDriver.io](http://webdriver.io/)
 
-**Browser Automation:**
+**浏览器自动化:**
 
 * [CasperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [TestCafe](https://github.com/DevExpress/testcafe)
 
-**UI Testing Tools:**
+**UI 测试工具:**
 
 * [gremlins.js](https://github.com/marmelab/gremlins.js)
 * [Percy](https://percy.io/)
@@ -988,7 +992,7 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [Ghost Inspector](https://ghostinspector.com/)
 * [diff.io](https://diff.io/)
 
-**Automated dead link and error detectors:**
+**死链接与错误自动监视器:**
 
 * [Monkey Test It](https://monkeytest.it/)
 
@@ -996,7 +1000,7 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 
 * [Polly.JS](https://netflix.github.io/pollyjs/#/README)
 
-#### 5.28 - Front-End Data Storage Tools \(i.e. Data storage solution in the client\) <a id="6.28"></a>
+## 5.28 - 前端数据存储工具 \(客户端数据存储方案\)
 
 * [AlaSQL](http://alasql.org/)
 * [Dexie.js](http://www.dexie.org/)
@@ -1009,7 +1013,7 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [RxDB](https://pubkey.github.io/rxdb/install.html)
 * [ImmortalDB](https://github.com/gruns/ImmortalDB)
 
-#### 5.29 - Module Loading/Bundling Tools <a id="6.29"></a>
+## 5.29 - 模块加载/构建工具
 
 * [Parcel](https://parceljs.org/)
 * [Rollup](http://rollupjs.org/)
@@ -1020,13 +1024,15 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [Fusebox](https://fuse-box.org/)
 * [Browserify](http://browserify.org/)
 
-#### 5.30 - Module/Package Repository Tools <a id="6.30"></a>
+## 5.30 模块/包管理工具
 
 * [NPM](https://www.npmjs.com/)
 * [yarn](https://yarnpkg.com/)
 * [PNPM](https://pnpm.js.org/)
 
-#### 5.31 - Hosting Tools <a id="6.31"></a>
+## 5.31 托管工具
+
+**通用**
 
 **General**
 
@@ -1034,7 +1040,7 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [DigitalOcean](https://digitalocean.com/) \[$\]
 * [WebFaction](https://www.webfaction.com/) \[$\]
 
-**Static**
+**静态**
 
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/) \[free to $\]
 * [netlify](https://www.netlify.com/) \[free to $\]
@@ -1042,7 +1048,7 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [Surge](https://surge.sh/) \[free to $\]
 * [Forge](https://getforge.com/) \[$\]
 
-#### 5.32 - Project Management & Code Hosting Tools <a id="6.32"></a>
+## 5.32 - 项目管理 & 代码托管工具
 
 * [Assembla](https://www.assembla.com/) \[free to $\]
 * [Bitbucket](https://bitbucket.org/) \[free to $\]
@@ -1051,44 +1057,44 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [GitLab](https://about.gitlab.com/) \[free to $\]
 * [Unfuddle](https://unfuddle.com/) \[$\]
 
-#### 5.33 - Collaboration & Communication Tools <a id="6.33"></a>
+## 5.33 - 协作 & 沟通工具
 
 * [Slack](https://slack.com/) & [screenhero](https://screenhero.com/) \[free to $\]
 * [appear.in](https://appear.in/)
 * [Mattermost](https://mattermost.org/) \[free to $\]
 
-**Code/GitHub Collaboration & Communication:**
+**代码/GitHub 协作 & 沟通:**
 
 * [Gitter](https://gitter.im/) \[free to $\]
 
-#### 5.34 - Content Management Hosted/API Tools <a id="6.34"></a>
+## 5.34 - 托管式内容管理/API 工具
 
-**Headless CMS Tools:**
+**无头 CMS 工具:**
 
 * [Contentful](https://www.contentful.com/) \[$\]
 * [prismic.io](https://prismic.io/) \[free to $\]
 * [Headless](https://www.headless.rest/)
 
-**Self-hosted Headless CMS Tools:**
+**自托管无头 CMS Tools:**
 
 * [Cockpit](https://getcockpit.com/)
 * [Directus 7 App](https://directus.io/)
 
-**Hosted CMS:**
+**托管式 CMS:**
 
 * [LightCMS](https://www.lightcms.com/) \[$\]
 * [Surreal CMS](http://www.surrealcms.com/) \[$\]
 
-**Static CMS Tools:**
+**静态 CMS Tools:**
 
 * [webhook.com](http://www.webhook.com/)
 * [Dato CMS](https://www.datocms.com/)
 * [siteleaf](https://www.siteleaf.com/)
 * [forestry.io](https://forestry.io/)
 
-#### 5.35 - Back-end/API tools <a id="6.35"></a>
+## 5.35 后端/API 工具
 
-**Data/back-end as a service aka BAAS:**
+**数据/后端即服务（BAAS）:**
 
 * [Backendless](https://backendless.com/)
 * [Firebase](https://www.firebase.com/index.html) \[free to $\]
@@ -1096,7 +1102,7 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [restdb.io](https://restdb.io/) \[free to $\]
 * [MongoDB Stitch](https://www.mongodb.com/cloud/stitch)
 
-**Data/back-end**
+**数据/后端**
 
 * [GraphQL](http://graphql.org/)
   * [Apollo](http://www.apollodata.com/)
@@ -1104,17 +1110,17 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [Falcor](https://netflix.github.io/falcor/)
 * [RxDB](https://github.com/pubkey/rxdb)
 
-**User Management as a Service:**
+**用户管理即服务:**
 
 * [Auth0](https://auth0.com/) \[$\]
 * [AuthRocket](https://authrocket.com/)
 * [Okta](https://developer.okta.com/)
 
-**Search**
+**搜索**
 
 * [Algolia](https://www.algolia.com/)
 
-#### 5.36 - Offline Tools <a id="6.36"></a>
+## 5.36 脱机工具
 
 * [Hoodie](http://hood.ie/)
 * [Offline.js](http://github.hubspot.com/offline/docs/welcome/)
@@ -1122,28 +1128,28 @@ If you need a basic set of UI Widgets/Components start with [Semantic UI](http:/
 * [upup](https://www.talater.com/upup/)
 * [Workbox](https://developers.google.com/web/tools/workbox/)
 
-For more tools look [here](https://github.com/pazguille/offline-first#tools).
+更多工具请查阅[这里](https://github.com/pazguille/offline-first#tools)。
 
-#### 5.37 - Security Tools <a id="6.37"></a>
+## 5.37 安全工具
 
-**Coding Tool:**
+**编码工具:**
 
 * [DOMPurify](https://github.com/cure53/DOMPurify)
 * [XSS](http://jsxss.com/en/index.html)
 
-**Security Scanners/Evaluators/Testers:**
+**安全检测/评估/测试工具:**
 
 * [Netsparker](https://www.netsparker.com/)
 * [Websecurify](http://www.websecurify.com/)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
-**References:**
+**参考文档:**
 
 * [HTML5 Security Cheatsheet](https://html5sec.org/)
 
-#### 5.38 - Tasking \(aka Build\) Tools <a id="6.38"></a>
+## 5.38 - 任务 \(构建\) 工具
 
-**Tasking/Build Tools:**
+**任务/构建工具:**
 
 * [Gulp](http://gulpjs.com/)
 
