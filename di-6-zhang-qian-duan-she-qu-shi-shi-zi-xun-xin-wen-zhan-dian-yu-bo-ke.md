@@ -1,7 +1,5 @@
 # 第6章-前端社区、时事资讯、新闻站点与播客
 
-
-
 **通用前端时事资讯、新闻、播客:**
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
