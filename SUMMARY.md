@@ -7,5 +7,5 @@
 * [第2章-前端开发实践-概述](the-practice-of-front-end-development-overview.md)
 * [第3章-前端开发自学课程推荐](learning-front-end-dev-self-directed-resources.md)
 * [第5章-前端开发工具推荐](front-end-dev-tools.md)
-* [第6章-前端社区、时事资讯、新闻站点与播客](front-end-communities-newsletters-newsSites-podcasts.md)
+* [第6章-前端社区、时事资讯、新闻站点与播客](front-end-communities-newsletters-newssites-podcasts.md)
 

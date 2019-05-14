@@ -9,7 +9,7 @@ description: >-
 
 > 互联网是一个由相互连接的计算机网络组成的全球系统，使用 Internet 协议套件\(TCP/IP\)连接全世界数十亿的设备。它是由数百万个地方到全球范围的私有、公共、学术、商业和政府网络所组成的更大的网络，通过一系列广泛的电子、无线和光学网络技术连接在一起。Internet 承载着海量的信息资源和服务，例如超文本文档链接、万维网应用、电子邮件、电话和用于文件分享的对等网络。
 >
-> — [Wikipedi](https://en.wikipedia.org/wiki/Internet)
+> — [Wikipedia](https://en.wikipedia.org/wiki/Internet)
 
 ![&#x56FE;&#x7247;&#x6765;&#x6E90;: https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/](.gitbook/assets/how-the-internet-works.jpg)
 
