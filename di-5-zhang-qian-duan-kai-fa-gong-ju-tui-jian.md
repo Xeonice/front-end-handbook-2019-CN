@@ -8,7 +8,7 @@ description: >-
 
 ## 5.1 文档/API 浏览工具
 
-**用于浏览常用开发人员文档和开发人员 API 参考的工具。**
+**用于浏览常用开发人员文档和 API 参考文档的工具。**
 
 * [Dash](https://kapeli.com/dash) \[OS X, iOS\]\[$\]
 * [DevDocs](http://devdocs.io/)
